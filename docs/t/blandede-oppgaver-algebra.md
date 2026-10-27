@@ -264,6 +264,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 !!! question "Oppgave 29"
     Bestem \(a\) slik at uttrykket
+
     \[
     x^2+ax+16
     \]
@@ -271,6 +272,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 !!! question "Oppgave 30"
     For hvilke verdier av \(k\) har likningen
+
     \[
     x^2+kx+9=0
     \]
@@ -295,6 +297,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 !!! question "Oppgave 33"
     Finn alle reelle tall \(x\) som oppfyller
+
     \[
     (x^2-9)^2=0.
     \]
