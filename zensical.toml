@@ -1,0 +1,37 @@
+[project]
+site_name = "T-matte – steg for steg"
+site_description = "Teori, eksempler og oppgaver i matematikk 1T"
+site_author = "Matteundervisning"
+site_url = "https://smigalni.github.io/tmatte/"
+docs_dir = "docs"
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = [
+  "javascripts/mathjax.js",
+  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+]
+
+nav = [
+  { "Hjem" = "index.md" },
+  { "T-matte" = [
+    { "Kapittel 2 – Algebra" = "t/kapittel-2-algebra.md" },
+  ] },
+]
+
+[project.theme]
+language = "nb"
+features = [
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.markdown_extensions]
+admonition = {}
+pymdownx.arithmatex.generic = true
+pymdownx.details = {}
+pymdownx.superfences = {}
+pymdownx.tasklist.custom_checkbox = true
+
+[project.theme.palette]
+primary = "indigo"
+accent = "teal"
