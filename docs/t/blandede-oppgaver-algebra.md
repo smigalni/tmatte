@@ -219,6 +219,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 !!! question "Oppgave 24"
     Vis at
+    
     \[
     (x+2)^2-(x-2)^2=8x.
     \]
@@ -286,6 +287,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 !!! question "Oppgave 32"
     En elev påstår at
+    
     \[
     \frac{x+2}{x}=2
     \]
