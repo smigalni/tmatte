@@ -325,6 +325,28 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Start med å angi definisjonsmengden. Vær nøye med hva som kan forkortes, og kontroller til slutt.
 
+
+!!! question "Oppgave 36 – Faktoriser med flere variabler"
+    Faktoriser uttrykket så langt som mulig. Husk at store og små bokstaver er ulike variabler.
+
+    \\[
+    12a^2B-18abB^2+6aAB
+    \\]
+
+    Skriv først ut den felles faktoren, og kontroller deretter ved å gange inn igjen.
+
+!!! question "Oppgave 37 – Snu en formel"
+    Formelen nedenfor knytter sammen variablene \\(x,y\\) og konstantene \\(a,b,c\\):
+
+    \\[
+    y=\\frac{ax+b}{c}
+    \\]
+
+    a) Skriv om formelen slik at \\(x\\) står alene på venstre side.
+
+    b) Hvilke betingelser må gjelde for \\(a\\) og \\(c\\) for at uttrykket du får, skal være definert?
+
+
 ---
 
 ## Fasit
@@ -404,3 +426,11 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
     **34.** \(\dfrac{x+2}{(x-2)(x+2)}-\dfrac{4}{(x-2)(x+2)}=\dfrac{x-2}{(x-2)(x+2)}=\dfrac1{x+2}\), med \(x\ne-2,2\). Det blir aldri null for noen tillatt \(x\).
 
     **35.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
+
+??? note "Fasit – oppgave 36 og 37"
+
+    **36.** \\(6aB(2a-3bB+A)\\).
+
+    **37.** a) \\(cy=ax+b\\), dermed \\(ax=cy-b\\), og til slutt \\(x=\\dfrac{cy-b}{a}\\).
+
+    b) Vi må ha \\(c\\ne0\\) i den opprinnelige formelen og \\(a\\ne0\\) for å isolere \\(x\\).
