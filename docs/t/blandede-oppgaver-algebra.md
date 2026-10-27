@@ -268,6 +268,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     \[
     x^2+ax+16
     \]
+
     kan faktoriseres som \((x+b)^2\) for et reelt tall \(b\). Finn alle mulige verdier av \(a\), og begrunn svaret.
 
 !!! question "Oppgave 30"
@@ -276,6 +277,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     \[
     x^2+kx+9=0
     \]
+
     én løsning? Bruk algebraisk resonnering, og forklar hvorfor svaret gir én løsning.
 
 !!! question "Oppgave 31"
@@ -293,6 +295,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     \[
     \frac{x+2}{x}=2
     \]
+
     gir \(x=0\), fordi man kan gange begge sider med \(x\) og få \(x+2=2x\). Undersøk påstanden, finn riktig løsning og forklar hvorfor \(x=0\) ikke kan brukes.
 
 !!! question "Oppgave 33"
