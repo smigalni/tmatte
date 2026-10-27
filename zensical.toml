@@ -14,6 +14,7 @@ nav = [
   { "Hjem" = "index.md" },
   { "T-matte" = [
     { "Kapittel 2 – Algebra" = "t/kapittel-2-algebra.md" },
+    { "Blandede oppgaver – Algebra" = "t/blandede-oppgaver-algebra.md" },
   ] },
 ]
 
