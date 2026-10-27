@@ -341,7 +341,7 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
     **8.** \(3x+2(x-40)=5x-80\) kroner.
 
 ??? note "Fasit – nivå 2"
-    **9.** a) \(4x^2-23x\)  b) \(24x\)  c) \(12\)
+    **9.** a) \(4x^2-23x\)  b) \(24x\)  c) \(18\)
 
     **10.** a) \(6x(2x-3)\)  b) \((x-7)(x+7)\)  c) \((x+5)^2\)
 
