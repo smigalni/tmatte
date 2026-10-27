@@ -13,8 +13,10 @@ extra_javascript = [
 nav = [
   { "Hjem" = "index.md" },
   { "T-matte" = [
-    { "Kapittel 2 – Algebra" = "t/kapittel-2-algebra.md" },
-    { "Blandede oppgaver – Algebra" = "t/blandede-oppgaver-algebra.md" },
+    { "Kapittel 2 – Algebra" = [
+      { "Teori og eksempler" = "t/kapittel-2-algebra.md" },
+      { "Blandede oppgaver" = "t/blandede-oppgaver-algebra.md" },
+    ] },
   ] },
 ]
 
