@@ -316,3 +316,32 @@
 .md-typeset .admonition.question > .admonition-title {
   margin-bottom: .5rem;
 }
+
+
+/* Jevnere vertikal rytme i teorikapittelet: tekst, formler og lister */
+.md-typeset .admonition p {
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+}
+
+.md-typeset .admonition mjx-container[display="true"] {
+  margin-top: .55rem !important;
+  margin-bottom: .55rem !important;
+}
+
+.md-typeset .admonition ul,
+.md-typeset .admonition ol {
+  margin-top: .35rem;
+  margin-bottom: .45rem;
+}
+
+.md-typeset .admonition li {
+  margin-top: .15rem;
+  margin-bottom: .15rem;
+}
+
+/* Samme kompakte formelavstand også utenfor fargede bokser */
+.md-typeset mjx-container[display="true"] {
+  margin-top: .65rem !important;
+  margin-bottom: .65rem !important;
+}
