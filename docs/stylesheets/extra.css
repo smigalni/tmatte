@@ -302,3 +302,17 @@
   border-radius: .5rem .5rem 0 0;
 }
 .md-typeset .admonition.question p:last-child { margin-bottom: .25rem; }
+
+/* Tettere og jevnere avstand inne i oppgaveboksene */
+.md-typeset .admonition.question p {
+  margin-top: .35rem;
+  margin-bottom: .35rem;
+}
+
+.md-typeset .admonition.question mjx-container[display="true"] {
+  margin: .55rem 0 !important;
+}
+
+.md-typeset .admonition.question > .admonition-title {
+  margin-bottom: .5rem;
+}
