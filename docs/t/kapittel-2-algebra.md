@@ -22,9 +22,11 @@ Et algebraisk uttrykk består av tall, bokstaver og regneoperasjoner. I uttrykke
 Du kan bare samle ledd som har samme bokstavdel og samme eksponent.
 
 !!! important "Huskeregel"
+
     \[
     3x+5x=8x
     \]
+
     \[
     4x^2+2x^2=6x^2
     \]
@@ -34,6 +36,7 @@ Du kan bare samle ledd som har samme bokstavdel og samme eksponent.
 !!! example "Eksempel 1 – Forenkle et uttrykk"
 
     Forenkle
+
     \[
     4x+3-2x+7.
     \]
@@ -51,6 +54,7 @@ Du kan bare samle ledd som har samme bokstavdel og samme eksponent.
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{2x+10}}
     \]
@@ -62,6 +66,7 @@ Når et minustegn står foran en parentes, skifter alle leddene i parentesen for
 !!! example "Eksempel 2 – Minus foran parentes"
 
     Forenkle
+
     \[
     5x-(2x-4).
     \]
@@ -73,6 +78,7 @@ Når et minustegn står foran en parentes, skifter alle leddene i parentesen for
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{3x+4}}
     \]
@@ -96,9 +102,11 @@ Når et minustegn står foran en parentes, skifter alle leddene i parentesen for
 For å gange et tall eller et uttrykk inn i en parentes må hvert ledd i parentesen ganges.
 
 !!! important "Distribusjonsregelen"
+
     \[
     a(b+c)=ab+ac
     \]
+
     \[
     a(b-c)=ab-ac
     \]
@@ -106,6 +114,7 @@ For å gange et tall eller et uttrykk inn i en parentes må hvert ledd i parente
 !!! example "Eksempel 3 – Gange inn i parentes"
 
     Regn ut og forenkle
+
     \[
     3(2x-5)+2(x+4).
     \]
@@ -115,6 +124,7 @@ For å gange et tall eller et uttrykk inn i en parentes må hvert ledd i parente
     \[
     3(2x-5)=6x-15
     \]
+
     \[
     2(x+4)=2x+8
     \]
@@ -126,6 +136,7 @@ For å gange et tall eller et uttrykk inn i en parentes må hvert ledd i parente
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{8x-7}}
     \]
@@ -150,16 +161,19 @@ Kvadratsetningene gjør det mulig å gange parenteser raskt og sikkert. Du bør 
 
 !!! important "De tre kvadratsetningene"
     **Første kvadratsetning**
+
     \[
     (a+b)^2=a^2+2ab+b^2
     \]
 
     **Andre kvadratsetning**
+
     \[
     (a-b)^2=a^2-2ab+b^2
     \]
 
     **Konjugatsetningen**
+
     \[
     (a+b)(a-b)=a^2-b^2
     \]
@@ -201,6 +215,7 @@ Midterleddet kommer fra de to produktene \(3x\) og \(3x\).
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{4x^2+20x+25}}
     \]
@@ -208,6 +223,7 @@ Midterleddet kommer fra de to produktene \(3x\) og \(3x\).
 !!! example "Eksempel 5 – Bruk konjugatsetningen"
 
     Regn ut
+
     \[
     (3x+4)(3x-4).
     \]
@@ -219,6 +235,7 @@ Midterleddet kommer fra de to produktene \(3x\) og \(3x\).
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{9x^2-16}}
     \]
@@ -252,6 +269,7 @@ Se først etter en faktor som alle leddene har til felles.
 !!! example "Eksempel 6 – Trekk ut felles faktor"
 
     Faktoriser
+
     \[
     8x^2+12x.
     \]
@@ -263,6 +281,7 @@ Se først etter en faktor som alle leddene har til felles.
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{4x(2x+3)}}
     \]
@@ -288,11 +307,13 @@ x^2-a^2=(x+a)(x-a)
 !!! example "Eksempel 7 – Faktoriser en differanse av kvadrater"
 
     Faktoriser
+
     \[
     9x^2-25.
     \]
 
     Begge leddene er kvadrater:
+
     \[
     9x^2=(3x)^2,\qquad 25=5^2.
     \]
@@ -304,6 +325,7 @@ x^2-a^2=(x+a)(x-a)
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{(3x+5)(3x-5)}}
     \]
@@ -338,6 +360,7 @@ En algebraisk brøk fungerer som en vanlig brøk, men teller og nevner kan inneh
 
 !!! important "Viktig regel"
     En brøk med nevner \(x-3\) er ikke definert når \(x=3\), fordi
+
     \[
     x-3=0 \quad\text{når}\quad x=3.
     \]
@@ -349,6 +372,7 @@ Du kan forkorte når teller og nevner har en felles faktor. Du kan ikke forkorte
 !!! example "Eksempel 8 – Forkort en algebraisk brøk"
 
     Forkort
+
     \[
     \frac{6x^2}{9x}.
     \]
@@ -366,6 +390,7 @@ Du kan forkorte når teller og nevner har en felles faktor. Du kan ikke forkorte
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{\frac{2x}{3}}},\qquad x\ne0
     \]
@@ -375,6 +400,7 @@ Du kan forkorte når teller og nevner har en felles faktor. Du kan ikke forkorte
 !!! example "Eksempel 9 – Faktoriser før du forkorter"
 
     Forenkle
+
     \[
     \frac{x^2-9}{x-3}.
     \]
@@ -392,6 +418,7 @@ Du kan forkorte når teller og nevner har en felles faktor. Du kan ikke forkorte
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{x+3}},\qquad x\ne3
     \]
@@ -420,10 +447,13 @@ For å løse en likning kan du gjøre samme regneoperasjon på begge sider. Når
 
 !!! important "Nullproduktregelen"
     Hvis
+
     \[
     A\cdot B=0,
     \]
+
     må minst én av faktorene være null:
+
     \[
     A=0 \quad\text{eller}\quad B=0.
     \]
@@ -431,6 +461,7 @@ For å løse en likning kan du gjøre samme regneoperasjon på begge sider. Når
 !!! example "Eksempel 10 – Løs en likning ved faktorisering"
 
     Løs
+
     \[
     x^2-5x+6=0.
     \]
@@ -450,6 +481,7 @@ For å løse en likning kan du gjøre samme regneoperasjon på begge sider. Når
     \]
 
     Dermed må
+
     \[
     x-2=0 \quad\text{eller}\quad x-3=0.
     \]
@@ -461,6 +493,7 @@ For å løse en likning kan du gjøre samme regneoperasjon på begge sider. Når
     \]
 
     **Svar:**
+
     \[
     \underline{\underline{x=2\ \text{eller}\ x=3}}
     \]
