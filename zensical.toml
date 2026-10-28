@@ -16,6 +16,8 @@ nav = [
     { "Kapittel 2 – Algebra" = [
       { "Teori og eksempler" = "t/kapittel-2-algebra.md" },
       { "Blandede oppgaver" = "t/blandede-oppgaver-algebra.md" },
+      { "Programmering – funksjoner og lister" = "t/funksjoner-og-lister-python.md" },
+      { "Blandede oppgaver – programmering" = "t/blandede-oppgaver-programmering.md" },
     ] },
   ] },
 ]
