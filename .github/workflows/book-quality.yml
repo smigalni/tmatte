@@ -1,0 +1,15 @@
+name: Book quality
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    # Shared workflow maintained in the matte repository.
+    # Switch the ref to main after the shared workflow is merged there.
+    uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@feature/kapittel-3-derivasjon-komplett
