@@ -485,7 +485,7 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **28.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
 
-    **29.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
+    **29.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow 2(x-5)(x+12)=0\). Siden lengder er positive, er \(x=5\). Katetene er \(5\) cm og \(12\) cm.
 
     **30.** \((x+3)^2=x^2+30\Rightarrow6x+9=30\Rightarrow x=\dfrac72\).
 
