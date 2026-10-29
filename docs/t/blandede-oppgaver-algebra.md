@@ -346,7 +346,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     b) Hvilke betingelser må gjelde for \(a\) og \(c\) for at uttrykket du får, skal være definert?
 
-## Ekstra oppgaver – forhold, proporsjonalitet og formler
+## Forhold, proporsjonalitet og formler
 
 !!! question "Oppgave 38 – Forhold"
     Forkort forholdet \(18:30\) så langt som mulig. Forklar med hvilket tall du deler begge leddene.
