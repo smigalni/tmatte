@@ -175,7 +175,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     Utvid parentesen, samle alle ledd på én side, og løs likningen ved faktorisering.
 
 !!! question "Oppgave 21 – Proporsjonale størrelser"
-    \(y\) er direkte proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
+    \(y\) er proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
 
     a) Finn konstanten \(k\) i formelen \(y=kx\).
 
