@@ -433,98 +433,100 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **4.** \(c=\sqrt{3^2+4^2}=\sqrt{25}=5\) cm.
 
-    **4.** \(c=\sqrt{3^2+4^2}=\sqrt{25}=5\) cm.
+    **5.** a) \(6(x+3)\)  b) \(5x(2x-3)\)  c) \(4a(2a+3)\)
 
-    **5.** a) \(x=5\)  b) \(x=7\)  c) \(x=0\) eller \(x=5\)
+    **6.** a) \(x=5\)  b) \(x=7\)  c) \(x=0\) eller \(x=5\)
 
-    **6.** a) \(2x\)  b) \(x+3\), men \(x\ne3\)  c) \(x+2\)
+    **7.** a) \(2x\)  b) \(x+3\), men \(x\ne3\)  c) \(x+2\)
 
-    **7.** a) \(2x-10\)  b) \(2x^2+7x+3\)  c) \(9x^2-4\)
+    **8.** a) \(2x-10\)  b) \(2x^2+7x+3\)  c) \(9x^2-4\)
 
-    **8.** \(3x+2(x-40)=5x-80\) kroner.
+    **9.** \(3x+2(x-40)=5x-80\) kroner.
 
-    **9.** \(18:30=3:5\). Del begge leddene på \(6\).
+    **10.** \(18:30=3:5\). Del begge leddene på \(6\).
 
-    **10.** a) \(10\) dl vann. b) \(6\) dl saft krever \(15\) dl vann, altså \(21\) dl blanding til sammen.
+    **11.** a) \(10\) dl vann. b) \(6\) dl saft krever \(15\) dl vann, altså \(21\) dl blanding til sammen.
 
 ??? note "Fasit – nivå 2"
 
-    **11.** a) \(4x^2-23x\)  b) \(24x\)  c) \(18\)
+    **12.** a) \(4x^2-23x\)  b) \(24x\)  c) \(18\)
 
-    **12.** a) \(6x(2x-3)\)  b) \((x-7)(x+7)\)  c) \((x+5)^2\)
+    **13.** a) \(6x(2x-3)\)  b) \((x-7)(x+7)\)  c) \((x+5)^2\)
 
-    **13.** \(\dfrac{(x-4)(x+4)}{(x+4)^2}=\dfrac{x-4}{x+4}\), der \(x\ne-4\).
+    **14.** \(\dfrac{(x-4)(x+4)}{(x+4)^2}=\dfrac{x-4}{x+4}\), der \(x\ne-4\).
 
-    **14.** a) \(x=\pm5\)  b) \(x=0\) eller \(x=-7\)  c) \(x=3\) eller \(x=-\dfrac52\)
+    **15.** a) \(x=\pm5\)  b) \(x=0\) eller \(x=-7\)  c) \(x=3\) eller \(x=-\dfrac52\)
 
-    **15.** Riktig: \((x+4)^2=x^2+8x+16\). Midterleddet \(8x\) mangler i elevens svar.
+    **16.** Riktig: \((x+4)^2=x^2+8x+16\). Midterleddet \(8x\) mangler i elevens svar.
 
-    **16.** Første: \(\dfrac{5}{x}\), \(x\ne0\). Andre: \(\dfrac{2x+2}{x(x+2)}\), \(x\ne0,-2\).
+    **17.** Første: \(\dfrac{5}{x}\), \(x\ne0\). Andre: \(\dfrac{2x+2}{x(x+2)}\), \(x\ne0,-2\).
 
-    **17.** a) \(x^2+3x-10\)  b) \(4x+6\)  c) \(x>2\).
+    **18.** a) \(x^2+3x-10\)  b) \(4x+6\)  c) \(x>2\).
 
-    **18.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
+    **19.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
 
-    **18.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
+    **20.** \(x^2+4x+4=3x+10\Rightarrow x^2+x-6=0\Rightarrow(x+3)(x-2)=0\). Altså \(x=-3\) eller \(x=2\).
 
-    **19.** a) \(k=\dfrac{10}{4}=2{,}5\), altså \(y=2{,}5x\). b) \(y=2{,}5\cdot12=30\).
+    **21.** a) \(k=\dfrac{10}{4}=2{,}5\), altså \(y=2{,}5x\). b) \(y=2{,}5\cdot12=30\).
 
-    **20.** Direkte proporsjonale, fordi forholdet \(\dfrac{y}{x}\) alltid er \(2{,}5\). Formelen er \(y=2{,}5x\).
+    **22.** Direkte proporsjonale, fordi forholdet \(\dfrac{y}{x}\) alltid er \(2{,}5\). Formelen er \(y=2{,}5x\).
 
 ??? note "Fasit – nivå 3"
 
-    **21.** \(\dfrac{(x-3)(x+3)}{(x+3)(x-2)}=\dfrac{x-3}{x-2}\), med \(x\ne-3,2\).
+    **23.** \(\dfrac{(x-3)(x+3)}{(x+3)(x-2)}=\dfrac{x-3}{x-2}\), med \(x\ne-3,2\).
 
-    **22.** \(\dfrac{2(x+1)-(x-1)}{(x-1)(x+1)}=\dfrac{x+3}{x^2-1}\), med \(x\ne-1,1\).
+    **24.** \(\dfrac{2(x+1)-(x-1)}{(x-1)(x+1)}=\dfrac{x+3}{x^2-1}\), med \(x\ne-1,1\).
 
-    **23.** a) \(2(x-2)(x+2)\)  b) \((x-5)(x+3)\)  c) \(3(x+2)^2\)
+    **25.** a) \(2(x-2)(x+2)\)  b) \((x-5)(x+3)\)  c) \(3(x+2)^2\)
 
-    **24.** \(x+1=3(x-2)\Rightarrow x=\dfrac72\). Tillatt siden \(x\ne2\).
+    **26.** \(x+1=3(x-2)\Rightarrow x=\dfrac72\). Tillatt siden \(x\ne2\).
 
-    **25.** \((x-6)(x+2)=0\Rightarrow x=6\) eller \(x=-2\).
+    **27.** \((x-6)(x+2)=0\Rightarrow x=6\) eller \(x=-2\).
 
-    **26.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
+    **28.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
 
-    **27.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
+    **29.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
 
-    **27.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
+    **30.** \((x+3)^2=x^2+30\Rightarrow6x+9=30\Rightarrow x=\dfrac72\).
 
-    **28.** Utvid begge kvadratene: \(x^2+4x+4-(x^2-4x+4)=8x\).
+    **31.** Utvid begge kvadratene: \(x^2+4x+4-(x^2-4x+4)=8x\).
 
-    **29.** \(x^2-1-(x^2-3x)=3x-1\). Uttrykket blir null når \(x=\dfrac13\).
+    **32.** \(x^2-1-(x^2-3x)=3x-1\). Uttrykket blir null når \(x=\dfrac13\).
 
-    **30.** \(x\ne3,-1\). \(x(x+1)=2(x-3)\Rightarrow x^2-x+6=0\). Diskriminanten er \(1-24=-23<0\), så likningen har ingen reelle løsninger.
+    **33.** \(x\ne3,-1\). \(x(x+1)=2(x-3)\Rightarrow x^2-x+6=0\). Diskriminanten er \(1-24=-23<0\), så likningen har ingen reelle løsninger.
 
-    **31.** a) \(k=xy=3\cdot8=24\). b) \(y=\dfrac{24}{12}=2\).
+    **34.** a) \(k=xy=3\cdot8=24\). b) \(y=\dfrac{24}{12}=2\).
 
-    **32.** \(6\cdot10=15t\), så \(t=4\) timer. Produktet av antall arbeidere og tid er konstant.
+    **35.** \(6\cdot10=15t\), så \(t=4\) timer. Produktet av antall arbeidere og tid er konstant.
 
-    **33.** \(2A=gh\), dermed \(h=\dfrac{2A}{g}\). Vi må ha \(g\ne0\).
+    **36.** \(2A=gh\), dermed \(h=\dfrac{2A}{g}\). Vi må ha \(g\ne0\).
 
-    **34.** a) \(vt=s\), dermed \(t=\dfrac{s}{v}\). b) Vi må ha \(v\ne0\).
+    **37.** a) \(vt=s\), dermed \(t=\dfrac{s}{v}\). b) Vi må ha \(v\ne0\).
 
 ??? note "Fasit – nivå 4"
 
-    **35.** \(\dfrac{(x-2)(x-3)}{(x-3)(x+3)}\cdot\dfrac{x+3}{x-2}=1\), med \(x\ne-3,2,3\).
+    **38.** \(\dfrac{(x-2)(x-3)}{(x-3)(x+3)}\cdot\dfrac{x+3}{x-2}=1\), med \(x\ne-3,2,3\).
 
-    **36.** \(x\ne\pm1\). \(\dfrac{2x}{x^2-1}=\dfrac34\Rightarrow8x=3x^2-3\Rightarrow3x^2-8x-3=0\). Dermed \(x=3\) eller \(x=-\dfrac13\). Begge er tillatt.
+    **39.** \(x\ne\pm1\). \(\dfrac{2x}{x^2-1}=\dfrac34\Rightarrow8x=3x^2-3\Rightarrow3x^2-8x-3=0\). Dermed \(x=3\) eller \(x=-\dfrac13\). Begge er tillatt.
 
-    **37.** \((x+b)^2=x^2+2bx+b^2\). Siden \(b^2=16\), er \(b=\pm4\), og \(a=2b\). Dermed \(a=8\) eller \(a=-8\).
+    **40.** \((x+b)^2=x^2+2bx+b^2\). Siden \(b^2=16\), er \(b=\pm4\), og \(a=2b\). Dermed \(a=8\) eller \(a=-8\).
 
-    **38.** Én løsning når uttrykket er et fullstendig kvadrat: \(x^2+kx+9=(x\pm3)^2\). Da er \(k=6\) eller \(k=-6\).
+    **41.** Én løsning når uttrykket er et fullstendig kvadrat: \(x^2+kx+9=(x\pm3)^2\). Da er \(k=6\) eller \(k=-6\).
 
-    **39.** Definisjonsmengden krever \(x\ne1\). For \(x\ne1\) er venstresiden \(x+1\), så \(x+1=x+3\), som er umulig. Ingen løsninger.
+    **42.** Definisjonsmengden krever \(x\ne1\). For \(x\ne1\) er venstresiden \(x+1\), så \(x+1=x+3\), som er umulig. Ingen løsninger.
 
-    **40.** \(x\ne0\). \(x+2=2x\Rightarrow x=2\). \(x=0\) er ikke tillatt i det opprinnelige uttrykket.
+    **43.** \(x\ne0\). \(x+2=2x\Rightarrow x=2\). \(x=0\) er ikke tillatt i det opprinnelige uttrykket.
 
-    **41.** \((x^2-9)^2=0\Rightarrow x^2-9=0\Rightarrow(x-3)(x+3)=0\). Dermed \(x=3\) eller \(x=-3\).
+    **44.** \((x^2-9)^2=0\Rightarrow x^2-9=0\Rightarrow(x-3)(x+3)=0\). Dermed \(x=3\) eller \(x=-3\).
 
-    **42.** \(\dfrac{x+2}{(x-2)(x+2)}-\dfrac{4}{(x-2)(x+2)}=\dfrac{x-2}{(x-2)(x+2)}=\dfrac1{x+2}\), med \(x\ne-2,2\). Det blir aldri null for noen tillatt \(x\).
+    **45.** \(\dfrac{x+2}{(x-2)(x+2)}-\dfrac{4}{(x-2)(x+2)}=\dfrac{x-2}{(x-2)(x+2)}=\dfrac1{x+2}\), med \(x\ne-2,2\). Det blir aldri null for noen tillatt \(x\).
 
-    **43.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
+    **46.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
 
-    **44.** \(6aB(2a-3bB+A)\).
+    **47.** \(6aB(2a-3bB+A)\).
 
-    **45.** a) \(cy=ax+b\), dermed \(ax=cy-b\), og til slutt \(x=\dfrac{cy-b}{a}\).
+    **48.** a) \(cy=ax+b\), dermed \(ax=cy-b\), og til slutt \(x=\dfrac{cy-b}{a}\).
 
     b) Vi må ha \(c\ne0\) i den opprinnelige formelen og \(a\ne0\) for å isolere \(x\).
+
+
