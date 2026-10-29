@@ -329,22 +329,82 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 !!! question "Oppgave 36 – Faktoriser med flere variabler"
     Faktoriser uttrykket så langt som mulig. Husk at store og små bokstaver er ulike variabler.
 
-    \\[
+    \[
     12a^2B-18abB^2+6aAB
-    \\]
+    \]
 
     Skriv først ut den felles faktoren, og kontroller deretter ved å gange inn igjen.
 
 !!! question "Oppgave 37 – Snu en formel"
-    Formelen nedenfor knytter sammen variablene \\(x,y\\) og konstantene \\(a,b,c\\):
+    Formelen nedenfor knytter sammen variablene \(x,y\) og konstantene \(a,b,c\):
 
-    \\[
-    y=\\frac{ax+b}{c}
-    \\]
+    \[
+    y=\frac{ax+b}{c}
+    \]
 
-    a) Skriv om formelen slik at \\(x\\) står alene på venstre side.
+    a) Skriv om formelen slik at \(x\) står alene på venstre side.
 
-    b) Hvilke betingelser må gjelde for \\(a\\) og \\(c\\) for at uttrykket du får, skal være definert?
+    b) Hvilke betingelser må gjelde for \(a\) og \(c\) for at uttrykket du får, skal være definert?
+
+## Ekstra oppgaver – forhold, proporsjonalitet og formler
+
+!!! question "Oppgave 38 – Forhold"
+    Forkort forholdet \(18:30\) så langt som mulig. Forklar med hvilket tall du deler begge leddene.
+
+!!! question "Oppgave 39 – Forhold i en oppskrift"
+    Saft blandes med vann i forholdet \(2:5\).
+
+    a) Hvor mange desiliter vann trenger du hvis du bruker \(4\) dl saft?
+
+    b) Hvor mye saft og vann trenger du til sammen hvis du bruker \(6\) dl saft og beholder samme forhold?
+
+!!! question "Oppgave 40 – Proporsjonale størrelser"
+    \(y\) er direkte proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
+
+    a) Finn konstanten \(k\) i formelen \(y=kx\).
+
+    b) Finn \(y\) når \(x=12\).
+
+!!! question "Oppgave 41 – Omvendt proporsjonale størrelser"
+    \(y\) er omvendt proporsjonal med \(x\), slik at \(y=\frac{k}{x}\). Når \(x=3\), er \(y=8\).
+
+    a) Finn konstanten \(k\).
+
+    b) Finn \(y\) når \(x=12\).
+
+!!! question "Oppgave 42 – Direkte eller omvendt proporsjonal?"
+    Se på tabellen:
+
+    | \(x\) | 2 | 4 | 6 |
+    |---|---:|---:|---:|
+    | \(y\) | 5 | 10 | 15 |
+
+    Er \(x\) og \(y\) direkte proporsjonale, omvendt proporsjonale eller ingen av delene? Begrunn svaret, og skriv en formel som knytter \(x\) og \(y\) sammen.
+
+!!! question "Oppgave 43 – Omvendt proporsjonalitet i praksis"
+    Seks arbeidere bruker \(10\) timer på en jobb. Vi antar at alle arbeider like raskt, og at arbeidsmengden er den samme.
+
+    Hvor lang tid vil \(15\) arbeidere bruke? Vis hvorfor dette er et eksempel på omvendt proporsjonalitet.
+
+!!! question "Oppgave 44 – Snu en formel med areal"
+    Arealet av en trekant er gitt ved
+
+    \[
+    A=\frac{gh}{2}
+    \]
+
+    Skriv om formelen slik at \(h\) står alene. Oppgi også hvilken verdi \(g\) ikke kan ha hvis du skal finne \(h\) fra formelen.
+
+!!! question "Oppgave 45 – Snu en formel med fart"
+    Sammenhengen mellom strekning \(s\), fart \(v\) og tid \(t\) er
+
+    \[
+    v=\frac{s}{t}
+    \]
+
+    a) Skriv om formelen slik at \(t\) står alene.
+
+    b) Hvilken verdi kan \(v\) ikke ha hvis du skal finne \(t\) fra den omskrevne formelen?
 
 
 ---
@@ -427,10 +487,26 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **35.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
 
-??? note "Fasit – oppgave 36 og 37"
+??? note "Fasit – oppgave 36–45"
 
-    **36.** \\(6aB(2a-3bB+A)\\).
+    **36.** \(6aB(2a-3bB+A)\).
 
-    **37.** a) \\(cy=ax+b\\), dermed \\(ax=cy-b\\), og til slutt \\(x=\\dfrac{cy-b}{a}\\).
+    **37.** a) \(cy=ax+b\), dermed \(ax=cy-b\), og til slutt \(x=\dfrac{cy-b}{a}\).
 
-    b) Vi må ha \\(c\\ne0\\) i den opprinnelige formelen og \\(a\\ne0\\) for å isolere \\(x\\).
+    b) Vi må ha \(c\ne0\) i den opprinnelige formelen og \(a\ne0\) for å isolere \(x\).
+
+    **38.** \(18:30=3:5\). Del begge leddene på \(6\).
+
+    **39.** a) \(10\) dl vann. b) \(6\) dl saft krever \(15\) dl vann, altså \(21\) dl blanding til sammen.
+
+    **40.** a) \(k=\dfrac{10}{4}=2{,}5\), altså \(y=2{,}5x\). b) \(y=2{,}5\cdot12=30\).
+
+    **41.** a) \(k=xy=3\cdot8=24\). b) \(y=\dfrac{24}{12}=2\).
+
+    **42.** Direkte proporsjonale, fordi forholdet \(\dfrac{y}{x}\) alltid er \(2{,}5\). Formelen er \(y=2{,}5x\).
+
+    **43.** \(6\cdot10=15t\), så \(t=4\) timer. Produktet av antall arbeidere og tid er konstant.
+
+    **44.** \(2A=gh\), dermed \(h=\dfrac{2A}{g}\). Vi må ha \(g\ne0\).
+
+    **45.** a) \(vt=s\), dermed \(t=\dfrac{s}{v}\). b) Vi må ha \(v\ne0\).
