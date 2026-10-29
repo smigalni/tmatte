@@ -37,7 +37,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((x+4)(x-4)\)
 
-!!! question "Oppgave 4"
+!!! question "Oppgave 4 – Pytagoras"
+    En rettvinklet trekant har kateter på \(3\) cm og \(4\) cm.
+
+    Finn lengden av hypotenusen. Vis hvordan du bruker Pytagoras' setning.
+
+!!! question "Oppgave 5"
     Faktoriser ved å trekke ut felles faktor:
     
     a) \(6x+18\)
@@ -46,7 +51,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(8a^2+12a\)
 
-!!! question "Oppgave 5"
+!!! question "Oppgave 6"
     Løs likningene:
     
     a) \(3x+7=22\)
@@ -55,7 +60,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(x(x-5)=0\)
 
-!!! question "Oppgave 6"
+!!! question "Oppgave 7"
     Forenkle brøkuttrykkene. Oppgi hvilke verdier av \(x\) som ikke er tillatt.
     
     a) \(\dfrac{6x}{3}\)
@@ -64,7 +69,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(\dfrac{4x+8}{4}\)
 
-!!! question "Oppgave 7"
+!!! question "Oppgave 8"
     Regn ut og forenkle:
     
     a) \(2(3x-1)-4(x+2)\)
@@ -73,13 +78,13 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((3x-2)(3x+2)\)
 
-!!! question "Oppgave 8"
+!!! question "Oppgave 9"
     En kinobillett for voksne koster \(x\) kroner. En barnebillett koster 40 kroner mindre. Skriv et uttrykk for prisen for 3 voksenbilletter og 2 barnebilletter. Forenkle uttrykket.
 
-!!! question "Oppgave 9 – Forhold"
+!!! question "Oppgave 10 – Forhold"
     Forkort forholdet \(18:30\) så langt som mulig. Forklar med hvilket tall du deler begge leddene.
 
-!!! question "Oppgave 10 – Forhold i en oppskrift"
+!!! question "Oppgave 11 – Forhold i en oppskrift"
     Saft blandes med vann i forholdet \(2:5\).
 
     a) Hvor mange desiliter vann trenger du hvis du bruker \(4\) dl saft?
@@ -88,7 +93,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 ## Nivå 2 – På vei mot karakter 4
 
-!!! question "Oppgave 11"
+!!! question "Oppgave 12"
     Forenkle så langt som mulig:
     
     a) \(3x(2x-5)-2x(x+4)\)
@@ -97,7 +102,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(2(x-3)^2-(2x^2-12x)\)
 
-!!! question "Oppgave 12"
+!!! question "Oppgave 13"
     Faktoriser fullstendig:
     
     a) \(12x^2-18x\)
@@ -106,14 +111,14 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(x^2+10x+25\)
 
-!!! question "Oppgave 13"
+!!! question "Oppgave 14"
     Forenkle brøkuttrykket og oppgi alle verdier som ikke er tillatt:
     
     \[
     \frac{x^2-16}{x^2+8x+16}.
     \]
 
-!!! question "Oppgave 14"
+!!! question "Oppgave 15"
     Løs likningene:
     
     a) \(x^2-25=0\)
@@ -122,7 +127,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((x-3)(2x+5)=0\)
 
-!!! question "Oppgave 15"
+!!! question "Oppgave 16"
     Finn feilen i utregningen, og skriv riktig svar:
     
     \[
@@ -131,7 +136,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Forklar kort hvorfor svaret er feil.
 
-!!! question "Oppgave 16"
+!!! question "Oppgave 17"
     Forenkle:
     
     \[
@@ -146,7 +151,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi hvilke verdier av \(x\) som ikke er tillatt.
 
-!!! question "Oppgave 17"
+!!! question "Oppgave 18"
     Et rektangel har sidelengder \(x+5\) og \(x-2\).
     
     a) Skriv et forenklet uttrykk for arealet.
@@ -155,7 +160,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) Hvilke verdier av \(x\) gir mening for sidelengdene?
 
-!!! question "Oppgave 18"
+!!! question "Oppgave 19 – Pytagoras i praksis"
+    En stige på \(5\) meter står mot en loddrett vegg. Foten av stigen står \(3\) meter fra veggen.
+
+    Hvor høyt opp på veggen når stigen? Tegn gjerne en skisse, og vis utregningen.
+
+!!! question "Oppgave 20"
     Løs likningen:
     
     \[
@@ -164,14 +174,14 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Vis hvordan du får en likning som kan løses ved faktorisering.
 
-!!! question "Oppgave 19 – Proporsjonale størrelser"
+!!! question "Oppgave 21 – Proporsjonale størrelser"
     \(y\) er direkte proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
 
     a) Finn konstanten \(k\) i formelen \(y=kx\).
 
     b) Finn \(y\) når \(x=12\).
 
-!!! question "Oppgave 20 – Direkte eller omvendt proporsjonal?"
+!!! question "Oppgave 22 – Direkte eller omvendt proporsjonal?"
     Se på tabellen:
 
     | \(x\) | 2 | 4 | 6 |
@@ -182,14 +192,14 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 ## Nivå 3 – Sikt mot karakter 5 eller 6
 
-!!! question "Oppgave 21"
+!!! question "Oppgave 23"
     Forenkle helt og oppgi verdier som ikke er tillatt:
     
     \[
     \frac{x^2-9}{x^2+x-6}.
     \]
 
-!!! question "Oppgave 22"
+!!! question "Oppgave 24"
     Forenkle:
     
     \[
@@ -198,7 +208,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi hvilke verdier av \(x\) som ikke er tillatt.
 
-!!! question "Oppgave 23"
+!!! question "Oppgave 25"
     Faktoriser fullstendig:
     
     a) \(2x^2-8\)
@@ -207,7 +217,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(3x^2+12x+12\)
 
-!!! question "Oppgave 24"
+!!! question "Oppgave 26"
     Løs likningen:
     
     \[
@@ -216,7 +226,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Husk å kontrollere at løsningen er tillatt.
 
-!!! question "Oppgave 25"
+!!! question "Oppgave 27"
     Løs likningen:
     
     \[
@@ -225,7 +235,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Vis hvordan faktorisering kan brukes.
 
-!!! question "Oppgave 26"
+!!! question "Oppgave 28"
     Forenkle uttrykket så langt som mulig:
     
     \[
@@ -234,7 +244,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi alle verdier som ikke er tillatt i det opprinnelige uttrykket.
 
-!!! question "Oppgave 27"
+!!! question "Oppgave 29 – Pytagoras og likning"
+    En rettvinklet trekant har kateter med lengder \(x\) cm og \(x+7\) cm, og hypotenusen er \(13\) cm.
+
+    Sett opp en likning ved hjelp av Pytagoras' setning, og finn begge katetene.
+
+!!! question "Oppgave 30"
     Et tall \(x\) økes med 3, og resultatet kvadreres. Dette er lik \(x^2+30\).
     
     a) Sett opp en likning.
@@ -243,7 +258,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) Kontroller løsningene ved å sette dem inn i den opprinnelige likningen.
 
-!!! question "Oppgave 28"
+!!! question "Oppgave 31"
     Vis at
     
     \[
@@ -252,7 +267,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Bruk algebra, og forklar hvorfor \(x^2\)-leddene forsvinner.
 
-!!! question "Oppgave 29"
+!!! question "Oppgave 32"
     Forenkle og faktoriser svaret så langt som mulig:
     
     \[
@@ -261,7 +276,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Kan svaret bli null? Begrunn.
 
-!!! question "Oppgave 30"
+!!! question "Oppgave 33"
     Løs likningen:
     
     \[
@@ -270,19 +285,19 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi først hvilke verdier som ikke er tillatt, og kontroller løsningene etterpå.
 
-!!! question "Oppgave 31 – Omvendt proporsjonale størrelser"
+!!! question "Oppgave 34 – Omvendt proporsjonale størrelser"
     \(y\) er omvendt proporsjonal med \(x\), slik at \(y=\frac{k}{x}\). Når \(x=3\), er \(y=8\).
 
     a) Finn konstanten \(k\).
 
     b) Finn \(y\) når \(x=12\).
 
-!!! question "Oppgave 32 – Omvendt proporsjonalitet i praksis"
+!!! question "Oppgave 35 – Omvendt proporsjonalitet i praksis"
     Seks arbeidere bruker \(10\) timer på en jobb. Vi antar at alle arbeider like raskt, og at arbeidsmengden er den samme.
 
     Hvor lang tid vil \(15\) arbeidere bruke? Vis hvorfor dette er et eksempel på omvendt proporsjonalitet.
 
-!!! question "Oppgave 33 – Snu en formel med areal"
+!!! question "Oppgave 36 – Snu en formel med areal"
     Arealet av en trekant er gitt ved
 
     \[
@@ -291,7 +306,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     Skriv om formelen slik at \(h\) står alene. Oppgi også hvilken verdi \(g\) ikke kan ha hvis du skal finne \(h\) fra formelen.
 
-!!! question "Oppgave 34 – Snu en formel med fart"
+!!! question "Oppgave 37 – Snu en formel med fart"
     Sammenhengen mellom strekning \(s\), fart \(v\) og tid \(t\) er
 
     \[
@@ -304,14 +319,14 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
 ## Nivå 4 – Ekstra utfordring
 
-!!! question "Oppgave 35"
+!!! question "Oppgave 38"
     Forenkle uttrykket og oppgi alle verdier som ikke er tillatt:
     
     \[
     \frac{x^2-5x+6}{x^2-9}\cdot\frac{x+3}{x-2}.
     \]
 
-!!! question "Oppgave 36"
+!!! question "Oppgave 39"
     Løs likningen:
     
     \[
@@ -320,7 +335,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Husk definisjonsmengden og kontroller begge mulige løsninger.
 
-!!! question "Oppgave 37"
+!!! question "Oppgave 40"
     Bestem \(a\) slik at uttrykket
 
     \[
@@ -329,7 +344,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     kan faktoriseres som \((x+b)^2\) for et reelt tall \(b\). Finn alle mulige verdier av \(a\), og begrunn svaret.
 
-!!! question "Oppgave 38"
+!!! question "Oppgave 41"
     For hvilke verdier av \(k\) har likningen
 
     \[
@@ -338,7 +353,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     én løsning? Bruk algebraisk resonnering, og forklar hvorfor svaret gir én løsning.
 
-!!! question "Oppgave 39"
+!!! question "Oppgave 42"
     Løs likningen:
     
     \[
@@ -347,7 +362,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Forklar hvorfor det er viktig å ta hensyn til uttrykket før forkorting.
 
-!!! question "Oppgave 40"
+!!! question "Oppgave 43"
     En elev påstår at
     
     \[
@@ -356,7 +371,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     gir \(x=0\), fordi man kan gange begge sider med \(x\) og få \(x+2=2x\). Undersøk påstanden, finn riktig løsning og forklar hvorfor \(x=0\) ikke kan brukes.
 
-!!! question "Oppgave 41"
+!!! question "Oppgave 44"
     Finn alle reelle tall \(x\) som oppfyller
 
     \[
@@ -365,7 +380,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Løs oppgaven ved å faktorisere, og forklar hvorfor det ikke holder å sette bare én faktor lik null.
 
-!!! question "Oppgave 42"
+!!! question "Oppgave 45"
     Forenkle uttrykket så langt som mulig:
     
     \[
@@ -374,7 +389,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi verdier som ikke er tillatt. Undersøk også om uttrykket kan bli lik null.
 
-!!! question "Oppgave 43 – Sammensatt utfordring"
+!!! question "Oppgave 46 – Sammensatt utfordring"
     Løs likningen og vis alle viktige trinn:
     
     \[
@@ -383,7 +398,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Start med å angi definisjonsmengden. Vær nøye med hva som kan forkortes, og kontroller til slutt.
 
-!!! question "Oppgave 44 – Faktoriser med flere variabler"
+!!! question "Oppgave 47 – Faktoriser med flere variabler"
     Faktoriser uttrykket så langt som mulig. Husk at store og små bokstaver er ulike variabler.
 
     \[
@@ -392,7 +407,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     Skriv først ut den felles faktoren, og kontroller deretter ved å gange inn igjen.
 
-!!! question "Oppgave 45 – Snu en formel"
+!!! question "Oppgave 48 – Snu en formel"
     Formelen nedenfor knytter sammen variablene \(x,y\) og konstantene \(a,b,c\):
 
     \[
@@ -416,7 +431,9 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **3.** a) \(x^2+6x+9\)  b) \(x^2-10x+25\)  c) \(x^2-16\)
 
-    **4.** a) \(6(x+3)\)  b) \(5x(2x-3)\)  c) \(4a(2a+3)\)
+    **4.** \(c=\sqrt{3^2+4^2}=\sqrt{25}=5\) cm.
+
+    **4.** \(c=\sqrt{3^2+4^2}=\sqrt{25}=5\) cm.
 
     **5.** a) \(x=5\)  b) \(x=7\)  c) \(x=0\) eller \(x=5\)
 
@@ -446,7 +463,9 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **17.** a) \(x^2+3x-10\)  b) \(4x+6\)  c) \(x>2\).
 
-    **18.** \(x^2+4x+4=3x+10\Rightarrow x^2+x-6=0\Rightarrow(x+3)(x-2)=0\). Altså \(x=-3\) eller \(x=2\).
+    **18.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
+
+    **18.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
 
     **19.** a) \(k=\dfrac{10}{4}=2{,}5\), altså \(y=2{,}5x\). b) \(y=2{,}5\cdot12=30\).
 
@@ -466,7 +485,9 @@ Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig 
 
     **26.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
 
-    **27.** \((x+3)^2=x^2+30\Rightarrow6x+9=30\Rightarrow x=\dfrac72\).
+    **27.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
+
+    **27.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow (x-5)(x+12)=0\). Lengder er positive, så \(x=5\). Katetene er \(5\) cm og \(12\) cm.
 
     **28.** Utvid begge kvadratene: \(x^2+4x+4-(x^2-4x+4)=8x\).
 
