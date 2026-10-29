@@ -188,7 +188,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     |---|---:|---:|---:|
     | \(y\) | 5 | 10 | 15 |
 
-    Er \(x\) og \(y\) direkte proporsjonale, omvendt proporsjonale eller ingen av delene? Begrunn svaret, og skriv en formel som knytter \(x\) og \(y\) sammen.
+    Er \(x\) og \(y\) proporsjonale, omvendt proporsjonale eller ingen av delene? Begrunn svaret, og skriv en formel som knytter \(x\) og \(y\) sammen.
 
 ## Nivå 3 – Sikt mot karakter 5 eller 6
 
