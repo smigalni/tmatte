@@ -172,7 +172,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     (x+2)^2=3x+10.
     \]
     
-    Vis hvordan du får en likning som kan løses ved faktorisering.
+    Utvid parentesen, samle alle ledd på én side, og løs likningen ved faktorisering.
 
 !!! question "Oppgave 21 – Proporsjonale størrelser"
     \(y\) er direkte proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
