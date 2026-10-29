@@ -37,7 +37,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((x+4)(x-4)\)
 
-!!! question "Oppgave 4"
+!!! question "Oppgave 4 – Pytagoras"
+    En rettvinklet trekant har kateter på \(3\) cm og \(4\) cm.
+
+    Finn lengden av hypotenusen. Vis hvordan du bruker Pytagoras' setning.
+
+!!! question "Oppgave 5"
     Faktoriser ved å trekke ut felles faktor:
     
     a) \(6x+18\)
@@ -46,7 +51,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(8a^2+12a\)
 
-!!! question "Oppgave 5"
+!!! question "Oppgave 6"
     Løs likningene:
     
     a) \(3x+7=22\)
@@ -55,7 +60,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(x(x-5)=0\)
 
-!!! question "Oppgave 6"
+!!! question "Oppgave 7"
     Forenkle brøkuttrykkene. Oppgi hvilke verdier av \(x\) som ikke er tillatt.
     
     a) \(\dfrac{6x}{3}\)
@@ -64,7 +69,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(\dfrac{4x+8}{4}\)
 
-!!! question "Oppgave 7"
+!!! question "Oppgave 8"
     Regn ut og forenkle:
     
     a) \(2(3x-1)-4(x+2)\)
@@ -73,12 +78,22 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((3x-2)(3x+2)\)
 
-!!! question "Oppgave 8"
+!!! question "Oppgave 9"
     En kinobillett for voksne koster \(x\) kroner. En barnebillett koster 40 kroner mindre. Skriv et uttrykk for prisen for 3 voksenbilletter og 2 barnebilletter. Forenkle uttrykket.
+
+!!! question "Oppgave 10 – Forhold"
+    Forkort forholdet \(18:30\) så langt som mulig. Forklar med hvilket tall du deler begge leddene.
+
+!!! question "Oppgave 11 – Forhold i en oppskrift"
+    Saft blandes med vann i forholdet \(2:5\).
+
+    a) Hvor mange desiliter vann trenger du hvis du bruker \(4\) dl saft?
+
+    b) Hvor mye saft og vann trenger du til sammen hvis du bruker \(6\) dl saft og beholder samme forhold?
 
 ## Nivå 2 – På vei mot karakter 4
 
-!!! question "Oppgave 9"
+!!! question "Oppgave 12"
     Forenkle så langt som mulig:
     
     a) \(3x(2x-5)-2x(x+4)\)
@@ -87,7 +102,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(2(x-3)^2-(2x^2-12x)\)
 
-!!! question "Oppgave 10"
+!!! question "Oppgave 13"
     Faktoriser fullstendig:
     
     a) \(12x^2-18x\)
@@ -96,14 +111,14 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(x^2+10x+25\)
 
-!!! question "Oppgave 11"
+!!! question "Oppgave 14"
     Forenkle brøkuttrykket og oppgi alle verdier som ikke er tillatt:
     
     \[
     \frac{x^2-16}{x^2+8x+16}.
     \]
 
-!!! question "Oppgave 12"
+!!! question "Oppgave 15"
     Løs likningene:
     
     a) \(x^2-25=0\)
@@ -112,7 +127,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \((x-3)(2x+5)=0\)
 
-!!! question "Oppgave 13"
+!!! question "Oppgave 16"
     Finn feilen i utregningen, og skriv riktig svar:
     
     \[
@@ -121,7 +136,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Forklar kort hvorfor svaret er feil.
 
-!!! question "Oppgave 14"
+!!! question "Oppgave 17"
     Forenkle:
     
     \[
@@ -136,7 +151,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi hvilke verdier av \(x\) som ikke er tillatt.
 
-!!! question "Oppgave 15"
+!!! question "Oppgave 18"
     Et rektangel har sidelengder \(x+5\) og \(x-2\).
     
     a) Skriv et forenklet uttrykk for arealet.
@@ -145,7 +160,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) Hvilke verdier av \(x\) gir mening for sidelengdene?
 
-!!! question "Oppgave 16"
+!!! question "Oppgave 19 – Pytagoras i praksis"
+    En stige på \(5\) meter står mot en loddrett vegg. Foten av stigen står \(3\) meter fra veggen.
+
+    Hvor høyt opp på veggen når stigen? Tegn gjerne en skisse, og vis utregningen.
+
+!!! question "Oppgave 20"
     Løs likningen:
     
     \[
@@ -154,16 +174,32 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Vis hvordan du får en likning som kan løses ved faktorisering.
 
+!!! question "Oppgave 21 – Proporsjonale størrelser"
+    \(y\) er direkte proporsjonal med \(x\). Når \(x=4\), er \(y=10\).
+
+    a) Finn konstanten \(k\) i formelen \(y=kx\).
+
+    b) Finn \(y\) når \(x=12\).
+
+!!! question "Oppgave 22 – Direkte eller omvendt proporsjonal?"
+    Se på tabellen:
+
+    | \(x\) | 2 | 4 | 6 |
+    |---|---:|---:|---:|
+    | \(y\) | 5 | 10 | 15 |
+
+    Er \(x\) og \(y\) direkte proporsjonale, omvendt proporsjonale eller ingen av delene? Begrunn svaret, og skriv en formel som knytter \(x\) og \(y\) sammen.
+
 ## Nivå 3 – Sikt mot karakter 5 eller 6
 
-!!! question "Oppgave 17"
+!!! question "Oppgave 23"
     Forenkle helt og oppgi verdier som ikke er tillatt:
     
     \[
     \frac{x^2-9}{x^2+x-6}.
     \]
 
-!!! question "Oppgave 18"
+!!! question "Oppgave 24"
     Forenkle:
     
     \[
@@ -172,7 +208,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi hvilke verdier av \(x\) som ikke er tillatt.
 
-!!! question "Oppgave 19"
+!!! question "Oppgave 25"
     Faktoriser fullstendig:
     
     a) \(2x^2-8\)
@@ -181,7 +217,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) \(3x^2+12x+12\)
 
-!!! question "Oppgave 20"
+!!! question "Oppgave 26"
     Løs likningen:
     
     \[
@@ -190,7 +226,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Husk å kontrollere at løsningen er tillatt.
 
-!!! question "Oppgave 21"
+!!! question "Oppgave 27"
     Løs likningen:
     
     \[
@@ -199,7 +235,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Vis hvordan faktorisering kan brukes.
 
-!!! question "Oppgave 22"
+!!! question "Oppgave 28"
     Forenkle uttrykket så langt som mulig:
     
     \[
@@ -208,7 +244,12 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi alle verdier som ikke er tillatt i det opprinnelige uttrykket.
 
-!!! question "Oppgave 23"
+!!! question "Oppgave 29 – Pytagoras og likning"
+    En rettvinklet trekant har kateter med lengder \(x\) cm og \(x+7\) cm, og hypotenusen er \(13\) cm.
+
+    Sett opp en likning ved hjelp av Pytagoras' setning, og finn begge katetene.
+
+!!! question "Oppgave 30"
     Et tall \(x\) økes med 3, og resultatet kvadreres. Dette er lik \(x^2+30\).
     
     a) Sett opp en likning.
@@ -217,7 +258,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     c) Kontroller løsningene ved å sette dem inn i den opprinnelige likningen.
 
-!!! question "Oppgave 24"
+!!! question "Oppgave 31"
     Vis at
     
     \[
@@ -226,7 +267,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Bruk algebra, og forklar hvorfor \(x^2\)-leddene forsvinner.
 
-!!! question "Oppgave 25"
+!!! question "Oppgave 32"
     Forenkle og faktoriser svaret så langt som mulig:
     
     \[
@@ -235,7 +276,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Kan svaret bli null? Begrunn.
 
-!!! question "Oppgave 26"
+!!! question "Oppgave 33"
     Løs likningen:
     
     \[
@@ -244,16 +285,48 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi først hvilke verdier som ikke er tillatt, og kontroller løsningene etterpå.
 
+!!! question "Oppgave 34 – Omvendt proporsjonale størrelser"
+    \(y\) er omvendt proporsjonal med \(x\), slik at \(y=\frac{k}{x}\). Når \(x=3\), er \(y=8\).
+
+    a) Finn konstanten \(k\).
+
+    b) Finn \(y\) når \(x=12\).
+
+!!! question "Oppgave 35 – Omvendt proporsjonalitet i praksis"
+    Seks arbeidere bruker \(10\) timer på en jobb. Vi antar at alle arbeider like raskt, og at arbeidsmengden er den samme.
+
+    Hvor lang tid vil \(15\) arbeidere bruke? Vis hvorfor dette er et eksempel på omvendt proporsjonalitet.
+
+!!! question "Oppgave 36 – Snu en formel med areal"
+    Arealet av en trekant er gitt ved
+
+    \[
+    A=\frac{gh}{2}
+    \]
+
+    Skriv om formelen slik at \(h\) står alene. Oppgi også hvilken verdi \(g\) ikke kan ha hvis du skal finne \(h\) fra formelen.
+
+!!! question "Oppgave 37 – Snu en formel med fart"
+    Sammenhengen mellom strekning \(s\), fart \(v\) og tid \(t\) er
+
+    \[
+    v=\frac{s}{t}
+    \]
+
+    a) Skriv om formelen slik at \(t\) står alene.
+
+    b) Hvilken verdi kan \(v\) ikke ha hvis du skal finne \(t\) fra den omskrevne formelen?
+
 ## Nivå 4 – Ekstra utfordring
 
-!!! question "Oppgave 27"
+!!! question "Oppgave 38"
     Forenkle uttrykket og oppgi alle verdier som ikke er tillatt:
     
     \[
     \frac{x^2-5x+6}{x^2-9}\cdot\frac{x+3}{x-2}.
     \]
 
-!!! question "Oppgave 28"
+!!! question "Oppgave 39"
     Løs likningen:
     
     \[
@@ -262,7 +335,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Husk definisjonsmengden og kontroller begge mulige løsninger.
 
-!!! question "Oppgave 29"
+!!! question "Oppgave 40"
     Bestem \(a\) slik at uttrykket
 
     \[
@@ -271,7 +344,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     kan faktoriseres som \((x+b)^2\) for et reelt tall \(b\). Finn alle mulige verdier av \(a\), og begrunn svaret.
 
-!!! question "Oppgave 30"
+!!! question "Oppgave 41"
     For hvilke verdier av \(k\) har likningen
 
     \[
@@ -280,7 +353,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     én løsning? Bruk algebraisk resonnering, og forklar hvorfor svaret gir én løsning.
 
-!!! question "Oppgave 31"
+!!! question "Oppgave 42"
     Løs likningen:
     
     \[
@@ -289,7 +362,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Forklar hvorfor det er viktig å ta hensyn til uttrykket før forkorting.
 
-!!! question "Oppgave 32"
+!!! question "Oppgave 43"
     En elev påstår at
     
     \[
@@ -298,7 +371,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 
     gir \(x=0\), fordi man kan gange begge sider med \(x\) og få \(x+2=2x\). Undersøk påstanden, finn riktig løsning og forklar hvorfor \(x=0\) ikke kan brukes.
 
-!!! question "Oppgave 33"
+!!! question "Oppgave 44"
     Finn alle reelle tall \(x\) som oppfyller
 
     \[
@@ -307,7 +380,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Løs oppgaven ved å faktorisere, og forklar hvorfor det ikke holder å sette bare én faktor lik null.
 
-!!! question "Oppgave 34"
+!!! question "Oppgave 45"
     Forenkle uttrykket så langt som mulig:
     
     \[
@@ -316,7 +389,7 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Oppgi verdier som ikke er tillatt. Undersøk også om uttrykket kan bli lik null.
 
-!!! question "Oppgave 35 – Sammensatt utfordring"
+!!! question "Oppgave 46 – Sammensatt utfordring"
     Løs likningen og vis alle viktige trinn:
     
     \[
@@ -325,28 +398,25 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
     
     Start med å angi definisjonsmengden. Vær nøye med hva som kan forkortes, og kontroller til slutt.
 
-
-!!! question "Oppgave 36 – Faktoriser med flere variabler"
+!!! question "Oppgave 47 – Faktoriser med flere variabler"
     Faktoriser uttrykket så langt som mulig. Husk at store og små bokstaver er ulike variabler.
 
-    \\[
+    \[
     12a^2B-18abB^2+6aAB
-    \\]
+    \]
 
     Skriv først ut den felles faktoren, og kontroller deretter ved å gange inn igjen.
 
-!!! question "Oppgave 37 – Snu en formel"
-    Formelen nedenfor knytter sammen variablene \\(x,y\\) og konstantene \\(a,b,c\\):
+!!! question "Oppgave 48 – Snu en formel"
+    Formelen nedenfor knytter sammen variablene \(x,y\) og konstantene \(a,b,c\):
 
-    \\[
-    y=\\frac{ax+b}{c}
-    \\]
+    \[
+    y=\frac{ax+b}{c}
+    \]
 
-    a) Skriv om formelen slik at \\(x\\) står alene på venstre side.
+    a) Skriv om formelen slik at \(x\) står alene på venstre side.
 
-    b) Hvilke betingelser må gjelde for \\(a\\) og \\(c\\) for at uttrykket du får, skal være definert?
-
-
+    b) Hvilke betingelser må gjelde for \(a\) og \(c\) for at uttrykket du får, skal være definert?
 ---
 
 ## Fasit
@@ -354,83 +424,109 @@ Her får du oppgaver i algebra blandet på tvers av temaene. Oppgavene er **ikke
 Prøv oppgavene før du åpner fasiten. I oppgaver med forklaring er det viktig at du også kan begrunne framgangsmåten.
 
 ??? note "Fasit – nivå 1"
+
     **1.** a) \(8x-4\)  b) \(10a+7\)  c) \(3y+6\)
 
     **2.** a) \(3x+12\)  b) \(10x-6\)  c) \(3x+8\)
 
     **3.** a) \(x^2+6x+9\)  b) \(x^2-10x+25\)  c) \(x^2-16\)
 
-    **4.** a) \(6(x+3)\)  b) \(5x(2x-3)\)  c) \(4a(2a+3)\)
+    **4.** \(c=\sqrt{3^2+4^2}=\sqrt{25}=5\) cm.
 
-    **5.** a) \(x=5\)  b) \(x=7\)  c) \(x=0\) eller \(x=5\)
+    **5.** a) \(6(x+3)\)  b) \(5x(2x-3)\)  c) \(4a(2a+3)\)
 
-    **6.** a) \(2x\)  b) \(x+3\), men \(x\ne3\)  c) \(x+2\)
+    **6.** a) \(x=5\)  b) \(x=7\)  c) \(x=0\) eller \(x=5\)
 
-    **7.** a) \(2x-10\)  b) \(2x^2+7x+3\)  c) \(9x^2-4\)
+    **7.** a) \(2x\)  b) \(x+3\), men \(x\ne3\)  c) \(x+2\)
 
-    **8.** \(3x+2(x-40)=5x-80\) kroner.
+    **8.** a) \(2x-10\)  b) \(2x^2+7x+3\)  c) \(9x^2-4\)
+
+    **9.** \(3x+2(x-40)=5x-80\) kroner.
+
+    **10.** \(18:30=3:5\). Del begge leddene på \(6\).
+
+    **11.** a) \(10\) dl vann. b) \(6\) dl saft krever \(15\) dl vann, altså \(21\) dl blanding til sammen.
 
 ??? note "Fasit – nivå 2"
-    **9.** a) \(4x^2-23x\)  b) \(24x\)  c) \(18\)
 
-    **10.** a) \(6x(2x-3)\)  b) \((x-7)(x+7)\)  c) \((x+5)^2\)
+    **12.** a) \(4x^2-23x\)  b) \(24x\)  c) \(18\)
 
-    **11.** \(\dfrac{(x-4)(x+4)}{(x+4)^2}=\dfrac{x-4}{x+4}\), der \(x\ne-4\).
+    **13.** a) \(6x(2x-3)\)  b) \((x-7)(x+7)\)  c) \((x+5)^2\)
 
-    **12.** a) \(x=\pm5\)  b) \(x=0\) eller \(x=-7\)  c) \(x=3\) eller \(x=-\dfrac52\)
+    **14.** \(\dfrac{(x-4)(x+4)}{(x+4)^2}=\dfrac{x-4}{x+4}\), der \(x\ne-4\).
 
-    **13.** Riktig: \((x+4)^2=x^2+8x+16\). Midterleddet \(8x\) mangler i elevens svar.
+    **15.** a) \(x=\pm5\)  b) \(x=0\) eller \(x=-7\)  c) \(x=3\) eller \(x=-\dfrac52\)
 
-    **14.** Første: \(\dfrac{5}{x}\), \(x\ne0\). Andre: \(\dfrac{2x+2}{x(x+2)}\), \(x\ne0,-2\).
+    **16.** Riktig: \((x+4)^2=x^2+8x+16\). Midterleddet \(8x\) mangler i elevens svar.
 
-    **15.** a) \(x^2+3x-10\)  b) \(4x+6\)  c) \(x>2\).
+    **17.** Første: \(\dfrac{5}{x}\), \(x\ne0\). Andre: \(\dfrac{2x+2}{x(x+2)}\), \(x\ne0,-2\).
 
-    **16.** \(x^2+4x+4=3x+10\Rightarrow x^2+x-6=0\Rightarrow(x+3)(x-2)=0\). Altså \(x=-3\) eller \(x=2\).
+    **18.** a) \(x^2+3x-10\)  b) \(4x+6\)  c) \(x>2\).
+
+    **19.** Høyden er \(h\). \(h^2+3^2=5^2\Rightarrow h^2=16\), så \(h=4\) meter.
+
+    **20.** \(x^2+4x+4=3x+10\Rightarrow x^2+x-6=0\Rightarrow(x+3)(x-2)=0\). Altså \(x=-3\) eller \(x=2\).
+
+    **21.** a) \(k=\dfrac{10}{4}=2{,}5\), altså \(y=2{,}5x\). b) \(y=2{,}5\cdot12=30\).
+
+    **22.** Direkte proporsjonale, fordi forholdet \(\dfrac{y}{x}\) alltid er \(2{,}5\). Formelen er \(y=2{,}5x\).
 
 ??? note "Fasit – nivå 3"
-    **17.** \(\dfrac{(x-3)(x+3)}{(x+3)(x-2)}=\dfrac{x-3}{x-2}\), med \(x\ne-3,2\).
 
-    **18.** \(\dfrac{2(x+1)-(x-1)}{(x-1)(x+1)}=\dfrac{x+3}{x^2-1}\), med \(x\ne-1,1\).
+    **23.** \(\dfrac{(x-3)(x+3)}{(x+3)(x-2)}=\dfrac{x-3}{x-2}\), med \(x\ne-3,2\).
 
-    **19.** a) \(2(x-2)(x+2)\)  b) \((x-5)(x+3)\)  c) \(3(x+2)^2\)
+    **24.** \(\dfrac{2(x+1)-(x-1)}{(x-1)(x+1)}=\dfrac{x+3}{x^2-1}\), med \(x\ne-1,1\).
 
-    **20.** \(x+1=3(x-2)\Rightarrow x=\dfrac72\). Tillatt siden \(x\ne2\).
+    **25.** a) \(2(x-2)(x+2)\)  b) \((x-5)(x+3)\)  c) \(3(x+2)^2\)
 
-    **21.** \((x-6)(x+2)=0\Rightarrow x=6\) eller \(x=-2\).
+    **26.** \(x+1=3(x-2)\Rightarrow x=\dfrac72\). Tillatt siden \(x\ne2\).
 
-    **22.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
+    **27.** \((x-6)(x+2)=0\Rightarrow x=6\) eller \(x=-2\).
 
-    **23.** \((x+3)^2=x^2+30\Rightarrow6x+9=30\Rightarrow x=\dfrac72\).
+    **28.** \(\dfrac{(x-2)(x+2)}{(x-2)^2}\cdot\dfrac{x-2}{x+2}=1\), med \(x\ne-2,2\).
 
-    **24.** Utvid begge kvadratene: \(x^2+4x+4-(x^2-4x+4)=8x\).
+    **29.** \(x^2+(x+7)^2=13^2\Rightarrow 2x^2+14x-120=0\Rightarrow 2(x-5)(x+12)=0\). Siden lengder er positive, er \(x=5\). Katetene er \(5\) cm og \(12\) cm.
 
-    **25.** \(x^2-1-(x^2-3x)=3x-1\). Uttrykket blir null når \(x=\dfrac13\).
+    **30.** \((x+3)^2=x^2+30\Rightarrow6x+9=30\Rightarrow x=\dfrac72\).
 
-    **26.** \(x\ne3,-1\). \(x(x+1)=2(x-3)\Rightarrow x^2-x+6=0\). Diskriminanten er \(1-24=-23<0\), så likningen har ingen reelle løsninger.
+    **31.** Utvid begge kvadratene: \(x^2+4x+4-(x^2-4x+4)=8x\).
+
+    **32.** \(x^2-1-(x^2-3x)=3x-1\). Uttrykket blir null når \(x=\dfrac13\).
+
+    **33.** \(x\ne3,-1\). \(x(x+1)=2(x-3)\Rightarrow x^2-x+6=0\). Diskriminanten er \(1-24=-23<0\), så likningen har ingen reelle løsninger.
+
+    **34.** a) \(k=xy=3\cdot8=24\). b) \(y=\dfrac{24}{12}=2\).
+
+    **35.** \(6\cdot10=15t\), så \(t=4\) timer. Produktet av antall arbeidere og tid er konstant.
+
+    **36.** \(2A=gh\), dermed \(h=\dfrac{2A}{g}\). Vi må ha \(g\ne0\).
+
+    **37.** a) \(vt=s\), dermed \(t=\dfrac{s}{v}\). b) Vi må ha \(v\ne0\).
 
 ??? note "Fasit – nivå 4"
-    **27.** \(\dfrac{(x-2)(x-3)}{(x-3)(x+3)}\cdot\dfrac{x+3}{x-2}=1\), med \(x\ne-3,2,3\).
 
-    **28.** \(x\ne\pm1\). \(\dfrac{2x}{x^2-1}=\dfrac34\Rightarrow8x=3x^2-3\Rightarrow3x^2-8x-3=0\). Dermed \(x=3\) eller \(x=-\dfrac13\). Begge er tillatt.
+    **38.** \(\dfrac{(x-2)(x-3)}{(x-3)(x+3)}\cdot\dfrac{x+3}{x-2}=1\), med \(x\ne-3,2,3\).
 
-    **29.** \((x+b)^2=x^2+2bx+b^2\). Siden \(b^2=16\), er \(b=\pm4\), og \(a=2b\). Dermed \(a=8\) eller \(a=-8\).
+    **39.** \(x\ne\pm1\). \(\dfrac{2x}{x^2-1}=\dfrac34\Rightarrow8x=3x^2-3\Rightarrow3x^2-8x-3=0\). Dermed \(x=3\) eller \(x=-\dfrac13\). Begge er tillatt.
 
-    **30.** Én løsning når uttrykket er et fullstendig kvadrat: \(x^2+kx+9=(x\pm3)^2\). Da er \(k=6\) eller \(k=-6\).
+    **40.** \((x+b)^2=x^2+2bx+b^2\). Siden \(b^2=16\), er \(b=\pm4\), og \(a=2b\). Dermed \(a=8\) eller \(a=-8\).
 
-    **31.** Definisjonsmengden krever \(x\ne1\). For \(x\ne1\) er venstresiden \(x+1\), så \(x+1=x+3\), som er umulig. Ingen løsninger.
+    **41.** Én løsning når uttrykket er et fullstendig kvadrat: \(x^2+kx+9=(x\pm3)^2\). Da er \(k=6\) eller \(k=-6\).
 
-    **32.** \(x\ne0\). \(x+2=2x\Rightarrow x=2\). \(x=0\) er ikke tillatt i det opprinnelige uttrykket.
+    **42.** Definisjonsmengden krever \(x\ne1\). For \(x\ne1\) er venstresiden \(x+1\), så \(x+1=x+3\), som er umulig. Ingen løsninger.
 
-    **33.** \((x^2-9)^2=0\Rightarrow x^2-9=0\Rightarrow(x-3)(x+3)=0\). Dermed \(x=3\) eller \(x=-3\).
+    **43.** \(x\ne0\). \(x+2=2x\Rightarrow x=2\). \(x=0\) er ikke tillatt i det opprinnelige uttrykket.
 
-    **34.** \(\dfrac{x+2}{(x-2)(x+2)}-\dfrac{4}{(x-2)(x+2)}=\dfrac{x-2}{(x-2)(x+2)}=\dfrac1{x+2}\), med \(x\ne-2,2\). Det blir aldri null for noen tillatt \(x\).
+    **44.** \((x^2-9)^2=0\Rightarrow x^2-9=0\Rightarrow(x-3)(x+3)=0\). Dermed \(x=3\) eller \(x=-3\).
 
-    **35.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
+    **45.** \(\dfrac{x+2}{(x-2)(x+2)}-\dfrac{4}{(x-2)(x+2)}=\dfrac{x-2}{(x-2)(x+2)}=\dfrac1{x+2}\), med \(x\ne-2,2\). Det blir aldri null for noen tillatt \(x\).
 
-??? note "Fasit – oppgave 36 og 37"
+    **46.** Definisjonsmengden er \(x\ne-2,2\). Venstresiden kan skrives \(\dfrac{(x-2)^2}{(x-2)(x+2)}=\dfrac{x-2}{x+2}\), for tillatte \(x\). Likningen blir en identitet, så alle reelle \(x\) unntatt \(-2\) og \(2\) er løsninger.
 
-    **36.** \\(6aB(2a-3bB+A)\\).
+    **47.** \(6aB(2a-3bB+A)\).
 
-    **37.** a) \\(cy=ax+b\\), dermed \\(ax=cy-b\\), og til slutt \\(x=\\dfrac{cy-b}{a}\\).
+    **48.** a) \(cy=ax+b\), dermed \(ax=cy-b\), og til slutt \(x=\dfrac{cy-b}{a}\).
 
-    b) Vi må ha \\(c\\ne0\\) i den opprinnelige formelen og \\(a\\ne0\\) for å isolere \\(x\\).
+    b) Vi må ha \(c\ne0\) i den opprinnelige formelen og \(a\ne0\) for å isolere \(x\).
+
+
