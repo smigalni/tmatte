@@ -38,13 +38,13 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
 
 !!! note "Oppgave 3 – fasit"
-    a) \([2,7)\).  
+    a) \(2\leq x<7\).  
     b) \(2\leq x<7\).  
     c) \(\{2,3,4,5,6\}\).  
     Viktig: 2 er inkludert, 7 er ikke inkludert.
 
 !!! note "Oppgave 4 – fasit"
-    a) \([-2,3)\), listeform \(\{-2,-1,0,1,2\}\).  
+    a) \(-2\leq x<3\), listeform \(\{-2,-1,0,1,2\}\).  
     b) \(1<x\leq6\), listeform \(\{2,3,4,5,6\}\) for heltall.  
     c) \([-3,2]\), ulikhet \(-3\leq x\leq2\).  
     d) \((4,\infty)\), ulikhet \(x>4\), heltallene \(\{5,6,7,\ldots\}\).
