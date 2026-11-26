@@ -2,8 +2,7 @@
   <div class="print-cover__identity">
     <div class="print-cover__mark">M</div>
     <div class="print-cover__name">MathPlatform</div>
-    <div class="print-cover__tagline">Matematikk · forståelse · mestring</div>
-  </div>
+    </div>
 </div>
 
 <div class="chapter-toolbar" markdown="1">
@@ -124,7 +123,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     Hver prikk er én brikke.
     <figure class="math-graph-frame">
-      <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg">
+      <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire prikkfigurer med henholdsvis 1, 3, 5 og 7 brikker.">
       <g fill="#168b83">
         <circle cx="65" cy="30" r="6"/>
         <circle cx="205" cy="20" r="6"/><circle cx="205" cy="45" r="6"/><circle cx="230" cy="45" r="6"/>
@@ -209,10 +208,10 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.2.2 – Programmer figurtall"
 
-    Et figurtall er gitt ved \(F(n)=n^2+n\).
+    Et figurtall er gitt ved \(F(n)=3n^2+1\).
     ~~~python
     def F(n):
-        return n*n + n
+        return 3*n*n + 1
 
     for n in range(1, 6):
         print(F(n))
