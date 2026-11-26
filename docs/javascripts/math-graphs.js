@@ -353,6 +353,36 @@
       aspect: "square", x: [-2.5, 2.5], y: [-9, 9], grid: false, ticks: true, tickStepX: 1, tickStepY: 3,
       curves: [{ fn: x => x * x * x, from: -2.05, to: 2.05, color: COLORS.curve, width: 2.6 }]
     },
+    taskLinearPoints: {
+      title: "Rett linje gjennom to punkter", description: "Koordinatsystem med en rett linje og de markerte punktene A og B.",
+      aspect: "square", x: [-1, 4], y: [-2, 14], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
+      curves: [{ fn: x => 3 * x + 2, from: -1, to: 4, color: COLORS.curve, width: 2.8 }],
+      points: [{ x: 1, y: 5, label: "A(1, 5)", dx: 12, dy: -12 }, { x: 3, y: 11, label: "B(3, 11)", dx: -78, dy: -12 }]
+    },
+    taskQuadraticRoots: {
+      title: "Parabel med markerte punkter", description: "En parabel med nullpunktene A og B og punktet C markert.",
+      aspect: "square", x: [-1, 7], y: [-10, 20], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
+      curves: [{ fn: x => 2 * (x - 1) * (x - 5), from: -0.2, to: 6.2, color: COLORS.curve, width: 2.8 }],
+      points: [{ x: 1, y: 0, label: "A(1, 0)", dx: -70, dy: -12 }, { x: 5, y: 0, label: "B(5, 0)", dx: 10, dy: -12 }, { x: 0, y: 10, label: "C(0, 10)", dx: 10, dy: -12 }]
+    },
+    taskQuadraticVertex: {
+      title: "Parabel med toppunkt og punkt", description: "En parabel med markert bunnpunkt T og punktet P.",
+      aspect: "square", x: [-1, 5], y: [-5, 20], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
+      curves: [{ fn: x => 2 * (x - 2) * (x - 2) - 3, from: -0.8, to: 4.8, color: COLORS.curve, width: 2.8 }],
+      points: [{ x: 2, y: -3, label: "T(2, −3)", dx: 12, dy: 18 }, { x: 4, y: 5, label: "P(4, 5)", dx: 12, dy: -12 }]
+    },
+    taskCubicZeros: {
+      title: "Tredjegradsfunksjon med markerte punkter", description: "En tredjegradsfunksjon med tre markerte skjæringspunkter med x-aksen og punktet P.",
+      aspect: "square", x: [-3, 4], y: [-20, 20], grid: true, gridStepX: 1, gridStepY: 5, ticks: true, tickStepX: 1, tickStepY: 5,
+      curves: [{ fn: x => x * (x + 2) * (x - 3), from: -2.7, to: 3.7, color: COLORS.curve, width: 2.8 }],
+      points: [{ x: -2, y: 0, label: "A(−2, 0)", dx: -70, dy: -12 }, { x: 0, y: 0, label: "B(0, 0)", dx: 10, dy: 18 }, { x: 3, y: 0, label: "C(3, 0)", dx: 10, dy: -12 }, { x: 1, y: -4, label: "P(1, −4)", dx: 12, dy: 18 }]
+    },
+    taskQuadraticThreePoints: {
+      title: "Parabel gjennom tre punkter", description: "En parabel med tre markerte punkter A, B og C.",
+      aspect: "square", x: [-3, 5], y: [-2, 14], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
+      curves: [{ fn: x => (x - 1) * (x - 1) + 2, from: -2.7, to: 4.7, color: COLORS.curve, width: 2.8 }],
+      points: [{ x: -1, y: 6, label: "A(−1, 6)", dx: -72, dy: -12 }, { x: 1, y: 2, label: "B(1, 2)", dx: 12, dy: 18 }, { x: 3, y: 6, label: "C(3, 6)", dx: 12, dy: -12 }]
+    },
   };
 
   function svgElement(name, attrs = {}, textContent = null) {
