@@ -299,7 +299,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     Når \(x=3\): \(f(3)=\) ____________________
 
-    b) Tegn grafen i et koordinatsystem. Marker punktene fra a) før du trekker linjen.
+    b) Tegn grafen i et koordinatsystem. Marker punktene du fant i forrige deloppgave før du trekker linjen.
 
     c) Finn skjæringen med y-aksen.
 
