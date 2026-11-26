@@ -381,3 +381,33 @@
   .md-typeset .math-graph-frame { break-inside: avoid; }
   .md-typeset .math-graph svg { max-width: 100%; }
 }
+
+
+/* Oppgaveboksene følger samme rolige MathPlatform-stil som R1 kapittel 2. */
+.md-typeset .admonition.question {
+  border: 1px solid #dbe4ed !important;
+  border-left: 4px solid #d69a38 !important;
+  border-radius: 0 !important;
+  background: #fffaf1 !important;
+  margin: 1.05rem 0 1.25rem;
+  padding: .8rem 1rem .9rem;
+  box-shadow: none !important;
+}
+.md-typeset .admonition.question > .admonition-title {
+  margin: -.05rem 0 .65rem !important;
+  padding: 0 0 .5rem !important;
+  border-bottom: 1px solid #eadfc9;
+  border-radius: 0 !important;
+  background: transparent !important;
+  color: #172554 !important;
+  font-weight: 750;
+}
+.md-typeset .admonition.question > .admonition-title::before { display: none !important; }
+.md-typeset .admonition.question p { margin-top: .35rem; margin-bottom: .45rem; }
+.md-typeset .admonition.question mjx-container[display="true"] { margin: .55rem 0 !important; }
+.md-typeset .admonition.note {
+  border-left: 4px solid #0f766e;
+  border-radius: 0;
+  background: #f5fbfa;
+  box-shadow: none;
+}
