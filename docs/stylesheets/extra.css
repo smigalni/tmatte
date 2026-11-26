@@ -345,3 +345,39 @@
   margin-top: .65rem !important;
   margin-bottom: .65rem !important;
 }
+
+
+/* T-matte: felles graf- og figurstandard fra R1 kapittel 2. */
+.md-typeset .math-graph-frame {
+  margin: 1rem 0 1.35rem;
+  padding: .25rem 0 .6rem;
+  border-top: 1px solid #dce5f0;
+  border-bottom: 1px solid #dce5f0;
+  background: transparent;
+}
+.md-typeset .math-graph { width: 100%; min-width: 0; overflow: hidden; }
+.md-typeset .math-graph svg {
+  display: block; width: 100%; height: auto; max-width: 640px; margin: 0 auto; overflow: visible;
+}
+.md-typeset .math-graph svg.math-graph-svg--square { max-width: 330px; }
+.md-typeset .math-graph-caption,
+.md-typeset .math-graph-frame figcaption {
+  max-width: 760px; margin: .5rem auto 0; padding-top: .5rem;
+  border-top: 1px solid #e2e8f0; color: #52647b; font-size: .8rem; line-height: 1.5;
+}
+.md-typeset .degree-graph-grid {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .65rem; margin: .8rem 0;
+}
+.md-typeset .degree-graph-grid .math-graph-frame { min-width: 0; margin: 0; }
+.md-typeset .degree-graph-grid .math-graph svg.math-graph-svg--square { max-width: 100%; }
+.md-typeset .degree-graph-grid figcaption { font-size: .75rem; }
+.md-typeset .admonition.question p { margin-top: .35rem; margin-bottom: .45rem; }
+.md-typeset .admonition.question mjx-container[display="true"] { margin: .5rem 0 !important; }
+@media (max-width: 760px) {
+  .md-typeset .degree-graph-grid { grid-template-columns: 1fr; }
+  .md-typeset .degree-graph-grid .math-graph svg.math-graph-svg--square { max-width: 360px; }
+}
+@media print {
+  .md-typeset .math-graph-frame { break-inside: avoid; }
+  .md-typeset .math-graph svg { max-width: 100%; }
+}
