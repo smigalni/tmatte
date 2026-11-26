@@ -10,6 +10,8 @@ Disse reglene gjelder for dette bok-repoet og skal brukes automatisk på tvers a
 - Ikke si at en side er ferdig bare fordi teksten er skrevet.
 
 ## Design og matematisk formatering
+
+- Intervallnotasjon i T-matte: Åpent intervall skrives `\langle a,b\rangle`, aldri `]a,b[` eller annen vendt klammeparentesnotasjon. Halvåpne intervaller skrives `[a,b\rangle` når venstre endepunkt er med og høyre er åpent, og `\langle a,b]` når venstre er åpent og høyre er med. Lukket intervall skrives `[a,b]`. Uendelighetsendepunkter er alltid åpne.
 - Gjenbruk stilen som allerede finnes i T-matte og sammenlign med nærmeste ferdige side før du redigerer.
 - Bruk tydelig visuell forskjell mellom eksempel og oppgave: turkise eksempelbokser, blå regel-/formelbokser og lilla oppgavebokser der dette er prosjektets etablerte mønster.
 - Gjennomarbeidede eksempler skal stå i eksempelbokser, ikke som løs tekst under en vanlig Eksempel-overskrift.
