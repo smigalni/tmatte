@@ -336,7 +336,7 @@
         { x: 1, y: 1, label: "P(1, 1)", dx: 12, dy: 20 },
         { x: 2, y: 4, label: "Q(2, 4)", dx: 12, dy: -10 }
       ]
-    }
+    },
     degreeLinear: {
       title: "Førstegradsfunksjon", description: "En rett linje som viser en førstegradsfunksjon.",
       aspect: "square", x: [-4, 4], y: [-4, 6], grid: false, ticks: true, tickStepX: 1, tickStepY: 2,
