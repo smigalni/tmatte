@@ -86,7 +86,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv alle heltallene som ligger i intervallet.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \\( < \\) eller \\( > \\) når endepunktet ikke er med, og \\(\\leq\\) eller \\(\\geq\\) når det er med. I intervallnotasjonen bruker vi \\([a,b[\\), \\(]a,b]\\), \\(]a,b[\\) eller \\([a,b]\\). På tallinja markerer du et endepunkt som er med med \\[\\) til venstre eller \\]\\) til høyre. Et endepunkt som ikke er med, markerer du med \\( < \\) til venstre eller \\( > \\) til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \\( < \\) eller \\( > \\) når endepunktet ikke er med, og \\(\\leq\\) eller \\(\\geq\\) når det er med. I intervallnotasjonen bruker vi \\([a,b[\\), \\(]a,b]\\), \\(]a,b[\\) eller \\([a,b]\\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
