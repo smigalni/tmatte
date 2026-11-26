@@ -93,7 +93,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
         <text x="145" y="31" text-anchor="middle" font-size="30" font-weight="700" fill="#087f8c">[</text>
         <text x="420" y="31" text-anchor="middle" font-size="30" font-weight="700" fill="#087f8c">&gt;</text>
       </svg>
-      <figcaption><strong>Figur 1.1.3.</strong> [ ved 2 betyr at 2 er med. &gt; ved 7 betyr at 7 ikke er med.</figcaption>
+      <figcaption><strong>Figur 1.1.3 – Markert intervall på tallinja.</strong></figcaption>
     </figure>
 
     a) Skriv intervallet som ulikhet.
