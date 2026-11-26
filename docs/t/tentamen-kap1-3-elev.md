@@ -41,19 +41,19 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       <g stroke="currentColor"><path d="M35 36v12 M90 36v12 M145 36v12 M200 36v12 M255 36v12 M310 36v12 M365 36v12 M420 36v12 M475 36v12 M530 36v12 M585 36v12"/></g>
       <g fill="currentColor" font-size="12" text-anchor="middle"><text x="35" y="65">0</text><text x="90" y="65">1</text><text x="145" y="65">2</text><text x="200" y="65">3</text><text x="255" y="65">4</text><text x="310" y="65">5</text><text x="365" y="65">6</text><text x="420" y="65">7</text><text x="475" y="65">8</text><text x="530" y="65">9</text><text x="585" y="65">10</text></g>
       <line x1="145" y1="42" x2="420" y2="42" stroke="#168b83" stroke-width="7"/>
-      <circle cx="145" cy="42" r="6" fill="white" stroke="#168b83" stroke-width="3"/><circle cx="420" cy="42" r="6" fill="#168b83"/>
+      <circle cx="145" cy="42" r="6" fill="#168b83" stroke="#168b83" stroke-width="3"/><circle cx="420" cy="42" r="6" fill="white" stroke="#168b83" stroke-width="3"/>
     </svg>
-    a) Skriv intervallnotasjon. b) Skriv som ulikhet. c) Skriv listeform for heltallene.
+    a) Skriv som ulikhet. b) Skriv som ulikhet. c) Skriv listeform for heltallene.
 
 !!! question "Oppgave 4 – Oversett"
-    Skriv hvert intervall på de to andre måtene: intervallnotasjon, ulikhet og listeform (heltall).
+    Skriv som ulikhet og listeform (heltall).
     a) \(-2\leq x<3\)
-    b) \((1,6]\)
+    b) \(1<x\leq6\)
     c) Alle heltall fra og med \(-3\) til og med \(2\).
     d) \(x>4\). Forklar hvorfor listeformen ikke er endelig.
 
 !!! question "Oppgave 5 – Finn feilen"
-    En elev skriver \([-2,4)=\{-2,-1,0,1,2,3,4\}\).
+    En elev skriver \(-2\leq x<4,\quad \{-2,-1,0,1,2,3,4\}\).
     a) Hva er feil? b) Skriv riktig listeform for heltall. c) Forklar åpent og lukket endepunkt.
 
 ## Del 2 – Figurtall
