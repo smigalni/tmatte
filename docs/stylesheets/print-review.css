@@ -15,6 +15,9 @@
   .chapter-toolbar { align-items: flex-start; flex-direction: column; }
 }
 @media print {
+  /* Lærerveiledning: fasit er skjult på skjerm, men skal med i utskriften. */
+  .md-typeset details.admonition > :not(summary) { display: block !important; }
+  .md-typeset details.admonition > summary { display: block !important; }
   @page {
     size: A4; margin: 22mm 17mm 22mm;
     @top-left { content: "MATHPLATFORM"; color: #243b6b; font: 700 8pt Arial, sans-serif; letter-spacing: 1.5pt; }
