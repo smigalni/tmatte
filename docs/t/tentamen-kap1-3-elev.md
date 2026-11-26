@@ -34,6 +34,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \(\mathbb R\): reelle tall, alle tall på tallinja.
 
 !!! question "Oppgave 1.1.1 – Plasser tallene"
+
     For hvert tall skal du velge **én** tallmengde: den minste mengden i rekken
     \(\mathbb N,\mathbb Z,\mathbb Q,\mathbb R\) som inneholder tallet.
     Skriv mengdesymbolet ved siden av hvert tall. Ikke skriv alle mengdene tallet tilhører.
@@ -51,6 +52,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     f) \(-\frac{12}{3}\).
 
 !!! question "Oppgave 1.1.2 – Sant eller usant?"
+
     Begrunn kort.
 
     a) Alle heltall er rasjonale tall.
@@ -64,6 +66,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Et tall kan tilhøre flere tallmengder samtidig.
 
 !!! question "Oppgave 1.1.3 – Les av intervallet"
+
     Les av intervallet som er markert på tallinja.
 
     <figure class="math-graph-frame">
@@ -86,7 +89,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv alle heltallene som ligger i intervallet.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \\( < \\) eller \\( > \\) når endepunktet ikke er med, og \\(\\leq\\) eller \\(\\geq\\) når det er med. I intervallnotasjonen bruker vi \\([a,b[\\), \\(]a,b]\\), \\(]a,b[\\) eller \\([a,b]\\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
+
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \( < \) eller \( > \) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen bruker vi \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
@@ -97,6 +101,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Alle tall som er større enn \(4\). Forklar hvorfor listeformen ikke er endelig.
 
 !!! question "Oppgave 1.1.5 – Finn feilen"
+
     En elev skal beskrive alle tall fra og med \(-2\) til, men ikke med, \(4\). Eleven skriver
 
     \[
@@ -112,11 +117,14 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 ## Del 2 – Figurtall
 
 !!! important "Fra figur til formel"
+
     Se etter hvor mange elementer som legges til for hver ny figur. Er økningen konstant? Kan antallet i figur \(n\) beskrives med en formel?
 
 !!! question "Oppgave 2.1.1 – Tell og generaliser"
+
     Hver prikk er én brikke.
-    <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <figure class="math-graph-frame">
+      <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg">
       <g fill="#168b83">
         <circle cx="65" cy="30" r="6"/>
         <circle cx="205" cy="20" r="6"/><circle cx="205" cy="45" r="6"/><circle cx="230" cy="45" r="6"/>
@@ -124,7 +132,9 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
         <circle cx="500" cy="10" r="6"/><circle cx="500" cy="35" r="6"/><circle cx="500" cy="60" r="6"/><circle cx="500" cy="85" r="6"/><circle cx="525" cy="85" r="6"/><circle cx="550" cy="85" r="6"/><circle cx="575" cy="85" r="6"/>
       </g>
       <g fill="currentColor" font-size="12" text-anchor="middle"><text x="65" y="125">Figur 1</text><text x="218" y="125">Figur 2</text><text x="375" y="125">Figur 3</text><text x="540" y="125">Figur 4</text></g>
-    </svg>
+      </svg>
+      <figcaption><strong>Figur 2.1.1.</strong> Fire figurer som viser hvordan antallet brikker øker.</figcaption>
+    </figure>
 
     a) Tell brikkene i figur 1–4.
 
@@ -134,27 +144,24 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Finn en formel for figur \(n\).
 
-!!! question "Oppgave 2.1.2 – Rektangeltall"
-    Hver figur består av prikker ordnet i et rektangel. Se på antall rader og kolonner.
+!!! question "Oppgave 2.1.2 – Kvadrattall fra figurer"
+
+    Hver figur bygges opp som et kvadrat av prikker. Hver prikk er én brikke.
 
     <figure class="math-graph-frame">
-      <svg viewBox="0 0 640 150" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire prikkrektangler: figur 1 har 1 rad og 2 kolonner, figur 2 har 2 rader og 3 kolonner, figur 3 har 3 rader og 4 kolonner, figur 4 har 4 rader og 5 kolonner.">
+      <svg viewBox="0 0 640 150" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire kvadratiske prikkmønstre: figur 1 har 1 prikk, figur 2 har 4 prikker, figur 3 har 9 prikker og figur 4 har 16 prikker.">
         <g fill="#087f8c">
-          <circle cx="55" cy="40" r="5"/><circle cx="75" cy="40" r="5"/>
-          <circle cx="195" cy="28" r="5"/><circle cx="215" cy="28" r="5"/><circle cx="235" cy="28" r="5"/>
-          <circle cx="195" cy="48" r="5"/><circle cx="215" cy="48" r="5"/><circle cx="235" cy="48" r="5"/>
-          <circle cx="350" cy="16" r="5"/><circle cx="370" cy="16" r="5"/><circle cx="390" cy="16" r="5"/><circle cx="410" cy="16" r="5"/>
-          <circle cx="350" cy="36" r="5"/><circle cx="370" cy="36" r="5"/><circle cx="390" cy="36" r="5"/><circle cx="410" cy="36" r="5"/>
-          <circle cx="350" cy="56" r="5"/><circle cx="370" cy="56" r="5"/><circle cx="390" cy="56" r="5"/><circle cx="410" cy="56" r="5"/>
-          <circle cx="520" cy="8" r="5"/><circle cx="540" cy="8" r="5"/><circle cx="560" cy="8" r="5"/><circle cx="580" cy="8" r="5"/><circle cx="600" cy="8" r="5"/>
-          <circle cx="520" cy="28" r="5"/><circle cx="540" cy="28" r="5"/><circle cx="560" cy="28" r="5"/><circle cx="580" cy="28" r="5"/><circle cx="600" cy="28" r="5"/>
-          <circle cx="520" cy="48" r="5"/><circle cx="540" cy="48" r="5"/><circle cx="560" cy="48" r="5"/><circle cx="580" cy="48" r="5"/><circle cx="600" cy="48" r="5"/>
-          <circle cx="520" cy="68" r="5"/><circle cx="540" cy="68" r="5"/><circle cx="560" cy="68" r="5"/><circle cx="580" cy="68" r="5"/><circle cx="600" cy="68" r="5"/>
+          <circle cx="65" cy="45" r="5"/>
+          <circle cx="190" cy="32" r="5"/><circle cx="212" cy="32" r="5"/><circle cx="190" cy="54" r="5"/><circle cx="212" cy="54" r="5"/>
+          <circle cx="330" cy="22" r="5"/><circle cx="350" cy="22" r="5"/><circle cx="370" cy="22" r="5"/><circle cx="330" cy="42" r="5"/><circle cx="350" cy="42" r="5"/><circle cx="370" cy="42" r="5"/><circle cx="330" cy="62" r="5"/><circle cx="350" cy="62" r="5"/><circle cx="370" cy="62" r="5"/>
+          <circle cx="490" cy="12" r="5"/><circle cx="510" cy="12" r="5"/><circle cx="530" cy="12" r="5"/><circle cx="550" cy="12" r="5"/>
+          <circle cx="490" cy="32" r="5"/><circle cx="510" cy="32" r="5"/><circle cx="530" cy="32" r="5"/><circle cx="550" cy="32" r="5"/>
+          <circle cx="490" cy="52" r="5"/><circle cx="510" cy="52" r="5"/><circle cx="530" cy="52" r="5"/><circle cx="550" cy="52" r="5"/>
+          <circle cx="490" cy="72" r="5"/><circle cx="510" cy="72" r="5"/><circle cx="530" cy="72" r="5"/><circle cx="550" cy="72" r="5"/>
         </g>
-        <g fill="#334155" font-size="12" text-anchor="middle"><text x="65" y="112">Figur 1</text><text x="215" y="112">Figur 2</text><text x="380" y="112">Figur 3</text><text x="560" y="112">Figur 4</text></g>
-        <g fill="#64748b" font-size="10" text-anchor="middle"><text x="65" y="130">1 × 2</text><text x="215" y="130">2 × 3</text><text x="380" y="130">3 × 4</text><text x="560" y="130">4 × 5</text></g>
+        <g fill="#334155" font-size="12" text-anchor="middle"><text x="65" y="112">Figur 1</text><text x="201" y="112">Figur 2</text><text x="350" y="112">Figur 3</text><text x="520" y="112">Figur 4</text></g>
       </svg>
-      <figcaption><strong>Figur 7.1.</strong> Hver ny figur får én ekstra rad og én ekstra kolonne.</figcaption>
+      <figcaption><strong>Figur 2.1.2.</strong> Antallet av prikker vokser når kvadratet får én ny rad og én ny kolonne.</figcaption>
     </figure>
 
     a) Tell prikkene i figur 1–4.
@@ -163,9 +170,10 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) Finn en formel for antall prikker i figur \(n\).
 
-    d) Forklar hvorfor økningen fra figur til figur ikke er konstant.
+    d) Hvor mange prikker legges til fra én figur til den neste? Forklar mønsteret.
 
 !!! question "Oppgave 2.1.3 – Lag en regel"
+
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
 
     a) Finn differansen.
@@ -179,9 +187,11 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 ## Del 3 – Programmering
 
 !!! important "Les kode systematisk"
+
     Følg programmet linje for linje. Noter verdiene til variablene etter hver runde. Husk at øvre grense i Python sin \(range\) ikke er med.
 
 !!! question "Oppgave 2.2.1 – Følg løkka"
+
     ~~~python
     total = 0
     for n in range(1, 5):
@@ -198,6 +208,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Endre programmet slik at det summerer partallene fra 2 til 20.
 
 !!! question "Oppgave 2.2.2 – Programmer figurtall"
+
     Et figurtall er gitt ved \(F(n)=n^2+n\).
     ~~~python
     def F(n):
@@ -216,6 +227,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Hvorfor er det nyttig å lage en funksjon?
 
 !!! question "Oppgave 2.2.3 – Finn kodefeilen"
+
     Målet er å skrive ut kvadrattallene fra 1 til 5.
     ~~~python
     for n in range(1, 5):
@@ -229,6 +241,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Rett programmet.
 
 !!! question "Oppgave 2.2.4 – Trekanttall"
+
     \(T(n)=\frac{n(n+1)}2\).
 
     a) Kontroller at de fem første verdiene er \(1,3,6,10,15\).
@@ -240,11 +253,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 ## Del 4 – Første-, andre- og tredjegradsfunksjoner
 
 !!! important "Kjennetegn"
+
     Førstegrad: \(f(x)=ax+b\), rett linje.  
     Andregrad: \(f(x)=ax^2+bx+c\), parabel.  
     Tredjegrad: \(f(x)=ax^3+bx^2+cx+d\), kubisk kurve.
 
 !!! question "Oppgave 3.1.1 – Hvilken type funksjon?"
+
     Se på hvert funksjonsuttrykk. Bestem om funksjonen er førstegrad, andregrad eller tredjegrad. Skriv kort hva du ser etter i uttrykket for å avgjøre graden.
 
     a) \(f(x)=4x-7\)
@@ -256,6 +271,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
 
 !!! question "Oppgave 3.1.2 – Koble funksjon og graf"
+
     Koble hver graf (A, B og C) til riktig funksjonsuttrykk nedenfor. Begrunn svarene.
 
     <div class="degree-graph-grid">
@@ -273,11 +289,11 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       </figure>
     </div>
 
-    I. \\(f(x)=x^3\\)
+    I. \(f(x)=x^3\)
 
-    II. \\(g(x)=x+1\\)
+    II. \(g(x)=x+1\)
 
-    III. \\(h(x)=x^2-2\\)
+    III. \(h(x)=x^2-2\)
 
     a) Hvilket uttrykk hører til hver graf?
 
@@ -286,6 +302,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Forklar hvordan du kan se forskjell på grafene uten å regne ut funksjonsverdier.
 
 !!! question "Oppgave 3.1.3 – Førstegrad"
+
     \(f(x)=2x-4\).
 
     a) Regn ut funksjonsverdien for hver x-verdi. Skriv svaret på linjen.
@@ -309,6 +326,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Forklar stigningstallet.
 
 !!! question "Oppgave 3.1.4 – Andregrad"
+
     \(g(x)=x^2-4\).
 
     a) Regn ut funksjonsverdiene for \(x=-3,-2,-1,0,1,2,3\).
@@ -322,6 +340,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Hvorfor er grafen symmetrisk om y-aksen?
 
 !!! question "Oppgave 3.1.5 – Tredjegrad"
+
     \(h(x)=x^3-3x\).
 
     a) Regn ut \(h(-2),h(-1),h(0),h(1),h(2)\).
@@ -333,53 +352,58 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
 
 !!! question "Oppgave 3.1.6 – Finn en lineær funksjon fra to punkter"
-    En rett linje går gjennom punktene \\(A(1,5)\\) og \\(B(3,11)\\).
+
+    En rett linje går gjennom punktene \(A(1,5)\) og \(B(3,11)\).
 
     a) Finn stigningstallet.
 
     b) Bestem konstantleddet.
 
-    c) Skriv funksjonsuttrykket på standard form \\(f(x)=ax+b\\).
+    c) Skriv funksjonsuttrykket på standard form \(f(x)=ax+b\).
 
     d) Kontroller at grafen går gjennom begge punktene.
 
 !!! question "Oppgave 3.1.7 – Andregradsfunksjon fra nullpunkter"
-    En andregradsfunksjon har nullpunktene \\(x=1\\) og \\(x=5\\). Grafen går dessuten gjennom punktet \\(P(0,10)\\).
 
-    a) Skriv funksjonen på faktorform \\(f(x)=a(x-1)(x-5)\\).
+    En andregradsfunksjon har nullpunktene \(x=1\) og \(x=5\). Grafen går dessuten gjennom punktet \(P(0,10)\).
 
-    b) Bruk punktet \\(P(0,10)\\) til å bestemme \\(a\\).
+    a) Skriv funksjonen på faktorform \(f(x)=a(x-1)(x-5)\).
 
-    c) Gang ut parentesene og skriv funksjonen på standardform \\(ax^2+bx+c\\).
+    b) Bruk punktet \(P(0,10)\) til å bestemme \(a\).
+
+    c) Gang ut parentesene og skriv funksjonen på standardform \(ax^2+bx+c\).
 
     d) Kontroller at funksjonsuttrykket gir nullpunktene 1 og 5.
 
 !!! question "Oppgave 3.1.8 – Ekstremalform og standardform"
-    En parabel har bunnpunkt \\(B(2,-3)\\) og går gjennom punktet \\(P(4,5)\\).
 
-    a) Skriv funksjonen på ekstremalform \\(f(x)=a(x-p)^2+q\\).
+    En parabel har bunnpunkt \(B(2,-3)\) og går gjennom punktet \(P(4,5)\).
 
-    b) Bruk punktet \\(P(4,5)\\) til å bestemme \\(a\\).
+    a) Skriv funksjonen på ekstremalform \(f(x)=a(x-p)^2+q\).
+
+    b) Bruk punktet \(P(4,5)\) til å bestemme \(a\).
 
     c) Gang ut parentesen og skriv funksjonen på standardform.
 
-    d) Finn nullpunktene ved å løse likningen \\(f(x)=0\\).
+    d) Finn nullpunktene ved å løse likningen \(f(x)=0\).
 
 !!! question "Oppgave 3.1.9 – Faktoriser"
+
     Faktoriser uttrykkene så langt det lar seg gjøre.
 
-    a) \\(x^2+7x+12\\)
+    a) \(x^2+7x+12\)
 
-    b) \\(x^2-9\\)
+    b) \(x^2-9\)
 
-    c) \\(2x^2-8x\\)
+    c) \(2x^2-8x\)
 
-    d) \\(x^2-5x+6\\)
+    d) \(x^2-5x+6\)
 
-    e) \\(x^3-4x\\)
+    e) \(x^3-4x\)
 
 !!! question "Oppgave 3.1.10 – Velg riktig form"
-    En andregradsfunksjon er gitt ved \\(f(x)=x^2-6x+5\\).
+
+    En andregradsfunksjon er gitt ved \(f(x)=x^2-6x+5\).
 
     a) Faktoriser uttrykket.
 
@@ -390,6 +414,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Oppgi bunnpunktet fra ekstremalformen.
 
 !!! question "Oppgave 3.1.11 – Sammenlign"
+
     \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
 
     a) Bestem graden.
@@ -401,44 +426,47 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Forklar hvorfor samme konstantledd ikke gir samme graf.
 
 !!! question "Oppgave 3.1.12 – Finn en førstegradsfunksjon fra grafen"
-    Grafen viser en rett linje. Punktene \\(A\\) og \\(B\\) er markert.
+
+    Grafen viser en rett linje. Punktene \(A\) og \(B\) er markert.
 
     <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskLinearPoints" role="img" aria-label="Rett linje gjennom A(1, 5) og B(3, 11), med koordinatakser og rutenett."></div>
+      <div class="math-graph" data-math-graph="taskLinearPoints" role="img" aria-label="Rett linje gjennom A(minus 1, 1) og B(2, 10), med koordinatakser og rutenett."></div>
       <figcaption><strong>Figur 3.1.12.</strong> Rett linje med to kjente punkter.</figcaption>
     </figure>
 
-    a) Les av koordinatene til punktene \\(A\\) og \\(B\\).
+    a) Les av koordinatene til punktene \(A\) og \(B\).
 
     b) Bestem stigningstallet.
 
     c) Bestem konstantleddet.
 
-    d) Skriv funksjonsuttrykket på formen \\(f(x)=ax+b\\).
+    d) Skriv funksjonsuttrykket på formen \(f(x)=ax+b\).
 
     e) Kontroller svaret ved å sette inn begge punktene.
 
 !!! question "Oppgave 3.1.13 – Finn en andregradsfunksjon fra nullpunkter og et punkt"
-    Grafen viser en parabel. Punktene \\(A\\), \\(B\\) og \\(C\\) er markert.
+
+    Grafen viser en parabel. Punktene \(A\), \(B\) og \(C\) er markert.
 
     <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskQuadraticRoots" role="img" aria-label="Parabel med markerte punkter A(1, 0), B(5, 0) og C(0, 10), koordinatakser og rutenett."></div>
+      <div class="math-graph" data-math-graph="taskQuadraticRoots" role="img" aria-label="Parabel med markerte punkter A(minus 1, 0), B(3, 0) og C(0, minus 6), koordinatakser og rutenett."></div>
       <figcaption><strong>Figur 3.1.13.</strong> Parabel med to nullpunkter og ett kjent punkt.</figcaption>
     </figure>
 
     a) Les av nullpunktene til funksjonen.
 
-    b) Sett opp funksjonen på faktorform \\(f(x)=a(x-x_1)(x-x_2)\\).
+    b) Sett opp funksjonen på faktorform \(f(x)=a(x-x_1)(x-x_2)\).
 
-    c) Bruk punktet \\(C\\) til å bestemme \\(a\\).
+    c) Bruk punktet \(C\) til å bestemme \(a\).
 
     d) Skriv funksjonen på standardform.
 
 !!! question "Oppgave 3.1.14 – Finn funksjonen fra bunnpunkt og punkt"
-    Grafen viser en parabel med bunnpunkt \\(T\\) og et annet kjent punkt \\(P\\).
+
+    Grafen viser en parabel med bunnpunkt \(T\) og et annet kjent punkt \(P\).
 
     <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskQuadraticVertex" role="img" aria-label="Parabel med markert bunnpunkt T(2, minus 3) og punkt P(4, 5), koordinatakser og rutenett."></div>
+      <div class="math-graph" data-math-graph="taskQuadraticVertex" role="img" aria-label="Parabel med markert bunnpunkt T(1, minus 4) og punkt P(3, 4), koordinatakser og rutenett."></div>
       <figcaption><strong>Figur 3.1.14.</strong> Parabel med markert bunnpunkt og punkt.</figcaption>
     </figure>
 
@@ -446,14 +474,15 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     b) Sett opp funksjonen på ekstremalform.
 
-    c) Bruk punktet \\(P\\) til å bestemme \\(a\\).
+    c) Bruk punktet \(P\) til å bestemme \(a\).
 
     d) Skriv funksjonen på standardform.
 
     e) Finn nullpunktene.
 
 !!! question "Oppgave 3.1.15 – Finn en tredjegradsfunksjon fra grafen"
-    Grafen viser en tredjegradsfunksjon. Punktene \\(A\\), \\(B\\), \\(C\\) og \\(P\\) er markert.
+
+    Grafen viser en tredjegradsfunksjon. Punktene \(A\), \(B\), \(C\) og \(P\) er markert.
 
     <figure class="math-graph-frame">
       <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 6), koordinatakser og rutenett."></div>
@@ -464,12 +493,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     b) Sett opp funksjonen på faktorform.
 
-    c) Bruk punktet \\(P\\) til å bestemme konstanten foran faktorene.
+    c) Bruk punktet \(P\) til å bestemme konstanten foran faktorene.
 
     d) Gang ut parentesene og skriv funksjonen på standardform.
 
 !!! question "Oppgave 3.1.16 – Bestem andregradsfunksjonen fra tre punkter"
-    En parabel går gjennom de tre markerte punktene \\(A\\), \\(B\\) og \\(C\\).
+
+    En parabel går gjennom de tre markerte punktene \(A\), \(B\) og \(C\).
 
     <figure class="math-graph-frame">
       <div class="math-graph" data-math-graph="taskQuadraticThreePoints" role="img" aria-label="Parabel gjennom punktene A(minus 1, 6), B(1, 2) og C(3, 6), koordinatakser og rutenett."></div>
@@ -482,13 +512,14 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) Sett opp funksjonen på ekstremalform.
 
-    d) Bruk ett av de andre punktene til å bestemme \\(a\\).
+    d) Bruk ett av de andre punktene til å bestemme \(a\).
 
     e) Skriv funksjonen på standardform.
 
 ## Del 5 – Blandede utfordringer
 
 !!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
+
     En taxi tar 75 kr i startpris og 18 kr per kilometer.
 
     a) Sett opp \(P(x)\).
@@ -500,6 +531,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Forklar hva tallene i formelen betyr.
 
 !!! question "Oppgave 3.2.2 – Andregradsmodell"
+
     En ballhøyde er modellert ved \(H(t)=-5t^2+20t+1\).
 
     a) Hvorfor passer en andregradsfunksjon?
@@ -513,6 +545,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Hva betyr negativ høyde i modellen?
 
 !!! question "Oppgave 3.2.3 – Ekstra"
+
     \(p(x)=x^3-4x\).
 
     a) Faktoriser.
@@ -528,7 +561,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 - [ ] Jeg kan skrive intervaller på ulike måter.
 - [ ] Jeg kan finne en formel for et figurtall.
 - [ ] Jeg kan følge og rette enkel kode.
-- [ ] Jeg kan kjenne igjen og tolke første-, andre- og tredjegradsfunksjoner.\n- [ ] Jeg kan bestemme funksjonsuttrykk fra punkter og egenskaper.\n- [ ] Jeg kan bruke standardform, ekstremalform og faktorisering.
+- [ ] Jeg kan kjenne igjen og tolke første-, andre- og tredjegradsfunksjoner.
+- [ ] Jeg kan bestemme funksjonsuttrykk fra punkter og egenskaper.\n- [ ] Jeg kan bruke standardform, ekstremalform og faktorisering.
 - [ ] Jeg kan bruke en funksjon til å modellere en situasjon.
 
 Marker oppgavene du var usikker på. De brukes til å planlegge neste økt.
