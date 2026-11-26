@@ -102,9 +102,11 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     b) Figur 5 har \(5\cdot6=30\) prikker.
 
     c) Figur \(n\) har \(n\) rader og \(n+1\) kolonner:
+
     \[
     F(n)=n(n+1).
     \]
+
 
     d) Differansene er 4, 6, 8, 10, ... Økningen fra figur til figur blir 2 større hver gang.
 
@@ -181,9 +183,11 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     c) Høyeste eksponent er 3. Funksjonen er tredjegrad.
 
     d) Skriv gjerne uttrykket i synkende rekkefølge først:
+
     \[
     p(x)=x^3-3x^2+7.
     \]
+
     Høyeste eksponent er 3. Funksjonen er tredjegrad. Rekkefølgen leddene står i, endrer ikke graden.
 
 !!! note "Oppgave 3.1.2 – fasit"
@@ -201,6 +205,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 !!! note "Oppgave 3.1.3 – fasit"
 
     a)
+
     \[
     \begin{aligned}
     f(-1)&=-6,\\
