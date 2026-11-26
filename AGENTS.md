@@ -36,6 +36,17 @@ Disse reglene gjelder for dette bok-repoet og skal brukes automatisk på tvers a
 - Den automatiske kontrollen er et ekstra sikkerhetslag. Den erstatter ikke faglig kontroll, Zensical-bygg eller visuell kontroll av siden.
 - Hvis en regel ikke passer T-matte, juster .book-quality.toml eksplisitt og begrunn unntaket; ikke ignorer regelen i den enkelte chat.
 
+## Ekstra regler for lærer-/elevhefter og oppgaveformatering
+
+- Sett alltid inn en tom linje rett etter overskriften på hver admonition-boks før innholdet begynner.
+- Sett inn en tom linje før hver deloppgave a), b), c) osv. Deloppgaver skal være egne avsnitt, aldri flere på samme linje.
+- MathJax skal bruke én vanlig omvendt skråstrek per avgrenser og kommando: `\(`, `\)`, `\frac`. Ikke lim inn dobbelt-escapede sekvenser som `\\(` eller `\\frac`.
+- Når en oppgave legges til, skal oppgavebanken kontrolleres for identiske eller nesten identiske oppgaver. En ny grafoppgave skal ikke bare gjenta en eksisterende oppgave med samme punkter og samme funksjon.
+- Ved endring av oppgaver skal elev- og lærerversjon oppdateres samlet. Lærerheftet skal inneholde nøyaktig samme oppgaver, ordlyd, rekkefølge og figurer som elevheftet, i tillegg til én fasitboks med samme oppgave-ID per oppgave.
+- Figurenes bildetekster skal bruke riktig oppgavenummer, for eksempel `Figur 2.1.2.`. Alle figurer skal ha alternativ tekst/ARIA-beskrivelse. Bildeteksten skal ikke røpe metoden eller svaret.
+- Fasit skal være skjult i lærerheftets nettvisning, men vises ved utskrift. Sluttsvar i fasitbokser med matematikk skal dobbeltunderstrekes.
+- Før levering skal oppgave-ID-er, fasit-ID-er, figurreferanser og grafnøkler sammenlignes mellom heftene. Kontroller også at ingen erstattet oppgavetype fortsatt ligger igjen under et annet oppgavenummer.
+
 ## Obligatorisk kontroll før levering
 1. Sammenlign design med en eksisterende ferdig side.
 2. Kontroller matematikk, fasit, nummerering, lenker og bokser.
