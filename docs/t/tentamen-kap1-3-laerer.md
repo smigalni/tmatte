@@ -22,7 +22,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 ## Oppgave 1–5 – Tallmengder og intervaller
 
-!!! note "Oppgave 1 – fasit"
+!!! note "Oppgave 1.1.1 – fasit"
 
     a) \(7\): \(\mathbb N\).  
 
@@ -36,7 +36,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     f) \(-12/3=-4\): \(\mathbb Z\).
 
-!!! note "Oppgave 2 – fasit"
+!!! note "Oppgave 1.1.2 – fasit"
 
     a) Sant: heltall kan skrives som brøk med nevner 1.  
 
@@ -48,7 +48,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
 
-!!! note "Oppgave 3 – fasit"
+!!! note "Oppgave 1.1.3 – fasit"
 
     a) \(2\leq x<7\).
 
@@ -56,7 +56,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     c) \(\{2,3,4,5,6\}\).
 
-!!! note "Oppgave 4 – fasit"
+!!! note "Oppgave 1.1.4 – fasit"
 
     a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3[\). Listeform: \(\{-2,-1,0,1,2\}\).
 
@@ -66,7 +66,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Ulikhet: \(x>4\). Intervall: \(]4,\infty[\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
 
-!!! note "Oppgave 5 – fasit"
+!!! note "Oppgave 1.1.5 – fasit"
 
     a) Ulikheten er riktig. Feilen er at 4 er tatt med i listeformen, selv om \(x<4\).
 
@@ -76,7 +76,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 ## Oppgave 6–8 – Figurtall
 
-!!! note "Oppgave 6 – fasit"
+!!! note "Oppgave 2.1.1 – fasit"
     Figuren gir 1, 3, 5, 7 brikker.  
 
     a) 1, 3, 5, 7.  
@@ -87,7 +87,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) \(F(n)=2n-1\). Det legges til 2 brikker for hver ny figur.
 
-!!! note "Oppgave 7 – fasit"
+!!! note "Oppgave 2.1.2 – fasit"
 
     a) 2, 6, 12, 20 prikker.
 
@@ -100,7 +100,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Differansene er 4, 6, 8, 10, ... Økningen fra figur til figur blir 2 større hver gang.
 
-!!! note "Oppgave 8 – fasit"
+!!! note "Oppgave 2.1.3 – fasit"
 
     a) Differansen er 3.  
 
@@ -112,7 +112,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 ## Oppgave 9–12 – Programmering
 
-!!! note "Oppgave 9 – fasit"
+!!! note "Oppgave 2.2.1 – fasit"
 
     a) \(n=1,2,3,4\).  
 
@@ -129,7 +129,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     ~~~
     Resultatet er 110.
 
-!!! note "Oppgave 10 – fasit"
+!!! note "Oppgave 2.2.2 – fasit"
 
     a) Skriver ut 2, 6, 12, 20, 30.  
 
@@ -139,7 +139,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Funksjonen samler regelen ett sted og kan brukes med flere verdier.
 
-!!! note "Oppgave 11 – fasit"
+!!! note "Oppgave 2.2.3 – fasit"
 
     a) Skriver ut 1, 4, 9, 16.  
 
@@ -147,7 +147,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     c) Bruk \(range(1, 6)\).
 
-!!! note "Oppgave 12 – fasit"
+!!! note "Oppgave 2.2.4 – fasit"
 
     a) \(T(1)=1,T(2)=3,T(3)=6,T(4)=10,T(5)=15\).  
 
@@ -164,7 +164,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 ## Oppgave 13–18 – Funksjoner
 
-!!! note "Oppgave 13 – fasit"
+!!! note "Oppgave 3.1.1 – fasit"
 
     a) Høyeste eksponent er 1. Funksjonen er førstegrad.
 
@@ -178,7 +178,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     \]
     Høyeste eksponent er 3. Funksjonen er tredjegrad. Rekkefølgen leddene står i, endrer ikke graden.
 
-!!! note "Oppgave 14 – fasit"
+!!! note "Oppgave 3.1.2 – fasit"
 
     a) Graf A er førstegrad: grafen er en rett linje.
 
@@ -190,7 +190,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     e) Graf B er en parabel og har en krum form. En førstegradsfunksjon har alltid en rett linje som graf.
 
-!!! note "Oppgave 15 – fasit"
+!!! note "Oppgave 3.1.3 – fasit"
 
     a)
     \[
@@ -211,7 +211,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     e) Når x øker med 1, øker funksjonsverdien med 2.
 
-!!! note "Oppgave 16 – fasit"
+!!! note "Oppgave 3.1.4 – fasit"
 
     a) For \(x=-3,-2,-1,0,1,2,3\) får vi \(5,0,-3,-4,-3,0,5\).  
 
@@ -223,7 +223,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     e) \(g(-x)=g(x)\), derfor er grafen symmetrisk om y-aksen.
 
-!!! note "Oppgave 17 – fasit"
+!!! note "Oppgave 3.1.5 – fasit"
 
     a) \(h(-2)=-2\), \(h(-1)=2\), \(h(0)=0\), \(h(1)=-2\), \(h(2)=2\).  
 
@@ -233,7 +233,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Når \(x\to-\infty\), går \(h(x)\to-\infty\); når \(x\to\infty\), går \(h(x)\to\infty\).
 
-!!! note "Oppgave 18 – fasit"
+!!! note "Oppgave 3.1.6 – fasit"
 
     a) \(f\) førstegrad, \(g\) andregrad, \(h\) tredjegrad.  
 
@@ -245,7 +245,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 ## Oppgave 19–21 – Modellering
 
-!!! note "Oppgave 19 – fasit"
+!!! note "Oppgave 3.2.1 – fasit"
 
     a) \(P(x)=75+18x\).  
 
@@ -255,7 +255,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) 75 kr er startpris; 18 kr er pris per kilometer.
 
-!!! note "Oppgave 20 – fasit"
+!!! note "Oppgave 3.2.2 – fasit"
 
     a) Høyden øker, når et toppunkt og avtar; en parabel kan modellere dette.  
 
@@ -267,7 +267,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     e) Negativ høyde er ikke fysisk mulig; modellen gjelder bare i et begrenset tidsrom.
 
-!!! note "Oppgave 21 – fasit"
+!!! note "Oppgave 3.2.3 – fasit"
 
     a) \(p(x)=x(x-2)(x+2)\).  
 
