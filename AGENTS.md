@@ -19,6 +19,16 @@ Disse reglene gjelder for dette bok-repoet og skal brukes automatisk på tvers a
 - Kontroller fasit, fortegn, parenteser, definisjonsmengder og samsvar mellom oppgaver og svar.
 - Følg Zensical-konfigurasjonen og eksisterende navigasjon. Ikke finn opp en ny stil for hver side.
 
+## Obligatorisk standard for oppgaver og figurer
+
+- Deloppgaver a), b), c) osv. skal alltid stå på hver sin linje i elevtekst, fasit og løsningsforslag. Ikke legg inn ekstra punktmarkør foran bokstavene.
+- Oppgavetekst, deloppgaver og tilhørende svar skal ha tydelig vertikal struktur. Formel eller figur skal stå visuelt sammen med deloppgaven den hører til.
+- Alle koordinatsystemer skal ha tydelige pilspisser på aksene og etikettene x og y. Tallinjer skal vise retning med pilspisser og ha relevant variabelnavn.
+- Figurer skal ha korrekt skala, lesbare akseverdier, tydelige markeringer og matematisk riktig kurve/geometri. Ikke lever en skisse som mangler nødvendige akseetiketter eller retning.
+- Elev- og lærerversjon skal ha identisk oppgavenummerering, rekkefølge, ordlyd og figurer. Lærerversjonen skal i tillegg ha samsvarende fasit.
+- Trykk/PDF: første side skal kun inneholde MathPlatform-logoen. Selve opplegget starter på side 2.
+- Disse kravene skal kontrolleres automatisk der det er mulig, og deretter visuelt i nettvisning og utskrift. En grønn CI-kontroll erstatter ikke visuell kontroll.
+
 ## Felles kvalitetskontroll på tvers av bøker
 - Den delte standarden og sjekkeren dokumenteres i https://github.com/smigalni/matte/blob/feature/kapittel-3-derivasjon-komplett/BOOK_QUALITY.md.
 - Bokspesifikke innstillinger ligger i .book-quality.toml. Ikke kopier selve kontrollprogrammet hit.
