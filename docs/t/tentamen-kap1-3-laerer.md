@@ -31,7 +31,7 @@ Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår
 ## Oppgaver – identisk med elevheftet
 
 ## Målet med økten
-Du skal kunne plassere tall i tallmengdene, skrive intervaller på ulike måter, finne regler for figurtall, følge enkel kode og tolke første-, andre- og tredjegradsfunksjoner.
+Du skal kunne plassere tall i tallmengdene, skrive intervaller på ulike måter, finne regler for figurtall, følge enkel kode og bestemme funksjonsuttrykk fra grafer og punkter for første-, andre- og tredjegradsfunksjoner.
 
 Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
@@ -176,7 +176,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
         </g>
         <g fill="#334155" font-size="12" text-anchor="middle"><text x="65" y="112">Figur 1</text><text x="201" y="112">Figur 2</text><text x="350" y="112">Figur 3</text><text x="520" y="112">Figur 4</text></g>
       </svg>
-      <figcaption><strong>Figur 2.1.2.</strong> Antallet av prikker vokser når kvadratet får én ny rad og én ny kolonne.</figcaption>
+      <figcaption><strong>Figur 2.1.2.</strong> Fire figurer i et prikkmønster.</figcaption>
     </figure>
 
     a) Tell prikkene i figur 1–4.
@@ -645,9 +645,9 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     a) 1, 4, 9, 16 prikker.
 
-    b) Figur 5 har (5^2=25) prikker.
+    b) Figur 5 har \(5^2=25\) prikker.
 
-    c) (F(n)=n^2).
+    c) \(F(n)=n^2\).
 
     d) Det legges til 3, 5, 7, 9, ... prikker. Antallet som legges til, øker med 2 fra figur til figur.
 
