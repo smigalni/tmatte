@@ -25,19 +25,30 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1 – Hvilken tallmengde?"
     Oppgi den minste tallmengden tallet tilhører.
+
     a) \(7\)
+
     b) \(-4\)
+
     c) \(\frac35\)
+
     d) \(\sqrt2\)
+
     e) \(0\)
+
     f) \(-\frac{12}{3}\).
 
 !!! question "Oppgave 2 – Sant eller usant?"
     Begrunn kort.
+
     a) Alle heltall er rasjonale tall.
+
     b) Alle rasjonale tall er heltall.
+
     c) \(\sqrt9\) er et naturlig tall.
+
     d) \(\pi\) er rasjonalt.
+
     e) Et tall kan tilhøre flere tallmengder samtidig.
 
 !!! question "Oppgave 3 – Les av intervallet"
@@ -49,21 +60,31 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       <line x1="145" y1="42" x2="420" y2="42" stroke="#168b83" stroke-width="7"/>
       <circle cx="145" cy="42" r="6" fill="#168b83" stroke="#168b83" stroke-width="3"/><circle cx="420" cy="42" r="6" fill="white" stroke="#168b83" stroke-width="3"/>
     </svg>
+
     a) Skriv som ulikhet.
+
     b) Forklar hvorfor 2 er med, mens 7 ikke er med.
+
     c) Skriv listeform for heltallene.
 
 !!! question "Oppgave 4 – Oversett"
     Skriv listeform (heltall) og tegn hvert intervall på tallinja.
+
     a) \(-2\leq x<3\)
+
     b) \(1<x\leq6\)
+
     c) Alle heltall fra og med \(-3\) til og med \(2\).
+
     d) \(x>4\). Forklar hvorfor listeformen ikke er endelig.
 
 !!! question "Oppgave 5 – Finn feilen"
     En elev skriver \(-2\leq x<4,\quad \{-2,-1,0,1,2,3,4\}\).
+
     a) Hva er feil?
+
     b) Skriv riktig listeform for heltall.
+
     c) Forklar åpent og lukket endepunkt.
 
 ## Del 2 – Figurtall
@@ -82,9 +103,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       </g>
       <g fill="currentColor" font-size="12" text-anchor="middle"><text x="65" y="125">Figur 1</text><text x="218" y="125">Figur 2</text><text x="375" y="125">Figur 3</text><text x="540" y="125">Figur 4</text></g>
     </svg>
+
     a) Tell brikkene i figur 1–4.
+
     b) Skriv tallfølgen.
+
     c) Hvor mange brikker har figur 8?
+
     d) Finn en formel for figur \(n\).
 
 !!! question "Oppgave 7 – Kvadrattall"
@@ -96,16 +121,24 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       </g>
       <g fill="currentColor" font-size="12" text-anchor="middle"><text x="70" y="95">Figur 1</text><text x="230" y="95">Figur 2</text><text x="390" y="95">Figur 3</text></g>
     </svg>
+
     a) Skriv antall prikker i figur 1–3.
+
     b) Finn antallet i figur 5.
+
     c) Finn formelen for figur \(n\).
+
     d) Hvorfor er økningen ikke konstant?
 
 !!! question "Oppgave 8 – Lag en regel"
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
+
     a) Finn differansen.
+
     b) Finn formelen for ledd \(n\), der første ledd er \(n=1\).
+
     c) Hvilket figurnummer har 40 brikker?
+
     d) Kan mønsteret ha 41 brikker?
 
 ## Del 3 – Programmering
@@ -120,9 +153,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
         total = total + 2*n
     print(total)
     ~~~
+
     a) Hvilke verdier får \(n\)?
+
     b) Skriv verdien til total etter hver runde.
+
     c) Hva skrives ut?
+
     d) Endre programmet slik at det summerer partallene fra 2 til 20.
 
 !!! question "Oppgave 10 – Programmer figurtall"
@@ -134,9 +171,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     for n in range(1, 6):
         print(F(n))
     ~~~
+
     a) Hva skriver programmet ut?
+
     b) Hva betyr parameteren \(n\)?
+
     c) Endre programmet til figur 1–10.
+
     d) Hvorfor er det nyttig å lage en funksjon?
 
 !!! question "Oppgave 11 – Finn kodefeilen"
@@ -145,14 +186,20 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     for n in range(1, 5):
         print(n*n)
     ~~~
+
     a) Hva skrives ut?
+
     b) Hvorfor mangler ett tall?
+
     c) Rett programmet.
 
 !!! question "Oppgave 12 – Trekanttall"
     \(T(n)=\frac{n(n+1)}2\).
+
     a) Kontroller at de fem første verdiene er \(1,3,6,10,15\).
+
     b) Skriv kode som skriver ut de fem første verdiene.
+
     c) Finn \(T(20)\).
 
 ## Del 4 – Første-, andre- og tredjegradsfunksjoner
@@ -163,9 +210,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Tredjegrad: \(f(x)=ax^3+bx^2+cx+d\), kubisk kurve.
 
 !!! question "Oppgave 13 – Bestem graden"
+
     a) \(f(x)=4x-7\)
+
     b) \(g(x)=2x^2-5x+1\)
+
     c) \(h(x)=-x^3+4x\)
+
     d) \(p(x)=7-3x^2+x^3\). Begrunn med høyeste eksponent.
 
 !!! question "Oppgave 14 – Les av grafene"
@@ -185,67 +236,103 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       <path d="M430 175C465 175 470 105 500 105C530 105 535 35 585 35" fill="none" stroke="#168b83" stroke-width="3"/>
       <g fill="currentColor" font-size="13" text-anchor="middle"><text x="100" y="215">A</text><text x="300" y="215">B</text><text x="500" y="215">C</text></g>
     </svg>
+
     a) Hvilken er førstegrad?
+
     b) Hvilken er andregrad?
+
     c) Hvilken er tredjegrad?
+
     d) Hvilken har bunnpunkt?
+
     e) Hvorfor kan ikke en rett linje være en andregradsfunksjon?
 
 !!! question "Oppgave 15 – Førstegrad"
     \(f(x)=2x-4\).
+
     a) Fyll ut tabellen for \(x=-1,0,1,2,3\).
     | \(x\) | -1 | 0 | 1 | 2 | 3 |
     |---|---:|---:|---:|---:|---:|
     | \(f(x)\) | | | | | |
+
     b) Tegn grafen.
+
     c) Finn skjæringen med y-aksen.
+
     d) Finn nullpunktet.
+
     e) Forklar stigningstallet.
 
 !!! question "Oppgave 16 – Andregrad"
     \(g(x)=x^2-4\).
+
     a) Regn ut funksjonsverdiene for \(x=-3,-2,-1,0,1,2,3\).
+
     b) Finn nullpunktene.
+
     c) Finn bunnpunktet.
+
     d) Tegn grafen.
+
     e) Hvorfor er grafen symmetrisk om y-aksen?
 
 !!! question "Oppgave 17 – Tredjegrad"
     \(h(x)=x^3-3x\).
+
     a) Regn ut \(h(-2),h(-1),h(0),h(1),h(2)\).
+
     b) Faktoriser og finn nullpunktene.
+
     c) Skisser grafen.
+
     d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
 
 !!! question "Oppgave 18 – Sammenlign"
     \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
+
     a) Bestem graden.
+
     b) Regn ut alle tre for \(x=2\).
+
     c) Hvilke går gjennom \((0,1)\)?
+
     d) Forklar hvorfor samme konstantledd ikke gir samme graf.
 
 ## Del 5 – Blandede utfordringer
 
 !!! question "Oppgave 19 – Fra tekst til funksjon"
     En taxi tar 75 kr i startpris og 18 kr per kilometer.
+
     a) Sett opp \(P(x)\).
+
     b) Hva koster 12 km?
+
     c) Hvor langt kan du kjøre for 300 kr?
+
     d) Forklar hva tallene i formelen betyr.
 
 !!! question "Oppgave 20 – Andregradsmodell"
     En ballhøyde er modellert ved \(H(t)=-5t^2+20t+1\).
+
     a) Hvorfor passer en andregradsfunksjon?
+
     b) Finn starthøyden.
+
     c) Når er høyden størst?
+
     d) Finn maksimal høyde.
+
     e) Hva betyr negativ høyde i modellen?
 
 !!! question "Oppgave 21 – Ekstra"
     \(p(x)=x^3-4x\).
+
     a) Faktoriser.
+
     b) Finn nullpunktene.
+
     c) Regn ut \(p(-2),p(0),p(2)\).
+
     d) Hvorfor krysser grafen x-aksen i nullpunktene?
 
 ## Egenvurdering
