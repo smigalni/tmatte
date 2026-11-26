@@ -46,7 +46,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     a) Skriv som ulikhet. b) Skriv som ulikhet. c) Skriv listeform for heltallene.
 
 !!! question "Oppgave 4 – Oversett"
-    Skriv som ulikhet og listeform (heltall).
+    Skriv listeform (heltall) og tegn hvert intervall på tallinja.
     a) \(-2\leq x<3\)
     b) \(1<x\leq6\)
     c) Alle heltall fra og med \(-3\) til og med \(2\).
