@@ -49,6 +49,29 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1.1.1 – Plasser tallene"
 
+??? note "Fasit – oppgave 1.1.1"
+
+    a) \(7\): \(\mathbb N\).  
+
+    b) \(-4\): \(\mathbb Z\).  
+
+    c) \(\frac35\): \(\mathbb Q\).  
+
+    d) \(\sqrt2\): \(\mathbb R\), men ikke \(\mathbb Q\).  
+
+    e) \(0\): \(\mathbb N\), etter konvensjonen i elevheftet.  
+
+    f) \(-12/3=-4\): \(\mathbb Z\).
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R},\mathbb{N},\mathbb{Z}}}
+    \]
+
     For hvert tall skal du velge **én** tallmengde: den minste mengden i rekken
     \(\mathbb N,\mathbb Z,\mathbb Q,\mathbb R\) som inneholder tallet.
     Skriv mengdesymbolet ved siden av hvert tall. Ikke skriv alle mengdene tallet tilhører.
@@ -67,6 +90,27 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1.1.2 – Sant eller usant?"
 
+??? note "Fasit – oppgave 1.1.2"
+
+    a) Sant: heltall kan skrives som brøk med nevner 1.  
+
+    b) Usant: \(1/2\) er rasjonalt, men ikke heltall.  
+
+    c) Sant: \(\sqrt9=3\).  
+
+    d) Usant: \(\pi\) er irrasjonalt.  
+
+    e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\text{Sant, usant, sant, usant, sant}}}
+    \]
+
     Begrunn kort.
 
     a) Alle heltall er rasjonale tall.
@@ -80,6 +124,23 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Et tall kan tilhøre flere tallmengder samtidig.
 
 !!! question "Oppgave 1.1.3 – Les av intervallet"
+
+??? note "Fasit – oppgave 1.1.3"
+
+    a) \(2\leq x<7\).
+
+    b) Intervallnotasjon: \([2,7\rangle\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
+
+    c) \(\{2,3,4,5,6\}\).
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\{2,3,4,5,6\}}}
+    \]
 
     Les av intervallet som er markert på tallinja.
 
@@ -104,6 +165,25 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
 
+??? note "Fasit – oppgave 1.1.4"
+
+    a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3\rangle\). Listeform: \(\{-2,-1,0,1,2\}\).
+
+    b) Ulikhet: \(1<x\leq6\). Intervall: \(\langle1,6]\). Listeform: \(\{2,3,4,5,6\}\).
+
+    c) Ulikhet: \(-3\leq x\leq2\). Intervall: \([-3,2]\). Listeform: \(\{-3,-2,-1,0,1,2\}\).
+
+    d) Ulikhet: \(x>4\). Intervall: \(\langle4,\infty\rangle\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\langle4,\infty\rangle}}
+    \]
+
     For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \( < \) eller \( > \) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen bruker vi \([a,b\rangle\), \(\langle a,b]\), \(\langle a,b\rangle\) eller \([a,b]\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
@@ -115,6 +195,24 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Alle tall som er større enn \(4\). Forklar hvorfor listeformen ikke er endelig.
 
 !!! question "Oppgave 1.1.5 – Finn feilen"
+
+??? note "Fasit – oppgave 1.1.5"
+
+    a) Ulikheten er riktig. Feilen er at 4 er tatt med i listeformen, selv om \(x<4\).
+
+    b) \(\{-2,-1,0,1,2,3\}\).
+
+    c) Intervallnotasjon: \([-2,4\rangle\). Den venstre klammen betyr at \(-2\) er med. Den høyre, vendte klammen betyr at 4 ikke er med.
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{[-2,4\rangle}}
+    \]
+
+
+## Oppgave 6–8 – Figurtall
 
     En elev skal beskrive alle tall fra og med \(-2\) til, men ikke med, \(4\). Eleven skriver
 
@@ -135,6 +233,27 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Se etter hvor mange elementer som legges til for hver ny figur. Er økningen konstant? Kan antallet i figur \(n\) beskrives med en formel?
 
 !!! question "Oppgave 2.1.1 – Tell og generaliser"
+
+??? note "Fasit – oppgave 2.1.1"
+
+    Figuren gir 1, 3, 5, 7 brikker.  
+
+    a) 1, 3, 5, 7.  
+
+    b) Tallfølgen \(1,3,5,7,\ldots\).  
+
+    c) Figur 8: \(2\cdot8-1=15\).  
+
+    d) \(F(n)=2n-1\). Det legges til 2 brikker for hver ny figur.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{F(n)=2n-1}}
+    \]
 
     Hver prikk er én brikke.
     <figure class="math-graph-frame">
@@ -159,6 +278,22 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Finn en formel for figur \(n\).
 
 !!! question "Oppgave 2.1.2 – Et voksende korsmønster"
+
+??? note "Fasit – oppgave 2.1.2"
+
+    a) 1, 5, 9, 13 prikker.
+
+    b) Figur 5 har 17 prikker.
+
+    c) Hver av de fire armene får én ny prikk for hver figur. Med midtprikken blir formelen \(F(n)=4n-3\).
+
+    d) Figuren har én prikk i midten og \(n-1\) prikker i hver av de fire armene. Derfor er \(F(n)=1+4(n-1)=4n-3\).
+
+    **Svar:**
+
+    \[
+    \underline{\underline{F(n)=4n-3}}
+    \]
 
     Hver figur består av prikker som danner et kors. Fra én figur til den neste forlenges hver av de fire armene med én prikk.
 
@@ -185,6 +320,26 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.1.3 – Lag en regel"
 
+??? note "Fasit – oppgave 2.1.3"
+
+    a) Differansen er 3.  
+
+    b) \(a_n=3n+1\).  
+
+    c) \(3n+1=40\Rightarrow n=13\).  
+
+    d) Nei. \(3n+1=41\Rightarrow n=40/3\), ikke et helt figurnummer.
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{a_n=3n+1}}
+    \]
+
+
+## Oppgave 9–12 – Programmering
+
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
 
     a) Finn differansen.
@@ -203,6 +358,32 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.2.1 – Følg løkka"
 
+??? note "Fasit – oppgave 2.2.1"
+
+    a) \(n=1,2,3,4\).  
+
+    b) total blir 2, 6, 12, 20.  
+
+    c) Skriver ut 20.  
+
+    d)
+    ~~~python
+    total = 0
+    for n in range(1, 11):
+        total = total + 2*n
+    print(total)
+    ~~~
+    Resultatet er 110.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{110}}
+    \]
+
     ~~~python
     total = 0
     for n in range(1, 5):
@@ -219,6 +400,25 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Endre programmet slik at det summerer partallene fra 2 til 20.
 
 !!! question "Oppgave 2.2.2 – Programmer figurtall"
+
+??? note "Fasit – oppgave 2.2.2"
+
+    a) Skriver ut 4, 13, 28, 49, 76.
+
+    b) \(n\) er parameteren/figurindeksen.
+
+    c) Bruk \(range(1, 11)\).
+
+    d) Funksjonen samler regelen ett sted og kan brukes med flere verdier.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{4,13,28,49,76}}
+    \]
 
     Et figurtall er gitt ved \(F(n)=3n^2+1\).
     ~~~python
@@ -239,6 +439,23 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.2.3 – Finn kodefeilen"
 
+??? note "Fasit – oppgave 2.2.3"
+
+    a) Skriver ut 1, 4, 9, 16.  
+
+    b) Øvre grense i \(range\) er ikke med.  
+
+    c) Bruk \(range(1, 6)\).
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\text{range}(1,6)}}
+    \]
+
     Målet er å skrive ut kvadrattallene fra 1 til 5.
     ~~~python
     for n in range(1, 5):
@@ -252,6 +469,31 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Rett programmet.
 
 !!! question "Oppgave 2.2.4 – Trekanttall"
+
+??? note "Fasit – oppgave 2.2.4"
+
+    a) \(T(1)=1,T(2)=3,T(3)=6,T(4)=10,T(5)=15\).  
+
+    b)
+    ~~~python
+    def T(n):
+        return n*(n+1)//2
+
+    for n in range(1, 6):
+        print(T(n))
+    ~~~
+
+    c) \(T(20)=20\cdot21/2=210\). Spør gjerne hvorfor formelen deler på 2.
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{T(20)=210}}
+    \]
+
+
+## Oppgave 13–28 – Funksjoner
 
     \(T(n)=\frac{n(n+1)}2\).
 
@@ -271,6 +513,25 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 3.1.1 – Hvilken type funksjon?"
 
+??? note "Fasit – oppgave 3.1.1"
+
+    a) Førstegrad: høyeste potens av \(x\) er 1.
+
+    b) Andregrad: høyeste potens av \(x\) er 2.
+
+    c) Tredjegrad: høyeste potens av \(x\) er 3.
+
+    d) Tredjegrad. Leddrekkefølgen spiller ingen rolle. Skriv gjerne uttrykket i synkende rekkefølge: \(p(x)=x^3-3x^2+7\).
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\operatorname{grad}(f)=1,\operatorname{grad}(g)=2,\operatorname{grad}(h)=3,\operatorname{grad}(p)=3}}
+    \]
+
     Se på hvert funksjonsuttrykk. Bestem om funksjonen er førstegrad, andregrad eller tredjegrad. Skriv kort hva du ser etter i uttrykket for å avgjøre graden.
 
     a) \(f(x)=4x-7\)
@@ -282,6 +543,23 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
 
 !!! question "Oppgave 3.1.2 – Koble funksjon og graf"
+
+??? note "Fasit – oppgave 3.1.2"
+
+    a) Graf A: \(g(x)=x+1\) (II). Graf B: \(h(x)=x^2-2\) (III). Graf C: \(f(x)=x^3\) (I).
+
+    b) Graf B har et bunnpunkt.
+
+    c) Den rette linjen har konstant stigning. Parabelen har et bunnpunkt og er symmetrisk. Tredjegradsgrafen går ned mot venstre og opp mot høyre.
+
+
+
+
+    **Svar:**
+
+    \[
+    \underline{\underline{\text{A: II,\ B: III,\ C: I}}}
+    \]
 
     Koble hver graf (A, B og C) til riktig funksjonsuttrykk nedenfor. Begrunn svarene.
 
@@ -314,544 +592,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 3.1.3 – Førstegrad"
 
-    \(f(x)=2x-4\).
-
-    a) Regn ut funksjonsverdien for hver x-verdi. Skriv svaret på linjen.
-
-    Når \(x=-1\): \(f(-1)=\) ____________________  
-
-    Når \(x=0\): \(f(0)=\) ____________________  
-
-    Når \(x=1\): \(f(1)=\) ____________________  
-
-    Når \(x=2\): \(f(2)=\) ____________________  
-
-    Når \(x=3\): \(f(3)=\) ____________________
-
-    b) Tegn grafen i et koordinatsystem. Marker punktene du fant i forrige deloppgave før du trekker linjen.
-
-    c) Finn skjæringen med y-aksen.
-
-    d) Finn nullpunktet.
-
-    e) Forklar stigningstallet.
-
-!!! question "Oppgave 3.1.4 – Andregrad"
-
-    \(g(x)=x^2-4\).
-
-    a) Regn ut funksjonsverdiene for \(x=-3,-2,-1,0,1,2,3\).
-
-    b) Finn nullpunktene.
-
-    c) Finn bunnpunktet.
-
-    d) Tegn grafen.
-
-    e) Hvorfor er grafen symmetrisk om y-aksen?
-
-!!! question "Oppgave 3.1.5 – Tredjegrad"
-
-    \(h(x)=x^3-3x\).
-
-    a) Regn ut \(h(-2),h(-1),h(0),h(1),h(2)\).
-
-    b) Faktoriser og finn nullpunktene.
-
-    c) Skisser grafen.
-
-    d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
-
-!!! question "Oppgave 3.1.6 – Finn en lineær funksjon fra to punkter"
-
-    En rett linje går gjennom punktene \(A(1,5)\) og \(B(3,11)\).
-
-    a) Finn stigningstallet.
-
-    b) Bestem konstantleddet.
-
-    c) Skriv funksjonsuttrykket på standard form \(f(x)=ax+b\).
-
-    d) Kontroller at grafen går gjennom begge punktene.
-
-!!! question "Oppgave 3.1.7 – Andregradsfunksjon fra nullpunkter"
-
-    En andregradsfunksjon har nullpunktene \(x=1\) og \(x=5\). Grafen går dessuten gjennom punktet \(P(0,10)\).
-
-    a) Skriv funksjonen på faktorform \(f(x)=a(x-1)(x-5)\).
-
-    b) Bruk punktet \(P(0,10)\) til å bestemme \(a\).
-
-    c) Gang ut parentesene og skriv funksjonen på standardform \(ax^2+bx+c\).
-
-    d) Kontroller at funksjonsuttrykket gir nullpunktene 1 og 5.
-
-!!! question "Oppgave 3.1.8 – Ekstremalform og standardform"
-
-    En parabel har bunnpunkt \(B(2,-3)\) og går gjennom punktet \(P(4,5)\).
-
-    a) Skriv funksjonen på ekstremalform \(f(x)=a(x-p)^2+q\).
-
-    b) Bruk punktet \(P(4,5)\) til å bestemme \(a\).
-
-    c) Gang ut parentesen og skriv funksjonen på standardform.
-
-    d) Finn nullpunktene ved å løse likningen \(f(x)=0\).
-
-!!! question "Oppgave 3.1.9 – Faktoriser"
-
-    Faktoriser uttrykkene så langt det lar seg gjøre.
-
-    a) \(x^2+7x+12\)
-
-    b) \(x^2-9\)
-
-    c) \(2x^2-8x\)
-
-    d) \(x^2-5x+6\)
-
-    e) \(x^3-4x\)
-
-!!! question "Oppgave 3.1.10 – Velg riktig form"
-
-    En andregradsfunksjon er gitt ved \(f(x)=x^2-6x+5\).
-
-    a) Faktoriser uttrykket.
-
-    b) Skriv funksjonen på ekstremalform ved å fullføre kvadratet.
-
-    c) Oppgi nullpunktene fra faktorformen.
-
-    d) Oppgi bunnpunktet fra ekstremalformen.
-
-!!! question "Oppgave 3.1.11 – Sammenlign"
-
-    \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
-
-    a) Bestem graden.
-
-    b) Regn ut alle tre for \(x=2\).
-
-    c) Hvilke går gjennom \((0,1)\)?
-
-    d) Forklar hvorfor samme konstantledd ikke gir samme graf.
-
-!!! question "Oppgave 3.1.12 – Finn en førstegradsfunksjon fra grafen"
-
-    Grafen viser en rett linje. Punktene \(A\) og \(B\) er markert.
-
-    <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskLinearPoints" role="img" aria-label="Rett linje gjennom A(minus 1, 1) og B(2, 10), med koordinatakser og rutenett."></div>
-      <figcaption><strong>Figur 3.1.12.</strong> Rett linje med to kjente punkter.</figcaption>
-    </figure>
-
-    a) Les av koordinatene til punktene \(A\) og \(B\).
-
-    b) Bestem stigningstallet.
-
-    c) Bestem konstantleddet.
-
-    d) Skriv funksjonsuttrykket på formen \(f(x)=ax+b\).
-
-    e) Kontroller svaret ved å sette inn begge punktene.
-
-!!! question "Oppgave 3.1.13 – Finn en andregradsfunksjon fra nullpunkter og et punkt"
-
-    Grafen viser en parabel. Punktene \(A\), \(B\) og \(C\) er markert.
-
-    <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskQuadraticRoots" role="img" aria-label="Parabel med markerte punkter A(minus 1, 0), B(3, 0) og C(0, minus 6), koordinatakser og rutenett."></div>
-      <figcaption><strong>Figur 3.1.13.</strong> Parabel med to nullpunkter og ett kjent punkt.</figcaption>
-    </figure>
-
-    a) Les av nullpunktene til funksjonen.
-
-    b) Sett opp funksjonen på faktorform \(f(x)=a(x-x_1)(x-x_2)\).
-
-    c) Bruk punktet \(C\) til å bestemme \(a\).
-
-    d) Skriv funksjonen på standardform.
-
-!!! question "Oppgave 3.1.14 – Finn funksjonen fra bunnpunkt og punkt"
-
-    Grafen viser en parabel med bunnpunkt \(T\) og et annet kjent punkt \(P\).
-
-    <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskQuadraticVertex" role="img" aria-label="Parabel med markert bunnpunkt T(1, minus 4) og punkt P(3, 4), koordinatakser og rutenett."></div>
-      <figcaption><strong>Figur 3.1.14.</strong> Parabel med markert bunnpunkt og punkt.</figcaption>
-    </figure>
-
-    a) Les av koordinatene til bunnpunktet.
-
-    b) Sett opp funksjonen på ekstremalform.
-
-    c) Bruk punktet \(P\) til å bestemme \(a\).
-
-    d) Skriv funksjonen på standardform.
-
-    e) Finn nullpunktene.
-
-!!! question "Oppgave 3.1.15 – Finn en tredjegradsfunksjon fra grafen"
-
-    Grafen viser en tredjegradsfunksjon. Punktene \(A\), \(B\), \(C\) og \(P\) er markert.
-
-    <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 6), koordinatakser og rutenett."></div>
-      <figcaption><strong>Figur 3.1.15.</strong> Tredjegradsfunksjon med tre nullpunkter.</figcaption>
-    </figure>
-
-    a) Les av de tre nullpunktene.
-
-    b) Sett opp funksjonen på faktorform.
-
-    c) Bruk punktet \(P\) til å bestemme konstanten foran faktorene.
-
-    d) Gang ut parentesene og skriv funksjonen på standardform.
-
-!!! question "Oppgave 3.1.16 – Bestem andregradsfunksjonen fra tre punkter"
-
-    En parabel går gjennom de tre markerte punktene \(A\), \(B\) og \(C\).
-
-    <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskQuadraticThreePoints" role="img" aria-label="Parabel gjennom punktene A(minus 1, 6), B(1, 2) og C(3, 6), koordinatakser og rutenett."></div>
-      <figcaption><strong>Figur 3.1.16.</strong> Parabel gjennom tre kjente punkter.</figcaption>
-    </figure>
-
-    a) Les av koordinatene til alle tre punktene.
-
-    b) Bruk symmetrien i grafen til å finne bunnpunktet.
-
-    c) Sett opp funksjonen på ekstremalform.
-
-    d) Bruk ett av de andre punktene til å bestemme \(a\).
-
-    e) Skriv funksjonen på standardform.
-
-## Del 5 – Blandede utfordringer
-
-!!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
-
-    En taxi tar 75 kr i startpris og 18 kr per kilometer.
-
-    a) Sett opp \(P(x)\).
-
-    b) Hva koster 12 km?
-
-    c) Hvor langt kan du kjøre for 300 kr?
-
-    d) Forklar hva tallene i formelen betyr.
-
-!!! question "Oppgave 3.2.2 – Andregradsmodell"
-
-    En ballhøyde er modellert ved \(H(t)=-5t^2+20t+1\).
-
-    a) Hvorfor passer en andregradsfunksjon?
-
-    b) Finn starthøyden.
-
-    c) Når er høyden størst?
-
-    d) Finn maksimal høyde.
-
-    e) Hva betyr negativ høyde i modellen?
-
-!!! question "Oppgave 3.2.3 – Ekstra"
-
-    \(p(x)=x^3-4x\).
-
-    a) Faktoriser.
-
-    b) Finn nullpunktene.
-
-    c) Regn ut \(p(-2),p(0),p(2)\).
-
-    d) Hvorfor krysser grafen x-aksen i nullpunktene?
-
-## Fasit
-
-## Oppgave 1–5 – Tallmengder og intervaller
-
-??? note "Fasit – oppgave 1.1.1"
-
-    a) \(7\): \(\mathbb N\).  
-
-    b) \(-4\): \(\mathbb Z\).  
-
-    c) \(\frac35\): \(\mathbb Q\).  
-
-    d) \(\sqrt2\): \(\mathbb R\), men ikke \(\mathbb Q\).  
-
-    e) \(0\): \(\mathbb N\), etter konvensjonen i elevheftet.  
-
-    f) \(-12/3=-4\): \(\mathbb Z\).
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R},\mathbb{N},\mathbb{Z}}}
-    \]
-
-??? note "Fasit – oppgave 1.1.2"
-
-    a) Sant: heltall kan skrives som brøk med nevner 1.  
-
-    b) Usant: \(1/2\) er rasjonalt, men ikke heltall.  
-
-    c) Sant: \(\sqrt9=3\).  
-
-    d) Usant: \(\pi\) er irrasjonalt.  
-
-    e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\text{Sant, usant, sant, usant, sant}}}
-    \]
-
-??? note "Fasit – oppgave 1.1.3"
-
-    a) \(2\leq x<7\).
-
-    b) Intervallnotasjon: \([2,7\rangle\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
-
-    c) \(\{2,3,4,5,6\}\).
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\{2,3,4,5,6\}}}
-    \]
-
-??? note "Fasit – oppgave 1.1.4"
-
-    a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3\rangle\). Listeform: \(\{-2,-1,0,1,2\}\).
-
-    b) Ulikhet: \(1<x\leq6\). Intervall: \(\langle1,6]\). Listeform: \(\{2,3,4,5,6\}\).
-
-    c) Ulikhet: \(-3\leq x\leq2\). Intervall: \([-3,2]\). Listeform: \(\{-3,-2,-1,0,1,2\}\).
-
-    d) Ulikhet: \(x>4\). Intervall: \(\langle4,\infty\rangle\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\langle4,\infty\rangle}}
-    \]
-
-??? note "Fasit – oppgave 1.1.5"
-
-    a) Ulikheten er riktig. Feilen er at 4 er tatt med i listeformen, selv om \(x<4\).
-
-    b) \(\{-2,-1,0,1,2,3\}\).
-
-    c) Intervallnotasjon: \([-2,4\rangle\). Den venstre klammen betyr at \(-2\) er med. Den høyre, vendte klammen betyr at 4 ikke er med.
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{[-2,4\rangle}}
-    \]
-
-
-## Oppgave 6–8 – Figurtall
-
-
-??? note "Fasit – oppgave 2.1.1"
-
-    Figuren gir 1, 3, 5, 7 brikker.  
-
-    a) 1, 3, 5, 7.  
-
-    b) Tallfølgen \(1,3,5,7,\ldots\).  
-
-    c) Figur 8: \(2\cdot8-1=15\).  
-
-    d) \(F(n)=2n-1\). Det legges til 2 brikker for hver ny figur.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{F(n)=2n-1}}
-    \]
-
-??? note "Fasit – oppgave 2.1.2"
-
-    a) 1, 5, 9, 13 prikker.
-
-    b) Figur 5 har 17 prikker.
-
-    c) Hver av de fire armene får én ny prikk for hver figur. Med midtprikken blir formelen \(F(n)=4n-3\).
-
-    d) Figuren har én prikk i midten og \(n-1\) prikker i hver av de fire armene. Derfor er \(F(n)=1+4(n-1)=4n-3\).
-
-    **Svar:**
-
-    \[
-    \underline{\underline{F(n)=4n-3}}
-    \]
-
-??? note "Fasit – oppgave 2.1.3"
-
-    a) Differansen er 3.  
-
-    b) \(a_n=3n+1\).  
-
-    c) \(3n+1=40\Rightarrow n=13\).  
-
-    d) Nei. \(3n+1=41\Rightarrow n=40/3\), ikke et helt figurnummer.
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{a_n=3n+1}}
-    \]
-
-
-## Oppgave 9–12 – Programmering
-
-
-??? note "Fasit – oppgave 2.2.1"
-
-    a) \(n=1,2,3,4\).  
-
-    b) total blir 2, 6, 12, 20.  
-
-    c) Skriver ut 20.  
-
-    d)
-    ~~~python
-    total = 0
-    for n in range(1, 11):
-        total = total + 2*n
-    print(total)
-    ~~~
-    Resultatet er 110.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{110}}
-    \]
-
-??? note "Fasit – oppgave 2.2.2"
-
-    a) Skriver ut 4, 13, 28, 49, 76.
-
-    b) \(n\) er parameteren/figurindeksen.
-
-    c) Bruk \(range(1, 11)\).
-
-    d) Funksjonen samler regelen ett sted og kan brukes med flere verdier.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{4,13,28,49,76}}
-    \]
-
-??? note "Fasit – oppgave 2.2.3"
-
-    a) Skriver ut 1, 4, 9, 16.  
-
-    b) Øvre grense i \(range\) er ikke med.  
-
-    c) Bruk \(range(1, 6)\).
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\text{range}(1,6)}}
-    \]
-
-??? note "Fasit – oppgave 2.2.4"
-
-    a) \(T(1)=1,T(2)=3,T(3)=6,T(4)=10,T(5)=15\).  
-
-    b)
-    ~~~python
-    def T(n):
-        return n*(n+1)//2
-
-    for n in range(1, 6):
-        print(T(n))
-    ~~~
-
-    c) \(T(20)=20\cdot21/2=210\). Spør gjerne hvorfor formelen deler på 2.
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{T(20)=210}}
-    \]
-
-
-## Oppgave 13–28 – Funksjoner
-
-
-??? note "Fasit – oppgave 3.1.1"
-
-    a) Førstegrad: høyeste potens av \(x\) er 1.
-
-    b) Andregrad: høyeste potens av \(x\) er 2.
-
-    c) Tredjegrad: høyeste potens av \(x\) er 3.
-
-    d) Tredjegrad. Leddrekkefølgen spiller ingen rolle. Skriv gjerne uttrykket i synkende rekkefølge: \(p(x)=x^3-3x^2+7\).
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\operatorname{grad}(f)=1,\operatorname{grad}(g)=2,\operatorname{grad}(h)=3,\operatorname{grad}(p)=3}}
-    \]
-
-??? note "Fasit – oppgave 3.1.2"
-
-    a) Graf A: \(g(x)=x+1\) (II). Graf B: \(h(x)=x^2-2\) (III). Graf C: \(f(x)=x^3\) (I).
-
-    b) Graf B har et bunnpunkt.
-
-    c) Den rette linjen har konstant stigning. Parabelen har et bunnpunkt og er symmetrisk. Tredjegradsgrafen går ned mot venstre og opp mot høyre.
-
-
-
-
-    **Svar:**
-
-    \[
-    \underline{\underline{\text{A: II,\ B: III,\ C: I}}}
-    \]
-
 ??? note "Fasit – oppgave 3.1.3"
 
     a)
@@ -883,6 +623,30 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{f(x)=2x-4}}
     \]
 
+    \(f(x)=2x-4\).
+
+    a) Regn ut funksjonsverdien for hver x-verdi. Skriv svaret på linjen.
+
+    Når \(x=-1\): \(f(-1)=\) ____________________  
+
+    Når \(x=0\): \(f(0)=\) ____________________  
+
+    Når \(x=1\): \(f(1)=\) ____________________  
+
+    Når \(x=2\): \(f(2)=\) ____________________  
+
+    Når \(x=3\): \(f(3)=\) ____________________
+
+    b) Tegn grafen i et koordinatsystem. Marker punktene du fant i forrige deloppgave før du trekker linjen.
+
+    c) Finn skjæringen med y-aksen.
+
+    d) Finn nullpunktet.
+
+    e) Forklar stigningstallet.
+
+!!! question "Oppgave 3.1.4 – Andregrad"
+
 ??? note "Fasit – oppgave 3.1.4"
 
     a) For \(x=-3,-2,-1,0,1,2,3\) får vi \(5,0,-3,-4,-3,0,5\).  
@@ -904,6 +668,20 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{B=(0,-4)}}
     \]
 
+    \(g(x)=x^2-4\).
+
+    a) Regn ut funksjonsverdiene for \(x=-3,-2,-1,0,1,2,3\).
+
+    b) Finn nullpunktene.
+
+    c) Finn bunnpunktet.
+
+    d) Tegn grafen.
+
+    e) Hvorfor er grafen symmetrisk om y-aksen?
+
+!!! question "Oppgave 3.1.5 – Tredjegrad"
+
 ??? note "Fasit – oppgave 3.1.5"
 
     a) \(h(-2)=-2\), \(h(-1)=2\), \(h(0)=0\), \(h(1)=-2\), \(h(2)=2\).  
@@ -922,6 +700,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{x=-\sqrt3,0,\sqrt3}}
     \]
+
+    \(h(x)=x^3-3x\).
+
+    a) Regn ut \(h(-2),h(-1),h(0),h(1),h(2)\).
+
+    b) Faktoriser og finn nullpunktene.
+
+    c) Skisser grafen.
+
+    d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
+
+!!! question "Oppgave 3.1.6 – Finn en lineær funksjon fra to punkter"
 
 ??? note "Fasit – oppgave 3.1.6"
 
@@ -942,6 +732,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{f(x)=3x+2}}
     \]
 
+    En rett linje går gjennom punktene \(A(1,5)\) og \(B(3,11)\).
+
+    a) Finn stigningstallet.
+
+    b) Bestem konstantleddet.
+
+    c) Skriv funksjonsuttrykket på standard form \(f(x)=ax+b\).
+
+    d) Kontroller at grafen går gjennom begge punktene.
+
+!!! question "Oppgave 3.1.7 – Andregradsfunksjon fra nullpunkter"
+
 ??? note "Fasit – oppgave 3.1.7"
 
     a) \(f(x)=a(x-1)(x-5)\).
@@ -961,6 +763,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{f(x)=2x^2-12x+10}}
     \]
 
+    En andregradsfunksjon har nullpunktene \(x=1\) og \(x=5\). Grafen går dessuten gjennom punktet \(P(0,10)\).
+
+    a) Skriv funksjonen på faktorform \(f(x)=a(x-1)(x-5)\).
+
+    b) Bruk punktet \(P(0,10)\) til å bestemme \(a\).
+
+    c) Gang ut parentesene og skriv funksjonen på standardform \(ax^2+bx+c\).
+
+    d) Kontroller at funksjonsuttrykket gir nullpunktene 1 og 5.
+
+!!! question "Oppgave 3.1.8 – Ekstremalform og standardform"
+
 ??? note "Fasit – oppgave 3.1.8"
 
     a) \(f(x)=a(x-2)^2-3\).
@@ -979,6 +793,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{x=2\pm\sqrt{\frac32}}}
     \]
+
+    En parabel har bunnpunkt \(B(2,-3)\) og går gjennom punktet \(P(4,5)\).
+
+    a) Skriv funksjonen på ekstremalform \(f(x)=a(x-p)^2+q\).
+
+    b) Bruk punktet \(P(4,5)\) til å bestemme \(a\).
+
+    c) Gang ut parentesen og skriv funksjonen på standardform.
+
+    d) Finn nullpunktene ved å løse likningen \(f(x)=0\).
+
+!!! question "Oppgave 3.1.9 – Faktoriser"
 
 ??? note "Fasit – oppgave 3.1.9"
 
@@ -1001,6 +827,20 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{x(x-2)(x+2)}}
     \]
 
+    Faktoriser uttrykkene så langt det lar seg gjøre.
+
+    a) \(x^2+7x+12\)
+
+    b) \(x^2-9\)
+
+    c) \(2x^2-8x\)
+
+    d) \(x^2-5x+6\)
+
+    e) \(x^3-4x\)
+
+!!! question "Oppgave 3.1.10 – Velg riktig form"
+
 ??? note "Fasit – oppgave 3.1.10"
 
     a) \(f(x)=(x-1)(x-5)\).
@@ -1020,6 +860,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{T=(3,-4)}}
     \]
 
+    En andregradsfunksjon er gitt ved \(f(x)=x^2-6x+5\).
+
+    a) Faktoriser uttrykket.
+
+    b) Skriv funksjonen på ekstremalform ved å fullføre kvadratet.
+
+    c) Oppgi nullpunktene fra faktorformen.
+
+    d) Oppgi bunnpunktet fra ekstremalformen.
+
+!!! question "Oppgave 3.1.11 – Sammenlign"
+
 ??? note "Fasit – oppgave 3.1.11"
 
     a) \(f\) førstegrad, \(g\) andregrad, \(h\) tredjegrad.  
@@ -1038,6 +890,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{f(2)=5,\quad g(2)=5,\quad h(2)=9}}
     \]
+
+    \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
+
+    a) Bestem graden.
+
+    b) Regn ut alle tre for \(x=2\).
+
+    c) Hvilke går gjennom \((0,1)\)?
+
+    d) Forklar hvorfor samme konstantledd ikke gir samme graf.
+
+!!! question "Oppgave 3.1.12 – Finn en førstegradsfunksjon fra grafen"
 
 ??? note "Fasit – oppgave 3.1.12"
 
@@ -1060,6 +924,25 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{f(x)=3x+4}}
     \]
 
+    Grafen viser en rett linje. Punktene \(A\) og \(B\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskLinearPoints" role="img" aria-label="Rett linje gjennom A(minus 1, 1) og B(2, 10), med koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.12.</strong> Rett linje med to kjente punkter.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til punktene \(A\) og \(B\).
+
+    b) Bestem stigningstallet.
+
+    c) Bestem konstantleddet.
+
+    d) Skriv funksjonsuttrykket på formen \(f(x)=ax+b\).
+
+    e) Kontroller svaret ved å sette inn begge punktene.
+
+!!! question "Oppgave 3.1.13 – Finn en andregradsfunksjon fra nullpunkter og et punkt"
+
 ??? note "Fasit – oppgave 3.1.13"
 
     a) Nullpunktene er \(x=-1\) og \(x=3\).
@@ -1078,6 +961,23 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{f(x)=2x^2-4x-6}}
     \]
+
+    Grafen viser en parabel. Punktene \(A\), \(B\) og \(C\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticRoots" role="img" aria-label="Parabel med markerte punkter A(minus 1, 0), B(3, 0) og C(0, minus 6), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.13.</strong> Parabel med to nullpunkter og ett kjent punkt.</figcaption>
+    </figure>
+
+    a) Les av nullpunktene til funksjonen.
+
+    b) Sett opp funksjonen på faktorform \(f(x)=a(x-x_1)(x-x_2)\).
+
+    c) Bruk punktet \(C\) til å bestemme \(a\).
+
+    d) Skriv funksjonen på standardform.
+
+!!! question "Oppgave 3.1.14 – Finn funksjonen fra bunnpunkt og punkt"
 
 ??? note "Fasit – oppgave 3.1.14"
 
@@ -1100,6 +1000,25 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{x=1\pm\sqrt2}}
     \]
 
+    Grafen viser en parabel med bunnpunkt \(T\) og et annet kjent punkt \(P\).
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticVertex" role="img" aria-label="Parabel med markert bunnpunkt T(1, minus 4) og punkt P(3, 4), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.14.</strong> Parabel med markert bunnpunkt og punkt.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til bunnpunktet.
+
+    b) Sett opp funksjonen på ekstremalform.
+
+    c) Bruk punktet \(P\) til å bestemme \(a\).
+
+    d) Skriv funksjonen på standardform.
+
+    e) Finn nullpunktene.
+
+!!! question "Oppgave 3.1.15 – Finn en tredjegradsfunksjon fra grafen"
+
 ??? note "Fasit – oppgave 3.1.15"
 
     a) Nullpunktene er \(x=-2\), \(x=0\) og \(x=3\).
@@ -1118,6 +1037,23 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{f(x)=x^3-x^2-6x}}
     \]
+
+    Grafen viser en tredjegradsfunksjon. Punktene \(A\), \(B\), \(C\) og \(P\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 6), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.15.</strong> Tredjegradsfunksjon med tre nullpunkter.</figcaption>
+    </figure>
+
+    a) Les av de tre nullpunktene.
+
+    b) Sett opp funksjonen på faktorform.
+
+    c) Bruk punktet \(P\) til å bestemme konstanten foran faktorene.
+
+    d) Gang ut parentesene og skriv funksjonen på standardform.
+
+!!! question "Oppgave 3.1.16 – Bestem andregradsfunksjonen fra tre punkter"
 
 ??? note "Fasit – oppgave 3.1.16"
 
@@ -1141,6 +1077,26 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Oppgave 29–31 – Modellering
 
+    En parabel går gjennom de tre markerte punktene \(A\), \(B\) og \(C\).
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticThreePoints" role="img" aria-label="Parabel gjennom punktene A(minus 1, 6), B(1, 2) og C(3, 6), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.16.</strong> Parabel gjennom tre kjente punkter.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til alle tre punktene.
+
+    b) Bruk symmetrien i grafen til å finne bunnpunktet.
+
+    c) Sett opp funksjonen på ekstremalform.
+
+    d) Bruk ett av de andre punktene til å bestemme \(a\).
+
+    e) Skriv funksjonen på standardform.
+
+## Del 5 – Blandede utfordringer
+
+!!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
 
 ??? note "Fasit – oppgave 3.2.1"
 
@@ -1160,6 +1116,18 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{P(x)=75+18x}}
     \]
+
+    En taxi tar 75 kr i startpris og 18 kr per kilometer.
+
+    a) Sett opp \(P(x)\).
+
+    b) Hva koster 12 km?
+
+    c) Hvor langt kan du kjøre for 300 kr?
+
+    d) Forklar hva tallene i formelen betyr.
+
+!!! question "Oppgave 3.2.2 – Andregradsmodell"
 
 ??? note "Fasit – oppgave 3.2.2"
 
@@ -1182,6 +1150,20 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \underline{\underline{H(2)=21}}
     \]
 
+    En ballhøyde er modellert ved \(H(t)=-5t^2+20t+1\).
+
+    a) Hvorfor passer en andregradsfunksjon?
+
+    b) Finn starthøyden.
+
+    c) Når er høyden størst?
+
+    d) Finn maksimal høyde.
+
+    e) Hva betyr negativ høyde i modellen?
+
+!!! question "Oppgave 3.2.3 – Ekstra"
+
 ??? note "Fasit – oppgave 3.2.3"
 
     a) \(p(x)=x(x-2)(x+2)\).  
@@ -1199,6 +1181,32 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{p(x)=x(x-2)(x+2)}}
     \]
+
+
+## Observasjonsskjema
+
+| Område | Mestring | Konkret feil / notat |
+|---|---|---|
+| Tallmengder | ☐ Sikker ☐ Usikker | |
+| Intervaller | ☐ Sikker ☐ Usikker | |
+| Figurtall | ☐ Sikker ☐ Usikker | |
+| Programmering | ☐ Sikker ☐ Usikker | |
+| Førstegrad | ☐ Sikker ☐ Usikker | |
+| Andregrad | ☐ Sikker ☐ Usikker | |
+| Tredjegrad | ☐ Sikker ☐ Usikker | |
+| Modellering | ☐ Sikker ☐ Usikker | |
+
+Etter timen: velg 3–5 hjemmeoppgaver fra områdene der eleven faktisk gjorde feil. Ikke gi mer av alt; gi målrettet repetisjon.
+
+    \(p(x)=x^3-4x\).
+
+    a) Faktoriser.
+
+    b) Finn nullpunktene.
+
+    c) Regn ut \(p(-2),p(0),p(2)\).
+
+    d) Hvorfor krysser grafen x-aksen i nullpunktene?
 
 
 ## Observasjonsskjema
