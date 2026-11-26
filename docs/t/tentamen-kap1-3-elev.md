@@ -67,16 +67,15 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Les av intervallet som er markert på tallinja.
 
     <figure class="math-graph-frame">
-      <svg viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tallinje fra 0 til 10 med markert intervall fra 2 til 7. Punktet 2 er fylt, punktet 7 er åpent, og tallinja har pil mot høyre.">
+      <svg viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tallinje fra 0 til 10 med intervallet fra 2 inkludert til 7 ekskludert markert med klammeparenteser, uten prikker.">
         <defs><marker id="positive-numberline-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#475569"/></marker></defs>
         <line x1="35" y1="42" x2="595" y2="42" stroke="#475569" stroke-width="2" marker-end="url(#positive-numberline-arrow)"/>
         <g stroke="#475569"><path d="M35 35v14 M90 35v14 M145 35v14 M200 35v14 M255 35v14 M310 35v14 M365 35v14 M420 35v14 M475 35v14 M530 35v14 M585 35v14"/></g>
         <g fill="#334155" font-size="12" text-anchor="middle"><text x="35" y="65">0</text><text x="90" y="65">1</text><text x="145" y="65">2</text><text x="200" y="65">3</text><text x="255" y="65">4</text><text x="310" y="65">5</text><text x="365" y="65">6</text><text x="420" y="65">7</text><text x="475" y="65">8</text><text x="530" y="65">9</text><text x="585" y="65">10</text><text x="605" y="25" font-style="italic">x</text></g>
         <line x1="145" y1="42" x2="420" y2="42" stroke="#087f8c" stroke-width="7"/>
-        <circle cx="145" cy="42" r="6" fill="#087f8c" stroke="#087f8c" stroke-width="2"/>
-        <circle cx="420" cy="42" r="6" fill="#fff" stroke="#087f8c" stroke-width="2.5"/>
+        <path d="M145 31v22h9 M420 31v22h-9" fill="none" stroke="#087f8c" stroke-width="3" stroke-linecap="square"/>
       </svg>
-      <figcaption><strong>Figur 3.1.</strong> Intervallet starter på 2 (inkludert) og stopper ved 7 (ikke inkludert).</figcaption>
+      <figcaption><strong>Figur 3.1.</strong> Intervallet starter på 2 (inkludert) og stopper ved 7 (ikke inkludert). Endepunktene er markert med klammeparenteser, ikke prikker.</figcaption>
     </figure>
 
     a) Skriv intervallet som ulikhet.
@@ -86,7 +85,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv alle heltallene som ligger i intervallet.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \(<\) eller \(>\) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen viser klammen om endepunktet er med: \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). Tegn også intervallet på en tallinje: åpen sirkel betyr ikke med, fylt punkt betyr med, og pil viser at intervallet fortsetter uendelig.
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \(<\) eller \(>\) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen viser klammen om endepunktet er med: \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). Tegn også intervallet på en tallinje med klammeparenteser eller vinkelparenteser ved endepunktene (ikke prikker). Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
