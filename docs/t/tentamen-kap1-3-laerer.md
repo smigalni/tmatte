@@ -341,7 +341,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     c) Punktet \\(P(1,-6)\\) gir \\(-6=a\\cdot3\\cdot1\\cdot(-2)=-6a\\), altså \\(a=1\\).
 
-    d) \\(f(x)=\\frac23x(x+2)(x-3)=\\frac23x^3-\\frac23x^2-4x\\).
+    d) \\(f(x)=x(x+2)(x-3)=x^3-x^2-6x\\).
 
 !!! note "Oppgave 3.1.16 – fasit"
 
