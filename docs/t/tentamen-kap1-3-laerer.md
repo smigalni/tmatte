@@ -575,7 +575,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Oppgave 1–5 – Tallmengder og intervaller
 
-!!! note "Oppgave 1.1.1 – fasit"
+??? note "Fasit – oppgave 1.1.1"
 
     a) \(7\): \(\mathbb N\).  
 
@@ -589,7 +589,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     f) \(-12/3=-4\): \(\mathbb Z\).
 
-!!! note "Oppgave 1.1.2 – fasit"
+??? note "Fasit – oppgave 1.1.2"
 
     a) Sant: heltall kan skrives som brøk med nevner 1.  
 
@@ -601,7 +601,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
 
-!!! note "Oppgave 1.1.3 – fasit"
+??? note "Fasit – oppgave 1.1.3"
 
     a) \(2\leq x<7\).
 
@@ -609,7 +609,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) \(\{2,3,4,5,6\}\).
 
-!!! note "Oppgave 1.1.4 – fasit"
+??? note "Fasit – oppgave 1.1.4"
 
     a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3[\). Listeform: \(\{-2,-1,0,1,2\}\).
 
@@ -619,7 +619,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Ulikhet: \(x>4\). Intervall: \(]4,\infty[\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
 
-!!! note "Oppgave 1.1.5 – fasit"
+??? note "Fasit – oppgave 1.1.5"
 
     a) Ulikheten er riktig. Feilen er at 4 er tatt med i listeformen, selv om \(x<4\).
 
@@ -629,7 +629,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Oppgave 6–8 – Figurtall
 
-!!! note "Oppgave 2.1.1 – fasit"
+??? note "Fasit – oppgave 2.1.1"
 
     Figuren gir 1, 3, 5, 7 brikker.  
 
@@ -641,7 +641,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) \(F(n)=2n-1\). Det legges til 2 brikker for hver ny figur.
 
-!!! note "Oppgave 2.1.2 – fasit"
+??? note "Fasit – oppgave 2.1.2"
 
     a) 1, 4, 9, 16 prikker.
 
@@ -651,7 +651,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Det legges til 3, 5, 7, 9, ... prikker. Antallet som legges til, øker med 2 fra figur til figur.
 
-!!! note "Oppgave 2.1.3 – fasit"
+??? note "Fasit – oppgave 2.1.3"
 
     a) Differansen er 3.  
 
@@ -663,7 +663,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Oppgave 9–12 – Programmering
 
-!!! note "Oppgave 2.2.1 – fasit"
+??? note "Fasit – oppgave 2.2.1"
 
     a) \(n=1,2,3,4\).  
 
@@ -680,7 +680,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     ~~~
     Resultatet er 110.
 
-!!! note "Oppgave 2.2.2 – fasit"
+??? note "Fasit – oppgave 2.2.2"
 
     a) Skriver ut 2, 6, 12, 20, 30.  
 
@@ -690,7 +690,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Funksjonen samler regelen ett sted og kan brukes med flere verdier.
 
-!!! note "Oppgave 2.2.3 – fasit"
+??? note "Fasit – oppgave 2.2.3"
 
     a) Skriver ut 1, 4, 9, 16.  
 
@@ -698,7 +698,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) Bruk \(range(1, 6)\).
 
-!!! note "Oppgave 2.2.4 – fasit"
+??? note "Fasit – oppgave 2.2.4"
 
     a) \(T(1)=1,T(2)=3,T(3)=6,T(4)=10,T(5)=15\).  
 
@@ -713,9 +713,9 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) \(T(20)=20\cdot21/2=210\). Spør gjerne hvorfor formelen deler på 2.
 
-## Oppgave 13–23 – Funksjoner
+## Oppgave 13–28 – Funksjoner
 
-!!! note "Oppgave 3.1.1 – fasit"
+??? note "Fasit – oppgave 3.1.1"
 
     a) Førstegrad: høyeste potens av \(x\) er 1.
 
@@ -725,7 +725,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Tredjegrad. Leddrekkefølgen spiller ingen rolle. Skriv gjerne uttrykket i synkende rekkefølge: \(p(x)=x^3-3x^2+7\).
 
-!!! note "Oppgave 3.1.2 – fasit"
+??? note "Fasit – oppgave 3.1.2"
 
     a) Graf A: \(g(x)=x+1\) (II). Graf B: \(h(x)=x^2-2\) (III). Graf C: \(f(x)=x^3\) (I).
 
@@ -734,7 +734,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Den rette linjen har konstant stigning. Parabelen har et bunnpunkt og er symmetrisk. Tredjegradsgrafen går ned mot venstre og opp mot høyre.
 
 
-!!! note "Oppgave 3.1.3 – fasit"
+??? note "Fasit – oppgave 3.1.3"
 
     a)
 
@@ -756,7 +756,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Når x øker med 1, øker funksjonsverdien med 2.
 
-!!! note "Oppgave 3.1.4 – fasit"
+??? note "Fasit – oppgave 3.1.4"
 
     a) For \(x=-3,-2,-1,0,1,2,3\) får vi \(5,0,-3,-4,-3,0,5\).  
 
@@ -768,7 +768,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) \(g(-x)=g(x)\), derfor er grafen symmetrisk om y-aksen.
 
-!!! note "Oppgave 3.1.5 – fasit"
+??? note "Fasit – oppgave 3.1.5"
 
     a) \(h(-2)=-2\), \(h(-1)=2\), \(h(0)=0\), \(h(1)=-2\), \(h(2)=2\).  
 
@@ -778,7 +778,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Når \(x\to-\infty\), går \(h(x)\to-\infty\); når \(x\to\infty\), går \(h(x)\to\infty\).
 
-!!! note "Oppgave 3.1.6 – fasit"
+??? note "Fasit – oppgave 3.1.6"
 
     a) \(a=\frac{11-5}{3-1}=3\).
 
@@ -788,7 +788,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) \(f(1)=5\) og \(f(3)=11\).
 
-!!! note "Oppgave 3.1.7 – fasit"
+??? note "Fasit – oppgave 3.1.7"
 
     a) \(f(x)=a(x-1)(x-5)\).
 
@@ -798,7 +798,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Innsetting av 1 og 5 gir 0.
 
-!!! note "Oppgave 3.1.8 – fasit"
+??? note "Fasit – oppgave 3.1.8"
 
     a) \(f(x)=a(x-2)^2-3\).
 
@@ -808,7 +808,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) \(2(x-2)^2-3=0\), så \(x=2\pm\sqrt{\frac32}\) (omtrent 0,78 og 3,22).
 
-!!! note "Oppgave 3.1.9 – fasit"
+??? note "Fasit – oppgave 3.1.9"
 
     a) \(x^2+7x+12=(x+3)(x+4)\).
 
@@ -820,7 +820,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) \(x^3-4x=x(x^2-4)=x(x-2)(x+2)\).
 
-!!! note "Oppgave 3.1.10 – fasit"
+??? note "Fasit – oppgave 3.1.10"
 
     a) \(f(x)=(x-1)(x-5)\).
 
@@ -830,7 +830,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Bunnpunktet er \((3,-4)\).
 
-!!! note "Oppgave 3.1.11 – fasit"
+??? note "Fasit – oppgave 3.1.11"
 
     a) \(f\) førstegrad, \(g\) andregrad, \(h\) tredjegrad.  
 
@@ -840,41 +840,41 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Konstantleddet bestemmer y-akseskjæringen, mens de andre leddene former grafen.
 
-!!! note "Oppgave 3.1.12 – fasit"
+??? note "Fasit – oppgave 3.1.12"
 
-    a) (A(-1,1)) og (B(2,10)).
+    a) \(A(-1,1)\) og \(B(2,10)\).
 
-    b) (a=rac{10-1}{2-(-1)}=3).
+    b) \(a=\frac{10-1}{2-(-1)}=3\).
 
-    c) Sett inn (A(-1,1)): (1=3cdot(-1)+b), altså (b=4).
+    c) Sett inn \(A(-1,1)\): \(1=3\cdot(-1)+b\), altså \(b=4\).
 
-    d) (f(x)=3x+4).
+    d) \(f(x)=3x+4\).
 
-    e) (f(-1)=1) og (f(2)=10).
+    e) \(f(-1)=1\) og \(f(2)=10\).
 
-!!! note "Oppgave 3.1.13 – fasit"
+??? note "Fasit – oppgave 3.1.13"
 
-    a) Nullpunktene er (x=-1) og (x=3).
+    a) Nullpunktene er \(x=-1\) og \(x=3\).
 
-    b) (f(x)=a(x+1)(x-3)).
+    b) \(f(x)=a(x+1)(x-3)\).
 
-    c) Punktet (C(0,-6)) gir (-6=a(1)(-3)=-3a), altså (a=2).
+    c) Punktet \(C(0,-6)\) gir \(-6=a(1)(-3)=-3a\), altså \(a=2\).
 
-    d) (f(x)=2(x+1)(x-3)=2x^2-4x-6).
+    d) \(f(x)=2(x+1)(x-3)=2x^2-4x-6\).
 
-!!! note "Oppgave 3.1.14 – fasit"
+??? note "Fasit – oppgave 3.1.14"
 
-    a) Bunnpunktet er (T(1,-4)).
+    a) Bunnpunktet er \(T(1,-4)\).
 
-    b) (f(x)=a(x-1)^2-4).
+    b) \(f(x)=a(x-1)^2-4\).
 
-    c) Punktet (P(3,4)) gir (4=4a-4), altså (a=2).
+    c) Punktet \(P(3,4)\) gir \(4=4a-4\), altså \(a=2\).
 
-    d) (f(x)=2(x-1)^2-4=2x^2-4x-2).
+    d) \(f(x)=2(x-1)^2-4=2x^2-4x-2\).
 
-    e) (2(x-1)^2-4=0), så (x=1pmsqrt2).
+    e) \(2(x-1)^2-4=0\), så \(x=1\pm\sqrt2\).
 
-!!! note "Oppgave 3.1.15 – fasit"
+??? note "Fasit – oppgave 3.1.15"
 
     a) Nullpunktene er \(x=-2\), \(x=0\) og \(x=3\).
 
@@ -884,7 +884,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) \(f(x)=x(x+2)(x-3)=x^3-x^2-6x\).
 
-!!! note "Oppgave 3.1.16 – fasit"
+??? note "Fasit – oppgave 3.1.16"
 
     a) \(A(-1,6)\), \(B(1,2)\) og \(C(3,6)\).
 
@@ -898,7 +898,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Oppgave 29–31 – Modellering
 
-!!! note "Oppgave 3.2.1 – fasit"
+??? note "Fasit – oppgave 3.2.1"
 
     a) \(P(x)=75+18x\).  
 
@@ -908,7 +908,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) 75 kr er startpris; 18 kr er pris per kilometer.
 
-!!! note "Oppgave 3.2.2 – fasit"
+??? note "Fasit – oppgave 3.2.2"
 
     a) Høyden øker, når et toppunkt og avtar; en parabel kan modellere dette.  
 
@@ -920,7 +920,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Negativ høyde er ikke fysisk mulig; modellen gjelder bare i et begrenset tidsrom.
 
-!!! note "Oppgave 3.2.3 – fasit"
+??? note "Fasit – oppgave 3.2.3"
 
     a) \(p(x)=x(x-2)(x+2)\).  
 
