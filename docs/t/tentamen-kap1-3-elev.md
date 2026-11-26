@@ -244,8 +244,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Andregrad: \(f(x)=ax^2+bx+c\), parabel.  
     Tredjegrad: \(f(x)=ax^3+bx^2+cx+d\), kubisk kurve.
 
-!!! question "Oppgave 3.1.1 – Finn funksjonsgraden"
-    For hver funksjon skal du finne **den høyeste eksponenten til \(x\)** som har en koeffisient ulik null. Denne eksponenten bestemmer graden. Skriv både graden og om funksjonen er første-, andre- eller tredjegrad.
+!!! question "Oppgave 3.1.1 – Hvilken type funksjon?"
+    Se på hvert funksjonsuttrykk. Bestem om funksjonen er førstegrad, andregrad eller tredjegrad. Skriv kort hva du ser etter i uttrykket for å avgjøre graden.
 
     a) \(f(x)=4x-7\)
 
