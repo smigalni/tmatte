@@ -49,6 +49,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1.1.1 – Plasser tallene"
 
+
 ??? note "Fasit – oppgave 1.1.1"
 
     a) \(7\): \(\mathbb N\).  
@@ -62,8 +63,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) \(0\): \(\mathbb N\), etter konvensjonen i elevheftet.  
 
     f) \(-12/3=-4\): \(\mathbb Z\).
-
-
 
 
     **Svar:**
@@ -87,8 +86,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) \(0\)
 
     f) \(-\frac{12}{3}\).
-
 !!! question "Oppgave 1.1.2 – Sant eller usant?"
+
 
 ??? note "Fasit – oppgave 1.1.2"
 
@@ -101,8 +100,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Usant: \(\pi\) er irrasjonalt.  
 
     e) Sant: tallmengdene er nøstet; et naturlig tall er også heltall, rasjonalt og reelt.
-
-
 
 
     **Svar:**
@@ -122,8 +119,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(\pi\) er rasjonalt.
 
     e) Et tall kan tilhøre flere tallmengder samtidig.
-
 !!! question "Oppgave 1.1.3 – Les av intervallet"
+
 
 ??? note "Fasit – oppgave 1.1.3"
 
@@ -132,8 +129,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Intervallnotasjon: \([2,7\rangle\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
 
     c) \(\{2,3,4,5,6\}\).
-
-
 
 
     **Svar:**
@@ -162,8 +157,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Skriv intervallet med intervallnotasjonen fra læreboka.
 
     c) Skriv alle heltallene som ligger i intervallet.
-
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
+
 
 ??? note "Fasit – oppgave 1.1.4"
 
@@ -174,8 +169,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Ulikhet: \(-3\leq x\leq2\). Intervall: \([-3,2]\). Listeform: \(\{-3,-2,-1,0,1,2\}\).
 
     d) Ulikhet: \(x>4\). Intervall: \(\langle4,\infty\rangle\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
-
-
 
 
     **Svar:**
@@ -193,8 +186,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Alle tall fra og med \(-3\) til og med \(2\).
 
     d) Alle tall som er større enn \(4\). Forklar hvorfor listeformen ikke er endelig.
-
 !!! question "Oppgave 1.1.5 – Finn feilen"
+
 
 ??? note "Fasit – oppgave 1.1.5"
 
@@ -210,8 +203,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{[-2,4\rangle}}
     \]
-
-
 ## Oppgave 6–8 – Figurtall
 
     En elev skal beskrive alle tall fra og med \(-2\) til, men ikke med, \(4\). Eleven skriver
@@ -234,6 +225,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.1.1 – Tell og generaliser"
 
+
 ??? note "Fasit – oppgave 2.1.1"
 
     Figuren gir 1, 3, 5, 7 brikker.  
@@ -245,8 +237,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Figur 8: \(2\cdot8-1=15\).  
 
     d) \(F(n)=2n-1\). Det legges til 2 brikker for hver ny figur.
-
-
 
 
     **Svar:**
@@ -276,8 +266,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Hvor mange brikker har figur 8?
 
     d) Finn en formel for figur \(n\).
-
 !!! question "Oppgave 2.1.2 – Et voksende korsmønster"
+
 
 ??? note "Fasit – oppgave 2.1.2"
 
@@ -317,8 +307,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Finn en formel for antall prikker i figur \(n\).
 
     d) Forklar hvordan du kan se at formelen passer til mønsteret.
-
 !!! question "Oppgave 2.1.3 – Lag en regel"
+
 
 ??? note "Fasit – oppgave 2.1.3"
 
@@ -336,8 +326,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{a_n=3n+1}}
     \]
-
-
 ## Oppgave 9–12 – Programmering
 
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
@@ -358,6 +346,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 2.2.1 – Følg løkka"
 
+
 ??? note "Fasit – oppgave 2.2.1"
 
     a) \(n=1,2,3,4\).  
@@ -374,8 +363,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     print(total)
     ~~~
     Resultatet er 110.
-
-
 
 
     **Svar:**
@@ -398,8 +385,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Hva skrives ut?
 
     d) Endre programmet slik at det summerer partallene fra 2 til 20.
-
 !!! question "Oppgave 2.2.2 – Programmer figurtall"
+
 
 ??? note "Fasit – oppgave 2.2.2"
 
@@ -410,8 +397,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Bruk \(range(1, 11)\).
 
     d) Funksjonen samler regelen ett sted og kan brukes med flere verdier.
-
-
 
 
     **Svar:**
@@ -436,8 +421,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Endre programmet til figur 1–10.
 
     d) Hvorfor er det nyttig å lage en funksjon?
-
 !!! question "Oppgave 2.2.3 – Finn kodefeilen"
+
 
 ??? note "Fasit – oppgave 2.2.3"
 
@@ -446,8 +431,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Øvre grense i \(range\) er ikke med.  
 
     c) Bruk \(range(1, 6)\).
-
-
 
 
     **Svar:**
@@ -467,8 +450,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Hvorfor mangler ett tall?
 
     c) Rett programmet.
-
 !!! question "Oppgave 2.2.4 – Trekanttall"
+
 
 ??? note "Fasit – oppgave 2.2.4"
 
@@ -491,8 +474,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{T(20)=210}}
     \]
-
-
 ## Oppgave 13–28 – Funksjoner
 
     \(T(n)=\frac{n(n+1)}2\).
@@ -513,6 +494,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 3.1.1 – Hvilken type funksjon?"
 
+
 ??? note "Fasit – oppgave 3.1.1"
 
     a) Førstegrad: høyeste potens av \(x\) er 1.
@@ -522,8 +504,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Tredjegrad: høyeste potens av \(x\) er 3.
 
     d) Tredjegrad. Leddrekkefølgen spiller ingen rolle. Skriv gjerne uttrykket i synkende rekkefølge: \(p(x)=x^3-3x^2+7\).
-
-
 
 
     **Svar:**
@@ -541,8 +521,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) \(h(x)=-x^3+4x\)
 
     d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
-
 !!! question "Oppgave 3.1.2 – Koble funksjon og graf"
+
 
 ??? note "Fasit – oppgave 3.1.2"
 
@@ -551,8 +531,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Graf B har et bunnpunkt.
 
     c) Den rette linjen har konstant stigning. Parabelen har et bunnpunkt og er symmetrisk. Tredjegradsgrafen går ned mot venstre og opp mot høyre.
-
-
 
 
     **Svar:**
@@ -589,8 +567,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b) Hvilken graf har et bunnpunkt?
 
     c) Forklar hvordan du kan se forskjell på grafene uten å regne ut funksjonsverdier.
-
 !!! question "Oppgave 3.1.3 – Førstegrad"
+
 
 ??? note "Fasit – oppgave 3.1.3"
 
@@ -613,8 +591,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Nullpunkt: \(x=2\), punktet \((2,0)\).  
 
     e) Når x øker med 1, øker funksjonsverdien med 2.
-
-
 
 
     **Svar:**
@@ -644,8 +620,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Finn nullpunktet.
 
     e) Forklar stigningstallet.
-
 !!! question "Oppgave 3.1.4 – Andregrad"
+
 
 ??? note "Fasit – oppgave 3.1.4"
 
@@ -658,8 +634,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Parabel gjennom tabellpunktene.  
 
     e) \(g(-x)=g(x)\), derfor er grafen symmetrisk om y-aksen.
-
-
 
 
     **Svar:**
@@ -679,8 +653,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Tegn grafen.
 
     e) Hvorfor er grafen symmetrisk om y-aksen?
-
 !!! question "Oppgave 3.1.5 – Tredjegrad"
+
 
 ??? note "Fasit – oppgave 3.1.5"
 
@@ -691,8 +665,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skissen krysser x-aksen i disse tre nullpunktene og går gjennom tabellpunktene.  
 
     d) Når \(x\to-\infty\), går \(h(x)\to-\infty\); når \(x\to\infty\), går \(h(x)\to\infty\).
-
-
 
 
     **Svar:**
@@ -710,8 +682,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skisser grafen.
 
     d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
-
 !!! question "Oppgave 3.1.6 – Finn en lineær funksjon fra to punkter"
+
 
 ??? note "Fasit – oppgave 3.1.6"
 
@@ -722,8 +694,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) \(f(x)=3x+2\).
 
     d) \(f(1)=5\) og \(f(3)=11\).
-
-
 
 
     **Svar:**
@@ -741,8 +711,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv funksjonsuttrykket på standard form \(f(x)=ax+b\).
 
     d) Kontroller at grafen går gjennom begge punktene.
-
 !!! question "Oppgave 3.1.7 – Andregradsfunksjon fra nullpunkter"
+
 
 ??? note "Fasit – oppgave 3.1.7"
 
@@ -753,8 +723,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) \(f(x)=2(x^2-6x+5)=2x^2-12x+10\).
 
     d) Innsetting av 1 og 5 gir 0.
-
-
 
 
     **Svar:**
@@ -772,8 +740,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Gang ut parentesene og skriv funksjonen på standardform \(ax^2+bx+c\).
 
     d) Kontroller at funksjonsuttrykket gir nullpunktene 1 og 5.
-
 !!! question "Oppgave 3.1.8 – Ekstremalform og standardform"
+
 
 ??? note "Fasit – oppgave 3.1.8"
 
@@ -784,8 +752,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) \(f(x)=2(x-2)^2-3=2x^2-8x+5\).
 
     d) \(2(x-2)^2-3=0\), så \(x=2\pm\sqrt{\frac32}\) (omtrent 0,78 og 3,22).
-
-
 
 
     **Svar:**
@@ -803,8 +769,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Gang ut parentesen og skriv funksjonen på standardform.
 
     d) Finn nullpunktene ved å løse likningen \(f(x)=0\).
-
 !!! question "Oppgave 3.1.9 – Faktoriser"
+
 
 ??? note "Fasit – oppgave 3.1.9"
 
@@ -817,8 +783,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(x^2-5x+6=(x-2)(x-3)\).
 
     e) \(x^3-4x=x(x^2-4)=x(x-2)(x+2)\).
-
-
 
 
     **Svar:**
@@ -838,8 +802,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(x^2-5x+6\)
 
     e) \(x^3-4x\)
-
 !!! question "Oppgave 3.1.10 – Velg riktig form"
+
 
 ??? note "Fasit – oppgave 3.1.10"
 
@@ -850,8 +814,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Nullpunktene er \(x=1\) og \(x=5\).
 
     d) Bunnpunktet er \((3,-4)\).
-
-
 
 
     **Svar:**
@@ -869,8 +831,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Oppgi nullpunktene fra faktorformen.
 
     d) Oppgi bunnpunktet fra ekstremalformen.
-
 !!! question "Oppgave 3.1.11 – Sammenlign"
+
 
 ??? note "Fasit – oppgave 3.1.11"
 
@@ -881,8 +843,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Alle tre går gjennom \((0,1)\).  
 
     d) Konstantleddet bestemmer y-akseskjæringen, mens de andre leddene former grafen.
-
-
 
 
     **Svar:**
@@ -900,8 +860,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Hvilke går gjennom \((0,1)\)?
 
     d) Forklar hvorfor samme konstantledd ikke gir samme graf.
-
 !!! question "Oppgave 3.1.12 – Finn en førstegradsfunksjon fra grafen"
+
 
 ??? note "Fasit – oppgave 3.1.12"
 
@@ -914,8 +874,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(f(x)=3x+4\).
 
     e) \(f(-1)=1\) og \(f(2)=10\).
-
-
 
 
     **Svar:**
@@ -940,8 +898,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Skriv funksjonsuttrykket på formen \(f(x)=ax+b\).
 
     e) Kontroller svaret ved å sette inn begge punktene.
-
 !!! question "Oppgave 3.1.13 – Finn en andregradsfunksjon fra nullpunkter og et punkt"
+
 
 ??? note "Fasit – oppgave 3.1.13"
 
@@ -952,8 +910,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Punktet \(C(0,-6)\) gir \(-6=a(1)(-3)=-3a\), altså \(a=2\).
 
     d) \(f(x)=2(x+1)(x-3)=2x^2-4x-6\).
-
-
 
 
     **Svar:**
@@ -976,8 +932,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Bruk punktet \(C\) til å bestemme \(a\).
 
     d) Skriv funksjonen på standardform.
-
 !!! question "Oppgave 3.1.14 – Finn funksjonen fra bunnpunkt og punkt"
+
 
 ??? note "Fasit – oppgave 3.1.14"
 
@@ -990,8 +946,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(f(x)=2(x-1)^2-4=2x^2-4x-2\).
 
     e) \(2(x-1)^2-4=0\), så \(x=1\pm\sqrt2\).
-
-
 
 
     **Svar:**
@@ -1016,8 +970,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Skriv funksjonen på standardform.
 
     e) Finn nullpunktene.
-
 !!! question "Oppgave 3.1.15 – Finn en tredjegradsfunksjon fra grafen"
+
 
 ??? note "Fasit – oppgave 3.1.15"
 
@@ -1028,8 +982,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Punktet \(P(1,-6)\) gir \(-6=a\cdot3\cdot1\cdot(-2)=-6a\), altså \(a=1\).
 
     d) \(f(x)=x(x+2)(x-3)=x^3-x^2-6x\).
-
-
 
 
     **Svar:**
@@ -1052,8 +1004,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Bruk punktet \(P\) til å bestemme konstanten foran faktorene.
 
     d) Gang ut parentesene og skriv funksjonen på standardform.
-
 !!! question "Oppgave 3.1.16 – Bestem andregradsfunksjonen fra tre punkter"
+
 
 ??? note "Fasit – oppgave 3.1.16"
 
@@ -1073,8 +1025,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \[
     \underline{\underline{f(x)=(x-1)^2+2}}
     \]
-
-
 ## Oppgave 29–31 – Modellering
 
     En parabel går gjennom de tre markerte punktene \(A\), \(B\) og \(C\).
@@ -1098,6 +1048,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
 
+
 ??? note "Fasit – oppgave 3.2.1"
 
     a) \(P(x)=75+18x\).  
@@ -1107,8 +1058,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) \(75+18x=300\Rightarrow x=12,5\) km.  
 
     d) 75 kr er startpris; 18 kr er pris per kilometer.
-
-
 
 
     **Svar:**
@@ -1126,8 +1075,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Hvor langt kan du kjøre for 300 kr?
 
     d) Forklar hva tallene i formelen betyr.
-
 !!! question "Oppgave 3.2.2 – Andregradsmodell"
+
 
 ??? note "Fasit – oppgave 3.2.2"
 
@@ -1140,8 +1089,6 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(H(2)=-20+40+1=21\) meter.  
 
     e) Negativ høyde er ikke fysisk mulig; modellen gjelder bare i et begrenset tidsrom.
-
-
 
 
     **Svar:**
@@ -1161,8 +1108,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Finn maksimal høyde.
 
     e) Hva betyr negativ høyde i modellen?
-
 !!! question "Oppgave 3.2.3 – Ekstra"
+
 
 ??? note "Fasit – oppgave 3.2.3"
 
@@ -1175,14 +1122,11 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) Grafen krysser x-aksen i hvert av disse enkle nullpunktene.
 
 
-
     **Svar:**
 
     \[
     \underline{\underline{p(x)=x(x-2)(x+2)}}
     \]
-
-
 ## Observasjonsskjema
 
 | Område | Mestring | Konkret feil / notat |
@@ -1223,3 +1167,4 @@ Etter timen: velg 3–5 hjemmeoppgaver fra områdene der eleven faktisk gjorde f
 | Modellering | ☐ Sikker ☐ Usikker | |
 
 Etter timen: velg 3–5 hjemmeoppgaver fra områdene der eleven faktisk gjorde feil. Ikke gi mer av alt; gi målrettet repetisjon.
+
