@@ -84,7 +84,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv alle heltallene som ligger i intervallet.
 
 !!! question "Oppgave 4 – Skriv intervaller på tre måter"
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Tegn også intervallet på en tallinje. Bruk åpen sirkel og pil der endepunktet ikke er med, og fylt punkt/klamme der endepunktet er med.
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \(<\) eller \(>\) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen viser klammen om endepunktet er med: \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). Tegn også intervallet på en tallinje: åpen sirkel betyr ikke med, fylt punkt betyr med, og pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
