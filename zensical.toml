@@ -12,6 +12,10 @@ extra_javascript = [
 
 nav = [
   { "Hjem" = "index.md" },
+  { "Pilot – tentamen kap. 1–3" = [
+    { "Elevhefte" = "t/tentamen-kap1-3-elev.md" },
+    { "Lærerveiledning" = "t/tentamen-kap1-3-laerer.md" },
+  ] },
   { "T-matte" = [
     { "Kapittel 2 – Algebra" = [
       { "Teori og eksempler" = "t/kapittel-2-algebra.md" },
