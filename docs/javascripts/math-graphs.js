@@ -351,8 +351,7 @@
     degreeCubic: {
       title: "Tredjegradsfunksjon", description: "En tredjegradsfunksjon som går ned mot venstre og opp mot høyre.",
       aspect: "square", x: [-2.5, 2.5], y: [-9, 9], grid: false, ticks: true, tickStepX: 1, tickStepY: 3,
-      curves: [{ fn: x => x * x * x, from: -2.05, to: 2.05, color: COLORS.curve, width: 2.6 }],
-      points: [{ x: 0, y: 0, label: "O", dx: 10, dy: 18 }]
+      curves: [{ fn: x => x * x * x, from: -2.05, to: 2.05, color: COLORS.curve, width: 2.6 }]
     },
   };
 
