@@ -22,11 +22,11 @@
 | 0–25 min | 1–5 | Tallmengder og intervaller |
 | 25–45 min | 6–8 | Figurtall og generalisering |
 | 45–65 min | 9–12 | Programmering |
-| 65–105 min | 13–23 | Funksjonsgrad, grafer og funksjonsuttrykk |
-| 105–115 min | 24–26 | Modellering |
-| 115–120 min | 26 / oppsummering | Hva må repeteres? |
+| 65–105 min | 13–28 | Funksjonsgrad, grafer og funksjonsuttrykk |
+| 105–115 min | 29–30 | Modellering |
+| 115–120 min | 31 / oppsummering | Hva må repeteres? |
 
-Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–25 er kjernen; oppgave 26 er ekstra.
+Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–30 er kjernen; oppgave 31 er ekstra.
 
 ## Oppgave 1–5 – Tallmengder og intervaller
 
@@ -299,7 +299,63 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Konstantleddet bestemmer y-akseskjæringen, mens de andre leddene former grafen.
 
-## Oppgave 24–26 – Modellering
+!!! note "Oppgave 3.1.12 – fasit"
+
+    a) \\(A(1,5)\\) og \\(B(3,11)\\).
+
+    b) \\(a=\\frac{11-5}{3-1}=3\\).
+
+    c) Sett inn \\(A(1,5)\\): \\(5=3+b\\), altså \\(b=2\\).
+
+    d) \\(f(x)=3x+2\\).
+
+    e) \\(f(1)=5\\) og \\(f(3)=11\\).
+
+!!! note "Oppgave 3.1.13 – fasit"
+
+    a) Nullpunktene er \\(x=1\\) og \\(x=5\\).
+
+    b) \\(f(x)=a(x-1)(x-5)\\).
+
+    c) Punktet \\(C(0,10)\\) gir \\(10=a(-1)(-5)=5a\\), altså \\(a=2\\).
+
+    d) \\(f(x)=2(x-1)(x-5)=2x^2-12x+10\\).
+
+!!! note "Oppgave 3.1.14 – fasit"
+
+    a) Bunnpunktet er \\(T(2,-3)\\).
+
+    b) \\(f(x)=a(x-2)^2-3\\).
+
+    c) Punktet \\(P(4,5)\\) gir \\(5=4a-3\\), altså \\(a=2\\).
+
+    d) \\(f(x)=2(x-2)^2-3=2x^2-8x+5\\).
+
+    e) \\(2(x-2)^2-3=0\\), så \\(x=2\\pm\\sqrt{\\frac32}\\).
+
+!!! note "Oppgave 3.1.15 – fasit"
+
+    a) Nullpunktene er \\(x=-2\\), \\(x=0\\) og \\(x=3\\).
+
+    b) \\(f(x)=a(x+2)x(x-3)\\).
+
+    c) Punktet \\(P(1,-4)\\) gir \\(-4=a\\cdot3\\cdot1\\cdot(-2)=-6a\\), altså \\(a=\\frac23\\). Merk: grafen i elevheftet er tegnet med denne faktoren.
+
+    d) \\(f(x)=\\frac23x(x+2)(x-3)=\\frac23x^3-\\frac23x^2-4x\\).
+
+!!! note "Oppgave 3.1.16 – fasit"
+
+    a) \\(A(-1,6)\\), \\(B(1,2)\\) og \\(C(3,6)\\).
+
+    b) Punktene A og C har samme y-verdi og ligger like langt fra \\(x=1\\). Bunnpunktet er \\(B(1,2)\\).
+
+    c) \\(f(x)=a(x-1)^2+2\\).
+
+    d) Bruk A: \\(6=4a+2\\), dermed \\(a=1\\).
+
+    e) \\(f(x)=(x-1)^2+2=x^2-2x+3\\).
+
+## Oppgave 29–31 – Modellering
 
 !!! note "Oppgave 3.2.1 – fasit"
 
