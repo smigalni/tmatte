@@ -339,7 +339,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     b) \\(f(x)=a(x+2)x(x-3)\\).
 
-    c) Punktet \\(P(1,-4)\\) gir \\(-4=a\\cdot3\\cdot1\\cdot(-2)=-6a\\), altså \\(a=\\frac23\\). Merk: grafen i elevheftet er tegnet med denne faktoren.
+    c) Punktet \\(P(1,-6)\\) gir \\(-6=a\\cdot3\\cdot1\\cdot(-2)=-6a\\), altså \\(a=1\\).
 
     d) \\(f(x)=\\frac23x(x+2)(x-3)=\\frac23x^3-\\frac23x^2-4x\\).
 
