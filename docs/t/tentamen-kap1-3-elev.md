@@ -1,11 +1,19 @@
-# Tentamenstrening – kapittel 1–3
-## Elevhefte · T-matte 1T
-
-<div class="home-hero">
-  <p class="eyebrow">2-TIMERS ØKT · TENTAMEN</p>
-  <h2>Fra tallmengder til funksjoner</h2>
-  <p>Tren på begreper, figurer, programmering og funksjoner.</p>
+<div class="print-cover" aria-label="MathPlatform">
+  <div class="print-cover__identity">
+    <div class="print-cover__mark">M</div>
+    <div class="print-cover__name">MathPlatform</div>
+    <div class="print-cover__tagline">Matematikk · forståelse · mestring</div>
+  </div>
 </div>
+
+<div class="chapter-toolbar" markdown="1">
+  <span class="chapter-label">MATHPLATFORM · T-MATTE · TENTAMEN KAPITTEL 1–3</span>
+  <button class="print-button" type="button" data-print-page>Skriv ut elevheftet</button>
+</div>
+
+# Tentamenstrening – kapittel 1–3
+
+**Elevhefte · T-matte 1T · 2-timers økt**
 
 ## Målet med økten
 Du skal kunne plassere tall i tallmengdene, skrive intervaller på ulike måter, finne regler for figurtall, følge enkel kode og tolke første-, andre- og tredjegradsfunksjoner.
@@ -23,8 +31,10 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     \(\mathbb Q\): rasjonale tall, kan skrives som brøk.  
     \(\mathbb R\): reelle tall, alle tall på tallinja.
 
-!!! question "Oppgave 1 – Hvilken tallmengde?"
-    Oppgi den minste tallmengden tallet tilhører.
+!!! question "Oppgave 1 – Plasser tallene"
+    For hvert tall skal du velge **én** tallmengde: den minste mengden i rekken
+    \(\mathbb N,\mathbb Z,\mathbb Q,\mathbb R\) som inneholder tallet.
+    Skriv mengdesymbolet ved siden av hvert tall. Ikke skriv alle mengdene tallet tilhører.
 
     a) \(7\)
 
@@ -52,40 +62,50 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     e) Et tall kan tilhøre flere tallmengder samtidig.
 
 !!! question "Oppgave 3 – Les av intervallet"
-    <svg viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-      <defs><marker id="numberline-arrow" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto-start-reverse"><path d="M0 0L7 3.5L0 7Z" fill="currentColor"/></marker></defs>
-      <line x1="35" y1="42" x2="585" y2="42" stroke="currentColor" stroke-width="2" marker-start="url(#numberline-arrow)" marker-end="url(#numberline-arrow)"/>
-      <g stroke="currentColor"><path d="M35 36v12 M90 36v12 M145 36v12 M200 36v12 M255 36v12 M310 36v12 M365 36v12 M420 36v12 M475 36v12 M530 36v12 M585 36v12"/></g>
-      <g fill="currentColor" font-size="12" text-anchor="middle"><text x="35" y="65">0</text><text x="90" y="65">1</text><text x="145" y="65">2</text><text x="200" y="65">3</text><text x="255" y="65">4</text><text x="310" y="65">5</text><text x="365" y="65">6</text><text x="420" y="65">7</text><text x="475" y="65">8</text><text x="530" y="65">9</text><text x="585" y="65">10</text><text x="600" y="28" font-style="italic">x</text></g>
-      <line x1="145" y1="42" x2="420" y2="42" stroke="#168b83" stroke-width="7"/>
-      <circle cx="145" cy="42" r="6" fill="#168b83" stroke="#168b83" stroke-width="3"/><circle cx="420" cy="42" r="6" fill="white" stroke="#168b83" stroke-width="3"/>
-    </svg>
+    Les av intervallet som er markert på tallinja.
 
-    a) Skriv som ulikhet.
+    <figure class="math-graph-frame">
+      <svg viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tallinje fra 0 til 10 med markert intervall fra 2 til 7. Punktet 2 er fylt, punktet 7 er åpent, og tallinja har pil mot høyre.">
+        <defs><marker id="positive-numberline-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#475569"/></marker></defs>
+        <line x1="35" y1="42" x2="595" y2="42" stroke="#475569" stroke-width="2" marker-end="url(#positive-numberline-arrow)"/>
+        <g stroke="#475569"><path d="M35 35v14 M90 35v14 M145 35v14 M200 35v14 M255 35v14 M310 35v14 M365 35v14 M420 35v14 M475 35v14 M530 35v14 M585 35v14"/></g>
+        <g fill="#334155" font-size="12" text-anchor="middle"><text x="35" y="65">0</text><text x="90" y="65">1</text><text x="145" y="65">2</text><text x="200" y="65">3</text><text x="255" y="65">4</text><text x="310" y="65">5</text><text x="365" y="65">6</text><text x="420" y="65">7</text><text x="475" y="65">8</text><text x="530" y="65">9</text><text x="585" y="65">10</text><text x="605" y="25" font-style="italic">x</text></g>
+        <line x1="145" y1="42" x2="420" y2="42" stroke="#087f8c" stroke-width="7"/>
+        <circle cx="145" cy="42" r="6" fill="#087f8c" stroke="#087f8c" stroke-width="2"/>
+        <circle cx="420" cy="42" r="6" fill="#fff" stroke="#087f8c" stroke-width="2.5"/>
+      </svg>
+      <figcaption><strong>Figur 3.1.</strong> Intervallet starter på 2 (inkludert) og stopper ved 7 (ikke inkludert).</figcaption>
+    </figure>
 
-    b) Forklar hvorfor 2 er med, mens 7 ikke er med.
+    a) Skriv intervallet som ulikhet.
 
-    c) Skriv listeform for heltallene.
+    b) Skriv intervallet med intervallnotasjonen fra læreboka.
 
-!!! question "Oppgave 4 – Oversett"
-    Skriv listeform (heltall) og tegn hvert intervall på tallinja.
+    c) Skriv alle heltallene som ligger i intervallet.
 
-    a) \(-2\leq x<3\)
+!!! question "Oppgave 4 – Skriv intervaller på tre måter"
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Tegn også intervallet på en tallinje. Bruk åpen sirkel og pil der endepunktet ikke er med, og fylt punkt/klamme der endepunktet er med.
 
-    b) \(1<x\leq6\)
+    a) Fra og med \(-2\) til, men ikke med, \(3\).
 
-    c) Alle heltall fra og med \(-3\) til og med \(2\).
+    b) Større enn \(1\), men mindre enn eller lik \(6\).
 
-    d) \(x>4\). Forklar hvorfor listeformen ikke er endelig.
+    c) Alle tall fra og med \(-3\) til og med \(2\).
+
+    d) Alle tall som er større enn \(4\). Forklar hvorfor listeformen ikke er endelig.
 
 !!! question "Oppgave 5 – Finn feilen"
-    En elev skriver \(-2\leq x<4,\quad \{-2,-1,0,1,2,3,4\}\).
+    En elev skal beskrive alle tall fra og med \(-2\) til, men ikke med, \(4\). Eleven skriver
 
-    a) Hva er feil?
+    \[
+    -2\leq x<4,\qquad \{-2,-1,0,1,2,3,4\}.
+    \]
 
-    b) Skriv riktig listeform for heltall.
+    a) Hvilken del av svaret er feil?
 
-    c) Forklar åpent og lukket endepunkt.
+    b) Skriv riktig listeform for heltallene.
+
+    c) Skriv intervallet med lærebokas intervallnotasjon. Forklar hva klammene forteller om endepunktene.
 
 ## Del 2 – Figurtall
 
@@ -112,23 +132,36 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Finn en formel for figur \(n\).
 
-!!! question "Oppgave 7 – Kvadrattall"
-    <svg viewBox="0 0 620 125" width="100%" xmlns="http://www.w3.org/2000/svg">
-      <g fill="#168b83">
-        <circle cx="70" cy="25" r="5"/>
-        <circle cx="220" cy="15" r="5"/><circle cx="240" cy="15" r="5"/><circle cx="220" cy="35" r="5"/><circle cx="240" cy="35" r="5"/>
-        <circle cx="370" cy="5" r="5"/><circle cx="390" cy="5" r="5"/><circle cx="410" cy="5" r="5"/><circle cx="370" cy="25" r="5"/><circle cx="390" cy="25" r="5"/><circle cx="410" cy="25" r="5"/><circle cx="370" cy="45" r="5"/><circle cx="390" cy="45" r="5"/><circle cx="410" cy="45" r="5"/>
-      </g>
-      <g fill="currentColor" font-size="12" text-anchor="middle"><text x="70" y="95">Figur 1</text><text x="230" y="95">Figur 2</text><text x="390" y="95">Figur 3</text></g>
-    </svg>
+!!! question "Oppgave 7 – Rektangeltall"
+    Hver figur består av prikker ordnet i et rektangel. Se på antall rader og kolonner.
 
-    a) Skriv antall prikker i figur 1–3.
+    <figure class="math-graph-frame">
+      <svg viewBox="0 0 640 150" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire prikkrektangler: figur 1 har 1 rad og 2 kolonner, figur 2 har 2 rader og 3 kolonner, figur 3 har 3 rader og 4 kolonner, figur 4 har 4 rader og 5 kolonner.">
+        <g fill="#087f8c">
+          <circle cx="55" cy="40" r="5"/><circle cx="75" cy="40" r="5"/>
+          <circle cx="195" cy="28" r="5"/><circle cx="215" cy="28" r="5"/><circle cx="235" cy="28" r="5"/>
+          <circle cx="195" cy="48" r="5"/><circle cx="215" cy="48" r="5"/><circle cx="235" cy="48" r="5"/>
+          <circle cx="350" cy="16" r="5"/><circle cx="370" cy="16" r="5"/><circle cx="390" cy="16" r="5"/><circle cx="410" cy="16" r="5"/>
+          <circle cx="350" cy="36" r="5"/><circle cx="370" cy="36" r="5"/><circle cx="390" cy="36" r="5"/><circle cx="410" cy="36" r="5"/>
+          <circle cx="350" cy="56" r="5"/><circle cx="370" cy="56" r="5"/><circle cx="390" cy="56" r="5"/><circle cx="410" cy="56" r="5"/>
+          <circle cx="520" cy="8" r="5"/><circle cx="540" cy="8" r="5"/><circle cx="560" cy="8" r="5"/><circle cx="580" cy="8" r="5"/><circle cx="600" cy="8" r="5"/>
+          <circle cx="520" cy="28" r="5"/><circle cx="540" cy="28" r="5"/><circle cx="560" cy="28" r="5"/><circle cx="580" cy="28" r="5"/><circle cx="600" cy="28" r="5"/>
+          <circle cx="520" cy="48" r="5"/><circle cx="540" cy="48" r="5"/><circle cx="560" cy="48" r="5"/><circle cx="580" cy="48" r="5"/><circle cx="600" cy="48" r="5"/>
+          <circle cx="520" cy="68" r="5"/><circle cx="540" cy="68" r="5"/><circle cx="560" cy="68" r="5"/><circle cx="580" cy="68" r="5"/><circle cx="600" cy="68" r="5"/>
+        </g>
+        <g fill="#334155" font-size="12" text-anchor="middle"><text x="65" y="112">Figur 1</text><text x="215" y="112">Figur 2</text><text x="380" y="112">Figur 3</text><text x="560" y="112">Figur 4</text></g>
+        <g fill="#64748b" font-size="10" text-anchor="middle"><text x="65" y="130">1 × 2</text><text x="215" y="130">2 × 3</text><text x="380" y="130">3 × 4</text><text x="560" y="130">4 × 5</text></g>
+      </svg>
+      <figcaption><strong>Figur 7.1.</strong> Hver ny figur får én ekstra rad og én ekstra kolonne.</figcaption>
+    </figure>
 
-    b) Finn antallet i figur 5.
+    a) Tell prikkene i figur 1–4.
 
-    c) Finn formelen for figur \(n\).
+    b) Finn antall prikker i figur 5.
 
-    d) Hvorfor er økningen ikke konstant?
+    c) Finn en formel for antall prikker i figur \(n\).
+
+    d) Forklar hvorfor økningen fra figur til figur ikke er konstant.
 
 !!! question "Oppgave 8 – Lag en regel"
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
@@ -209,7 +242,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Andregrad: \(f(x)=ax^2+bx+c\), parabel.  
     Tredjegrad: \(f(x)=ax^3+bx^2+cx+d\), kubisk kurve.
 
-!!! question "Oppgave 13 – Bestem graden"
+!!! question "Oppgave 13 – Finn funksjonsgraden"
+    For hver funksjon skal du finne **den høyeste eksponenten til \(x\)** som har en koeffisient ulik null. Denne eksponenten bestemmer graden. Skriv både graden og om funksjonen er første-, andre- eller tredjegrad.
 
     a) \(f(x)=4x-7\)
 
@@ -217,45 +251,49 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) \(h(x)=-x^3+4x\)
 
-    d) \(p(x)=7-3x^2+x^3\). Begrunn med høyeste eksponent.
+    d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
 
-!!! question "Oppgave 14 – Les av grafene"
-    <svg viewBox="0 0 620 220" width="100%" xmlns="http://www.w3.org/2000/svg">
-      <g stroke="currentColor" opacity=".22"><path d="M20 25H195 M20 65H195 M20 105H195 M20 145H195 M20 185H195 M60 10V195 M100 10V195 M140 10V195 M180 10V195 M220 25H395 M220 65H395 M220 105H395 M220 145H395 M220 185H395 M260 10V195 M300 10V195 M340 10V195 M380 10V195 M420 25H595 M420 65H595 M420 105H595 M420 145H595 M420 185H595 M460 10V195 M500 10V195 M540 10V195 M580 10V195"/></g>
-      <defs><marker id="graph-axis-arrow" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7Z" fill="currentColor"/></marker></defs>
-      <g stroke="currentColor" stroke-width="1.5" fill="none">
-        <path d="M20 105H195 M100 195V10 M220 105H395 M300 195V10 M420 105H595 M500 195V10" marker-end="url(#graph-axis-arrow)"/>
-      </g>
-      <g fill="currentColor" font-size="11" font-style="italic">
-        <text x="185" y="98">x</text><text x="106" y="18">y</text>
-        <text x="385" y="98">x</text><text x="306" y="18">y</text>
-        <text x="585" y="98">x</text><text x="506" y="18">y</text>
-      </g>
-      <path d="M30 175L180 35" fill="none" stroke="#168b83" stroke-width="3"/>
-      <path d="M235 35Q300 205 385 35" fill="none" stroke="#168b83" stroke-width="3"/>
-      <path d="M430 175C465 175 470 105 500 105C530 105 535 35 585 35" fill="none" stroke="#168b83" stroke-width="3"/>
-      <g fill="currentColor" font-size="13" text-anchor="middle"><text x="100" y="215">A</text><text x="300" y="215">B</text><text x="500" y="215">C</text></g>
-    </svg>
+!!! question "Oppgave 14 – Koble funksjon og graf"
+    Nedenfor ser du tre funksjonsgrafer. Alle koordinatsystemene har tall på aksene.
+    Grafene er tegnet uten rutenett slik at formen på hver kurve kommer tydelig fram.
 
-    a) Hvilken er førstegrad?
+    <div class="degree-graph-grid">
+      <figure class="math-graph-frame">
+        <div class="math-graph" data-math-graph="degreeLinear" role="img" aria-label="Graf A: rett linje"></div>
+        <figcaption><strong>Figur 14.1 – Graf A.</strong> Rett linje.</figcaption>
+      </figure>
+      <figure class="math-graph-frame">
+        <div class="math-graph" data-math-graph="degreeQuadratic" role="img" aria-label="Graf B: parabel med bunnpunkt"></div>
+        <figcaption><strong>Figur 14.2 – Graf B.</strong> Parabel.</figcaption>
+      </figure>
+      <figure class="math-graph-frame">
+        <div class="math-graph" data-math-graph="degreeCubic" role="img" aria-label="Graf C: tredjegradsfunksjon"></div>
+        <figcaption><strong>Figur 14.3 – Graf C.</strong> Tredjegrads kurve.</figcaption>
+      </figure>
+    </div>
 
-    b) Hvilken er andregrad?
+    a) Hvilken graf viser en førstegradsfunksjon? Begrunn ved å beskrive grafens form.
 
-    c) Hvilken er tredjegrad?
+    b) Hvilken graf viser en andregradsfunksjon? Hva kalles denne grafen?
 
-    d) Hvilken har bunnpunkt?
+    c) Hvilken graf viser en tredjegradsfunksjon? Beskriv hvordan grafen går fra venstre mot høyre.
 
-    e) Hvorfor kan ikke en rett linje være en andregradsfunksjon?
+    d) Hvilken graf har et bunnpunkt?
+
+    e) Forklar hvorfor graf B ikke kan være grafen til en førstegradsfunksjon.
 
 !!! question "Oppgave 15 – Førstegrad"
     \(f(x)=2x-4\).
 
-    a) Fyll ut tabellen for \(x=-1,0,1,2,3\).
-    | \(x\) | -1 | 0 | 1 | 2 | 3 |
-    |---|---:|---:|---:|---:|---:|
-    | \(f(x)\) | | | | | |
+    a) Regn ut funksjonsverdien for hver x-verdi. Skriv svaret på linjen.
 
-    b) Tegn grafen.
+    - Når \(x=-1\): \(f(-1)=\) ____________________
+    - Når \(x=0\): \(f(0)=\) ____________________
+    - Når \(x=1\): \(f(1)=\) ____________________
+    - Når \(x=2\): \(f(2)=\) ____________________
+    - Når \(x=3\): \(f(3)=\) ____________________
+
+    b) Tegn grafen i et koordinatsystem. Marker punktene fra a) før du trekker linjen.
 
     c) Finn skjæringen med y-aksen.
 
