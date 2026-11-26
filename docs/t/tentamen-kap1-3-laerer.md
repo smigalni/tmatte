@@ -139,14 +139,14 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Hver prikk er én brikke.
     <figure class="math-graph-frame">
       <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire prikkfigurer med henholdsvis 1, 3, 5 og 7 brikker.">
-      <g fill="#168b83">
-        <circle cx="65" cy="30" r="6"/>
-        <circle cx="205" cy="20" r="6"/><circle cx="205" cy="45" r="6"/><circle cx="230" cy="45" r="6"/>
-        <circle cx="350" cy="15" r="6"/><circle cx="350" cy="40" r="6"/><circle cx="350" cy="65" r="6"/><circle cx="375" cy="65" r="6"/><circle cx="400" cy="65" r="6"/>
-        <circle cx="500" cy="10" r="6"/><circle cx="500" cy="35" r="6"/><circle cx="500" cy="60" r="6"/><circle cx="500" cy="85" r="6"/><circle cx="525" cy="85" r="6"/><circle cx="550" cy="85" r="6"/><circle cx="575" cy="85" r="6"/>
-      </g>
-      <g fill="currentColor" font-size="12" text-anchor="middle"><text x="65" y="125">Figur 1</text><text x="218" y="125">Figur 2</text><text x="375" y="125">Figur 3</text><text x="540" y="125">Figur 4</text></g>
-      </svg>
+        <g fill="#168b83">
+          <circle cx="65" cy="30" r="6"/>
+          <circle cx="205" cy="20" r="6"/><circle cx="205" cy="45" r="6"/><circle cx="230" cy="45" r="6"/>
+          <circle cx="350" cy="15" r="6"/><circle cx="350" cy="40" r="6"/><circle cx="350" cy="65" r="6"/><circle cx="375" cy="65" r="6"/><circle cx="400" cy="65" r="6"/>
+          <circle cx="500" cy="10" r="6"/><circle cx="500" cy="35" r="6"/><circle cx="500" cy="60" r="6"/><circle cx="500" cy="85" r="6"/><circle cx="525" cy="85" r="6"/><circle cx="550" cy="85" r="6"/><circle cx="575" cy="85" r="6"/>
+        </g>
+        <g fill="currentColor" font-size="12" text-anchor="middle"><text x="65" y="125">Figur 1</text><text x="218" y="125">Figur 2</text><text x="375" y="125">Figur 3</text><text x="540" y="125">Figur 4</text></g>
+        </svg>
       <figcaption><strong>Figur 2.1.1.</strong> Fire figurer som viser hvordan antallet brikker øker.</figcaption>
     </figure>
 
