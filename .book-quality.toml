@@ -6,6 +6,8 @@ answer_key_requires_double_underline = true
 check_admonition_indentation = true
 check_balanced_code_fences = true
 check_balanced_svg_figure = true
+# Elevoppgaver og lærerfasit ligger i separate dokumenter; koblingen kontrolleres på tvers.
+check_task_answer_pairing = false
 answer_marker = '^\s*\*\*Svar:\*\*'
 answer_search_lines = 12
 excluded_paths = ["site/", "build/", ".venv/", ".book-quality-tools/"]
