@@ -3,7 +3,7 @@
 Disse reglene gjelder for dette bok-repoet og skal brukes automatisk på tvers av samtaler.
 
 ## Arbeidsflyt
-- Arbeid på den branchen brukeren har angitt. For T-matte er arbeidsbranchen for øyeblikket main.
+- Arbeid på den branchen brukeren har angitt. For T-matte skal du bruke branchen brukeren har angitt; bruk main bare når ingen annen branch er valgt.
 - Les denne filen og den felles standarden før endringer. Ikke be brukeren gjenta etablerte valg.
 - Bevar eksisterende struktur, nummerering, navigasjon og innhold som ikke er del av oppgaven.
 - Kontroller at endringer er lagret på riktig branch, og oppgi hvilke tester og bygg som faktisk ble kjørt.
@@ -30,7 +30,7 @@ Disse reglene gjelder for dette bok-repoet og skal brukes automatisk på tvers a
 - Disse kravene skal kontrolleres automatisk der det er mulig, og deretter visuelt i nettvisning og utskrift. En grønn CI-kontroll erstatter ikke visuell kontroll.
 
 ## Felles kvalitetskontroll på tvers av bøker
-- Den delte standarden og sjekkeren dokumenteres i https://github.com/smigalni/matte/blob/feature/kapittel-3-derivasjon-komplett/BOOK_QUALITY.md.
+- Den delte standarden og sjekkeren dokumenteres i https://github.com/smigalni/matte/blob/main/BOOK_QUALITY.md.
 - Bokspesifikke innstillinger ligger i .book-quality.toml. Ikke kopier selve kontrollprogrammet hit.
 - GitHub Actions kjører automatisk kontroll av endrede Markdown-filer ved push og pull request.
 - Den automatiske kontrollen er et ekstra sikkerhetslag. Den erstatter ikke faglig kontroll, Zensical-bygg eller visuell kontroll av siden.
