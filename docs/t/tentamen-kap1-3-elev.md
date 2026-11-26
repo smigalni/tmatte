@@ -143,33 +143,30 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Finn en formel for figur \(n\).
 
-!!! question "Oppgave 2.1.2 – Kvadrattall fra figurer"
+!!! question "Oppgave 2.1.2 – Et voksende korsmønster"
 
-    Hver figur bygges opp som et kvadrat av prikker. Hver prikk er én brikke.
+    Hver figur består av prikker som danner et kors. Fra én figur til den neste forlenges hver av de fire armene med én prikk.
 
     <figure class="math-graph-frame">
-      <svg viewBox="0 0 640 150" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire kvadratiske prikkmønstre: figur 1 har 1 prikk, figur 2 har 4 prikker, figur 3 har 9 prikker og figur 4 har 16 prikker.">
+      <svg viewBox="0 0 640 150" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fire voksende korsmønstre med henholdsvis 1, 5, 9 og 13 prikker.">
         <g fill="#087f8c">
-          <circle cx="65" cy="45" r="5"/>
-          <circle cx="190" cy="32" r="5"/><circle cx="212" cy="32" r="5"/><circle cx="190" cy="54" r="5"/><circle cx="212" cy="54" r="5"/>
-          <circle cx="330" cy="22" r="5"/><circle cx="350" cy="22" r="5"/><circle cx="370" cy="22" r="5"/><circle cx="330" cy="42" r="5"/><circle cx="350" cy="42" r="5"/><circle cx="370" cy="42" r="5"/><circle cx="330" cy="62" r="5"/><circle cx="350" cy="62" r="5"/><circle cx="370" cy="62" r="5"/>
-          <circle cx="490" cy="12" r="5"/><circle cx="510" cy="12" r="5"/><circle cx="530" cy="12" r="5"/><circle cx="550" cy="12" r="5"/>
-          <circle cx="490" cy="32" r="5"/><circle cx="510" cy="32" r="5"/><circle cx="530" cy="32" r="5"/><circle cx="550" cy="32" r="5"/>
-          <circle cx="490" cy="52" r="5"/><circle cx="510" cy="52" r="5"/><circle cx="530" cy="52" r="5"/><circle cx="550" cy="52" r="5"/>
-          <circle cx="490" cy="72" r="5"/><circle cx="510" cy="72" r="5"/><circle cx="530" cy="72" r="5"/><circle cx="550" cy="72" r="5"/>
+          <circle cx="80" cy="48" r="5"/>
+          <circle cx="220" cy="34" r="5"/><circle cx="220" cy="48" r="5"/><circle cx="220" cy="62" r="5"/><circle cx="206" cy="48" r="5"/><circle cx="234" cy="48" r="5"/>
+          <circle cx="360" cy="20" r="5"/><circle cx="360" cy="34" r="5"/><circle cx="360" cy="48" r="5"/><circle cx="360" cy="62" r="5"/><circle cx="360" cy="76" r="5"/><circle cx="332" cy="48" r="5"/><circle cx="346" cy="48" r="5"/><circle cx="374" cy="48" r="5"/><circle cx="388" cy="48" r="5"/>
+          <circle cx="500" cy="6" r="5"/><circle cx="500" cy="20" r="5"/><circle cx="500" cy="34" r="5"/><circle cx="500" cy="48" r="5"/><circle cx="500" cy="62" r="5"/><circle cx="500" cy="76" r="5"/><circle cx="500" cy="90" r="5"/><circle cx="458" cy="48" r="5"/><circle cx="472" cy="48" r="5"/><circle cx="486" cy="48" r="5"/><circle cx="514" cy="48" r="5"/><circle cx="528" cy="48" r="5"/><circle cx="542" cy="48" r="5"/>
         </g>
-        <g fill="#334155" font-size="12" text-anchor="middle"><text x="65" y="112">Figur 1</text><text x="201" y="112">Figur 2</text><text x="350" y="112">Figur 3</text><text x="520" y="112">Figur 4</text></g>
+        <g fill="#334155" font-size="12" text-anchor="middle"><text x="80" y="122">Figur 1</text><text x="220" y="122">Figur 2</text><text x="360" y="122">Figur 3</text><text x="500" y="122">Figur 4</text></g>
       </svg>
-      <figcaption><strong>Figur 2.1.2.</strong> Fire figurer i et prikkmønster.</figcaption>
+      <figcaption><strong>Figur 2.1.2.</strong> Et voksende korsmønster.</figcaption>
     </figure>
 
     a) Tell prikkene i figur 1–4.
 
-    b) Finn antall prikker i figur 5.
+    b) Hvor mange prikker vil figur 5 ha?
 
     c) Finn en formel for antall prikker i figur \(n\).
 
-    d) Hvor mange prikker legges til fra én figur til den neste? Forklar mønsteret.
+    d) Forklar hvordan du kan se at formelen passer til mønsteret.
 
 !!! question "Oppgave 2.1.3 – Lag en regel"
 
