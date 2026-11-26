@@ -116,10 +116,17 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 ## Oppgave 13–18 – Funksjoner
 
 !!! note "Oppgave 13 – fasit"
-    a) Førstegrad. b) Andregrad. c) Tredjegrad. d) Tredjegrad. Graden bestemmes av høyeste eksponent, uavhengig av rekkefølgen på leddene.
+    a) Førstegrad.
+    b) Andregrad.
+    c) Tredjegrad.
+    d) Tredjegrad. Graden bestemmes av høyeste eksponent, uavhengig av rekkefølgen på leddene.
 
 !!! note "Oppgave 14 – fasit"
-    a) A. b) B. c) C. d) B har bunnpunkt. e) En andregradsfunksjon har et \(x^2\)-ledd med koeffisient ulik null; grafen er en parabel.
+    a) A.
+    b) B.
+    c) C.
+    d) B har bunnpunkt.
+    e) En andregradsfunksjon har et \(x^2\)-ledd med koeffisient ulik null; grafen er en parabel.
 
 !!! note "Oppgave 15 – fasit"
     a)
