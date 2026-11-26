@@ -400,6 +400,92 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Forklar hvorfor samme konstantledd ikke gir samme graf.
 
+!!! question "Oppgave 3.1.12 – Finn en førstegradsfunksjon fra grafen"
+    Grafen viser en rett linje. Punktene \\(A\\) og \\(B\\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskLinearPoints" role="img" aria-label="Rett linje gjennom A(1, 5) og B(3, 11), med koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.12.</strong> Rett linje med to kjente punkter.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til punktene \\(A\\) og \\(B\\).
+
+    b) Bestem stigningstallet.
+
+    c) Bestem konstantleddet.
+
+    d) Skriv funksjonsuttrykket på formen \\(f(x)=ax+b\\).
+
+    e) Kontroller svaret ved å sette inn begge punktene.
+
+!!! question "Oppgave 3.1.13 – Finn en andregradsfunksjon fra nullpunkter og et punkt"
+    Grafen viser en parabel. Punktene \\(A\\), \\(B\\) og \\(C\\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticRoots" role="img" aria-label="Parabel med markerte punkter A(1, 0), B(5, 0) og C(0, 10), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.13.</strong> Parabel med to nullpunkter og ett kjent punkt.</figcaption>
+    </figure>
+
+    a) Les av nullpunktene til funksjonen.
+
+    b) Sett opp funksjonen på faktorform \\(f(x)=a(x-x_1)(x-x_2)\\).
+
+    c) Bruk punktet \\(C\\) til å bestemme \\(a\\).
+
+    d) Skriv funksjonen på standardform.
+
+!!! question "Oppgave 3.1.14 – Finn funksjonen fra bunnpunkt og punkt"
+    Grafen viser en parabel med bunnpunkt \\(T\\) og et annet kjent punkt \\(P\\).
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticVertex" role="img" aria-label="Parabel med markert bunnpunkt T(2, minus 3) og punkt P(4, 5), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.14.</strong> Parabel med markert bunnpunkt og punkt.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til bunnpunktet.
+
+    b) Sett opp funksjonen på ekstremalform.
+
+    c) Bruk punktet \\(P\\) til å bestemme \\(a\\).
+
+    d) Skriv funksjonen på standardform.
+
+    e) Finn nullpunktene.
+
+!!! question "Oppgave 3.1.15 – Finn en tredjegradsfunksjon fra grafen"
+    Grafen viser en tredjegradsfunksjon. Punktene \\(A\\), \\(B\\), \\(C\\) og \\(P\\) er markert.
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 4), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.15.</strong> Tredjegradsfunksjon med tre nullpunkter.</figcaption>
+    </figure>
+
+    a) Les av de tre nullpunktene.
+
+    b) Sett opp funksjonen på faktorform.
+
+    c) Bruk punktet \\(P\\) til å bestemme konstanten foran faktorene.
+
+    d) Gang ut parentesene og skriv funksjonen på standardform.
+
+!!! question "Oppgave 3.1.16 – Bestem andregradsfunksjonen fra tre punkter"
+    En parabel går gjennom de tre markerte punktene \\(A\\), \\(B\\) og \\(C\\).
+
+    <figure class="math-graph-frame">
+      <div class="math-graph" data-math-graph="taskQuadraticThreePoints" role="img" aria-label="Parabel gjennom punktene A(minus 1, 6), B(1, 2) og C(3, 6), koordinatakser og rutenett."></div>
+      <figcaption><strong>Figur 3.1.16.</strong> Parabel gjennom tre kjente punkter.</figcaption>
+    </figure>
+
+    a) Les av koordinatene til alle tre punktene.
+
+    b) Bruk symmetrien i grafen til å finne bunnpunktet.
+
+    c) Sett opp funksjonen på ekstremalform.
+
+    d) Bruk ett av de andre punktene til å bestemme \\(a\\).
+
+    e) Skriv funksjonen på standardform.
+
 ## Del 5 – Blandede utfordringer
 
 !!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
