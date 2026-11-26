@@ -50,7 +50,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       <circle cx="145" cy="42" r="6" fill="#168b83" stroke="#168b83" stroke-width="3"/><circle cx="420" cy="42" r="6" fill="white" stroke="#168b83" stroke-width="3"/>
     </svg>
     a) Skriv som ulikhet.
-    b) Skriv som ulikhet.
+    b) Forklar hvorfor 2 er med, mens 7 ikke er med.
     c) Skriv listeform for heltallene.
 
 !!! question "Oppgave 4 – Oversett"
