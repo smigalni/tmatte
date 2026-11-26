@@ -142,7 +142,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
       <g stroke="currentColor" stroke-width="1.5"><path d="M20 105H195 M100 10V195 M220 105H395 M300 10V195 M420 105H595 M500 10V195"/></g>
       <path d="M30 175L180 35" fill="none" stroke="#168b83" stroke-width="3"/>
       <path d="M235 35Q300 205 385 35" fill="none" stroke="#168b83" stroke-width="3"/>
-      <path d="M430 175C465 175 470 35 500 35C530 35 535 175 585 175" fill="none" stroke="#168b83" stroke-width="3"/>
+      <path d="M430 175C465 175 470 105 500 105C530 105 535 35 585 35" fill="none" stroke="#168b83" stroke-width="3"/>
       <g fill="currentColor" font-size="13" text-anchor="middle"><text x="100" y="215">A</text><text x="300" y="215">B</text><text x="500" y="215">C</text></g>
     </svg>
     a) Hvilken er førstegrad? b) Hvilken er andregrad? c) Hvilken er tredjegrad? d) Hvilken har bunnpunkt? e) Hvorfor kan ikke en rett linje være en andregradsfunksjon?
