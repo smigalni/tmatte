@@ -10,16 +10,5 @@ permissions:
 
 jobs:
   quality:
-    # Shared workflow maintained in the matte repository.
-    uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@feature/kapittel-3-derivasjon-komplett
-
-  tentamen-format:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-      - name: Check tentamen formatting and figure conventions
-        run: python scripts/check_tentamen_format.py
+    # Bruk den delte sjekkeren som nå er publisert på main.
+    uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@main
