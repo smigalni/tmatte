@@ -60,6 +60,7 @@
   .md-typeset mjx-container { break-inside: avoid; }
   .math-graph-frame { break-inside: avoid; }
   .math-graph svg { max-width: 100% !important; }
-  .degree-graph-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; gap: 5mm !important; }
+  .degree-graph-grid { grid-template-columns: 1fr !important; gap: 4mm !important; }
+  .degree-graph-grid .math-graph svg.math-graph-svg--square { max-width: 110mm !important; }
   a { color: inherit !important; text-decoration: none !important; }
 }
