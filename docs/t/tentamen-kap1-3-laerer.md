@@ -22,11 +22,11 @@
 | 0–25 min | 1–5 | Tallmengder og intervaller |
 | 25–45 min | 6–8 | Figurtall og generalisering |
 | 45–65 min | 9–12 | Programmering |
-| 65–100 min | 13–18 | Funksjonsgrad og grafer |
-| 100–115 min | 19–20 | Modellering |
-| 115–120 min | 21 / oppsummering | Hva må repeteres? |
+| 65–105 min | 13–22 | Funksjonsgrad, grafer og funksjonsuttrykk |
+| 105–115 min | 23–24 | Modellering |
+| 115–120 min | 25 / oppsummering | Hva må repeteres? |
 
-Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–20 er kjernen; oppgave 21 er ekstra.
+Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–24 er kjernen; oppgave 25 er ekstra.
 
 ## Oppgave 1–5 – Tallmengder og intervaller
 
@@ -192,15 +192,12 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 !!! note "Oppgave 3.1.2 – fasit"
 
-    a) Graf A er førstegrad: grafen er en rett linje.
+    a) Graf A: \\(g(x)=x+1\\) (II). Graf B: \\(h(x)=x^2-2\\) (III). Graf C: \\(f(x)=x^3\\) (I).
 
-    b) Graf B er andregrad: grafen er en parabel.
+    b) Graf B har et bunnpunkt.
 
-    c) Graf C er tredjegrad: den kubiske kurven går ned mot venstre og opp mot høyre.
+    c) Den rette linjen har konstant stigning. Parabelen har et bunnpunkt og er symmetrisk. Tredjegradsgrafen går ned mot venstre og opp mot høyre.
 
-    d) Graf B har et bunnpunkt.
-
-    e) Graf B er en parabel og har en krum form. En førstegradsfunksjon har alltid en rett linje som graf.
 
 !!! note "Oppgave 3.1.3 – fasit"
 
@@ -247,6 +244,58 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
     d) Når \(x\to-\infty\), går \(h(x)\to-\infty\); når \(x\to\infty\), går \(h(x)\to\infty\).
 
 !!! note "Oppgave 3.1.6 – fasit"
+
+    a) \\(a=\\frac{11-5}{3-1}=3\\).
+
+    b) Sett inn \\(A(1,5)\\): \\(5=3\\cdot1+b\\), altså \\(b=2\\).
+
+    c) \\(f(x)=3x+2\\).
+
+    d) \\(f(1)=5\\) og \\(f(3)=11\\).
+
+!!! note "Oppgave 3.1.7 – fasit"
+
+    a) \\(f(x)=a(x-1)(x-5)\\).
+
+    b) \\(10=a(0-1)(0-5)=5a\\), så \\(a=2\\).
+
+    c) \\(f(x)=2(x^2-6x+5)=2x^2-12x+10\\).
+
+    d) Innsetting av 1 og 5 gir 0.
+
+!!! note "Oppgave 3.1.8 – fasit"
+
+    a) \\(f(x)=a(x-2)^2-3\\).
+
+    b) \\(5=a(4-2)^2-3\\), altså \\(8=4a\\) og \\(a=2\\).
+
+    c) \\(f(x)=2(x-2)^2-3=2x^2-8x+5\\).
+
+    d) \\(2(x-2)^2-3=0\\), så \\(x=2\\pm\\sqrt{\\frac32}\\) (omtrent 0,78 og 3,22).
+
+!!! note "Oppgave 3.1.9 – fasit"
+
+    a) \\(x^2+7x+12=(x+3)(x+4)\\).
+
+    b) \\(x^2-9=(x-3)(x+3)\\).
+
+    c) \\(2x^2-8x=2x(x-4)\\).
+
+    d) \\(x^2-5x+6=(x-2)(x-3)\\).
+
+    e) \\(x^3-4x=x(x^2-4)=x(x-2)(x+2)\\).
+
+!!! note "Oppgave 3.1.10 – fasit"
+
+    a) \\(f(x)=(x-1)(x-5)\\).
+
+    b) \\(f(x)=(x-3)^2-4\\).
+
+    c) Nullpunktene er \\(x=1\\) og \\(x=5\\).
+
+    d) Bunnpunktet er \\((3,-4)\\).
+
+!!! note "Oppgave 3.1.11 – fasit"
 
     a) \(f\) førstegrad, \(g\) andregrad, \(h\) tredjegrad.  
 
