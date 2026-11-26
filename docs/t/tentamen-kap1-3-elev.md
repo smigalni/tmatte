@@ -23,15 +23,17 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 ## Del 1 – Tallmengder og intervaller
 
 !!! important "Tallmengdene"
+
     \[
     \mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}
     \]
+
     \(\mathbb N\): naturlige tall (her inkluderer vi 0).  
     \(\mathbb Z\): heltall.  
     \(\mathbb Q\): rasjonale tall, kan skrives som brøk.  
     \(\mathbb R\): reelle tall, alle tall på tallinja.
 
-!!! question "Oppgave 1 – Plasser tallene"
+!!! question "Oppgave 1.1.1 – Plasser tallene"
     For hvert tall skal du velge **én** tallmengde: den minste mengden i rekken
     \(\mathbb N,\mathbb Z,\mathbb Q,\mathbb R\) som inneholder tallet.
     Skriv mengdesymbolet ved siden av hvert tall. Ikke skriv alle mengdene tallet tilhører.
@@ -48,7 +50,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     f) \(-\frac{12}{3}\).
 
-!!! question "Oppgave 2 – Sant eller usant?"
+!!! question "Oppgave 1.1.2 – Sant eller usant?"
     Begrunn kort.
 
     a) Alle heltall er rasjonale tall.
@@ -61,7 +63,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Et tall kan tilhøre flere tallmengder samtidig.
 
-!!! question "Oppgave 3 – Les av intervallet"
+!!! question "Oppgave 1.1.3 – Les av intervallet"
     Les av intervallet som er markert på tallinja.
 
     <figure class="math-graph-frame">
@@ -83,7 +85,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) Skriv alle heltallene som ligger i intervallet.
 
-!!! question "Oppgave 4 – Skriv intervaller på tre måter"
+!!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
     For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \(<\) eller \(>\) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen viser klammen om endepunktet er med: \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). Tegn også intervallet på en tallinje: åpen sirkel betyr ikke med, fylt punkt betyr med, og pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
@@ -94,7 +96,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Alle tall som er større enn \(4\). Forklar hvorfor listeformen ikke er endelig.
 
-!!! question "Oppgave 5 – Finn feilen"
+!!! question "Oppgave 1.1.5 – Finn feilen"
     En elev skal beskrive alle tall fra og med \(-2\) til, men ikke med, \(4\). Eleven skriver
 
     \[
@@ -112,7 +114,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 !!! important "Fra figur til formel"
     Se etter hvor mange elementer som legges til for hver ny figur. Er økningen konstant? Kan antallet i figur \(n\) beskrives med en formel?
 
-!!! question "Oppgave 6 – Tell og generaliser"
+!!! question "Oppgave 2.1.1 – Tell og generaliser"
     Hver prikk er én brikke.
     <svg viewBox="0 0 620 145" width="100%" xmlns="http://www.w3.org/2000/svg">
       <g fill="#168b83">
@@ -132,7 +134,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Finn en formel for figur \(n\).
 
-!!! question "Oppgave 7 – Rektangeltall"
+!!! question "Oppgave 2.1.2 – Rektangeltall"
     Hver figur består av prikker ordnet i et rektangel. Se på antall rader og kolonner.
 
     <figure class="math-graph-frame">
@@ -163,7 +165,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Forklar hvorfor økningen fra figur til figur ikke er konstant.
 
-!!! question "Oppgave 8 – Lag en regel"
+!!! question "Oppgave 2.1.3 – Lag en regel"
     Et mønster har antall brikker \(4,7,10,13,\ldots\).
 
     a) Finn differansen.
@@ -179,7 +181,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 !!! important "Les kode systematisk"
     Følg programmet linje for linje. Noter verdiene til variablene etter hver runde. Husk at øvre grense i Python sin \(range\) ikke er med.
 
-!!! question "Oppgave 9 – Følg løkka"
+!!! question "Oppgave 2.2.1 – Følg løkka"
     ~~~python
     total = 0
     for n in range(1, 5):
@@ -195,7 +197,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Endre programmet slik at det summerer partallene fra 2 til 20.
 
-!!! question "Oppgave 10 – Programmer figurtall"
+!!! question "Oppgave 2.2.2 – Programmer figurtall"
     Et figurtall er gitt ved \(F(n)=n^2+n\).
     ~~~python
     def F(n):
@@ -213,7 +215,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Hvorfor er det nyttig å lage en funksjon?
 
-!!! question "Oppgave 11 – Finn kodefeilen"
+!!! question "Oppgave 2.2.3 – Finn kodefeilen"
     Målet er å skrive ut kvadrattallene fra 1 til 5.
     ~~~python
     for n in range(1, 5):
@@ -226,7 +228,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     c) Rett programmet.
 
-!!! question "Oppgave 12 – Trekanttall"
+!!! question "Oppgave 2.2.4 – Trekanttall"
     \(T(n)=\frac{n(n+1)}2\).
 
     a) Kontroller at de fem første verdiene er \(1,3,6,10,15\).
@@ -242,7 +244,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Andregrad: \(f(x)=ax^2+bx+c\), parabel.  
     Tredjegrad: \(f(x)=ax^3+bx^2+cx+d\), kubisk kurve.
 
-!!! question "Oppgave 13 – Finn funksjonsgraden"
+!!! question "Oppgave 3.1.1 – Finn funksjonsgraden"
     For hver funksjon skal du finne **den høyeste eksponenten til \(x\)** som har en koeffisient ulik null. Denne eksponenten bestemmer graden. Skriv både graden og om funksjonen er første-, andre- eller tredjegrad.
 
     a) \(f(x)=4x-7\)
@@ -253,7 +255,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
 
-!!! question "Oppgave 14 – Koble funksjon og graf"
+!!! question "Oppgave 3.1.2 – Koble funksjon og graf"
     Nedenfor ser du tre funksjonsgrafer. Alle koordinatsystemene har tall på aksene.
     Grafene er tegnet uten rutenett slik at formen på hver kurve kommer tydelig fram.
 
@@ -282,16 +284,20 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Forklar hvorfor graf B ikke kan være grafen til en førstegradsfunksjon.
 
-!!! question "Oppgave 15 – Førstegrad"
+!!! question "Oppgave 3.1.3 – Førstegrad"
     \(f(x)=2x-4\).
 
     a) Regn ut funksjonsverdien for hver x-verdi. Skriv svaret på linjen.
 
-    - Når \(x=-1\): \(f(-1)=\) ____________________
-    - Når \(x=0\): \(f(0)=\) ____________________
-    - Når \(x=1\): \(f(1)=\) ____________________
-    - Når \(x=2\): \(f(2)=\) ____________________
-    - Når \(x=3\): \(f(3)=\) ____________________
+    Når \(x=-1\): \(f(-1)=\) ____________________  
+
+    Når \(x=0\): \(f(0)=\) ____________________  
+
+    Når \(x=1\): \(f(1)=\) ____________________  
+
+    Når \(x=2\): \(f(2)=\) ____________________  
+
+    Når \(x=3\): \(f(3)=\) ____________________
 
     b) Tegn grafen i et koordinatsystem. Marker punktene fra a) før du trekker linjen.
 
@@ -301,7 +307,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Forklar stigningstallet.
 
-!!! question "Oppgave 16 – Andregrad"
+!!! question "Oppgave 3.1.4 – Andregrad"
     \(g(x)=x^2-4\).
 
     a) Regn ut funksjonsverdiene for \(x=-3,-2,-1,0,1,2,3\).
@@ -314,7 +320,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Hvorfor er grafen symmetrisk om y-aksen?
 
-!!! question "Oppgave 17 – Tredjegrad"
+!!! question "Oppgave 3.1.5 – Tredjegrad"
     \(h(x)=x^3-3x\).
 
     a) Regn ut \(h(-2),h(-1),h(0),h(1),h(2)\).
@@ -325,7 +331,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
 
-!!! question "Oppgave 18 – Sammenlign"
+!!! question "Oppgave 3.1.6 – Sammenlign"
     \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
 
     a) Bestem graden.
@@ -338,7 +344,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ## Del 5 – Blandede utfordringer
 
-!!! question "Oppgave 19 – Fra tekst til funksjon"
+!!! question "Oppgave 3.2.1 – Fra tekst til funksjon"
     En taxi tar 75 kr i startpris og 18 kr per kilometer.
 
     a) Sett opp \(P(x)\).
@@ -349,7 +355,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Forklar hva tallene i formelen betyr.
 
-!!! question "Oppgave 20 – Andregradsmodell"
+!!! question "Oppgave 3.2.2 – Andregradsmodell"
     En ballhøyde er modellert ved \(H(t)=-5t^2+20t+1\).
 
     a) Hvorfor passer en andregradsfunksjon?
@@ -362,7 +368,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     e) Hva betyr negativ høyde i modellen?
 
-!!! question "Oppgave 21 – Ekstra"
+!!! question "Oppgave 3.2.3 – Ekstra"
     \(p(x)=x^3-4x\).
 
     a) Faktoriser.
