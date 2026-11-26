@@ -803,7 +803,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     b)
     ~~~python
     def T(n):
-        return n*(n+1)/2
+        return n*(n+1)//2
 
     for n in range(1, 6):
         print(T(n))
