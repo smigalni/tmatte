@@ -11,7 +11,7 @@ permissions:
 jobs:
   quality:
     # Bruk den delte sjekkeren som nå er publisert på main.
-    uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@main
+    uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@fix/book-quality-config-loading
 
   site-build:
     name: Build site and check JavaScript
