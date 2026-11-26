@@ -1,11 +1,19 @@
-# Tentamenstrening – kapittel 1–3
-## Lærerveiledning · T-matte 1T
-
-<div class="home-hero">
-  <p class="eyebrow">2-TIMERS ØKT · LÆRERUTGAVE</p>
-  <h2>Fra tallmengder til funksjoner</h2>
-  <p>Samme oppgaver og rekkefølge som elevheftet. Med løsningsforslag og observasjonspunkter.</p>
+<div class="print-cover" aria-label="MathPlatform">
+  <div class="print-cover__identity">
+    <div class="print-cover__mark">M</div>
+    <div class="print-cover__name">MathPlatform</div>
+    <div class="print-cover__tagline">Matematikk · forståelse · mestring</div>
+  </div>
 </div>
+
+<div class="chapter-toolbar" markdown="1">
+  <span class="chapter-label">MATHPLATFORM · T-MATTE · TENTAMEN KAPITTEL 1–3 · LÆRER</span>
+  <button class="print-button" type="button" data-print-page>Skriv ut lærerveiledningen</button>
+</div>
+
+# Tentamenstrening – kapittel 1–3
+
+**Lærerveiledning · T-matte 1T · 2-timers økt**
 
 ## Forslag til tidsplan
 
