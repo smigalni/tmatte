@@ -379,7 +379,7 @@
     },
     taskQuadraticThreePoints: {
       title: "Parabel gjennom tre punkter", description: "En parabel med tre markerte punkter A, B og C.",
-      aspect: "square", x: [-3, 5], y: [-2, 14], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
+      aspect: "square", x: [-3, 5], y: [-2, 20], grid: true, gridStepX: 1, gridStepY: 2, ticks: true, tickStepX: 1, tickStepY: 2,
       curves: [{ fn: x => (x - 1) * (x - 1) + 2, from: -2.7, to: 4.7, color: COLORS.curve, width: 2.8 }],
       points: [{ x: -1, y: 6, label: "A(−1, 6)", dx: -72, dy: -12 }, { x: 1, y: 2, label: "B(1, 2)", dx: 12, dy: 18 }, { x: 3, y: 6, label: "C(3, 6)", dx: 12, dy: -12 }]
     },
