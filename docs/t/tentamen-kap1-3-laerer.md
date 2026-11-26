@@ -104,7 +104,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
 
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \( < \) eller \( > \) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen bruker vi \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \( < \) eller \( > \) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen bruker vi \([a,b\rangle\), \(\langle a,b]\), \(\langle a,b\rangle\) eller \([a,b]\). På tallinja markerer du et endepunkt som er med med `[` til venstre eller `]` til høyre. Et endepunkt som ikke er med, markerer du med `<` til venstre eller `>` til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
@@ -622,7 +622,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     a) \(2\leq x<7\).
 
-    b) Intervallnotasjon: \([2,7[\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
+    b) Intervallnotasjon: \([2,7\rangle\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
 
     c) \(\{2,3,4,5,6\}\).
 
@@ -637,13 +637,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
 ??? note "Fasit – oppgave 1.1.4"
 
-    a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3[\). Listeform: \(\{-2,-1,0,1,2\}\).
+    a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3\rangle\). Listeform: \(\{-2,-1,0,1,2\}\).
 
-    b) Ulikhet: \(1<x\leq6\). Intervall: \(]1,6]\). Listeform: \(\{2,3,4,5,6\}\).
+    b) Ulikhet: \(1<x\leq6\). Intervall: \(\langle1,6]\). Listeform: \(\{2,3,4,5,6\}\).
 
     c) Ulikhet: \(-3\leq x\leq2\). Intervall: \([-3,2]\). Listeform: \(\{-3,-2,-1,0,1,2\}\).
 
-    d) Ulikhet: \(x>4\). Intervall: \(]4,\infty[\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
+    d) Ulikhet: \(x>4\). Intervall: \(\langle4,\infty\rangle\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
 
 
 
@@ -651,7 +651,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     **Svar:**
 
     \[
-    \underline{\underline{]4,\infty[}}
+    \underline{\underline{\langle4,\infty\rangle}}
     \]
 
 ??? note "Fasit – oppgave 1.1.5"
@@ -660,13 +660,13 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     b) \(\{-2,-1,0,1,2,3\}\).
 
-    c) Intervallnotasjon: \([-2,4[\). Den venstre klammen betyr at \(-2\) er med. Den høyre, vendte klammen betyr at 4 ikke er med.
+    c) Intervallnotasjon: \([-2,4\rangle\). Den venstre klammen betyr at \(-2\) er med. Den høyre, vendte klammen betyr at 4 ikke er med.
 
 
     **Svar:**
 
     \[
-    \underline{\underline{[-2,4[}}
+    \underline{\underline{[-2,4\rangle}}
     \]
 
 
