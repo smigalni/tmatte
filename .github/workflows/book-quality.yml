@@ -12,3 +12,22 @@ jobs:
   quality:
     # Bruk den delte sjekkeren som nå er publisert på main.
     uses: smigalni/matte/.github/workflows/reusable-book-quality.yml@main
+
+  site-build:
+    name: Build site and check JavaScript
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install Zensical
+        run: pip install zensical
+      - name: Check local JavaScript syntax
+        run: |
+          node --check docs/javascripts/math-graphs.js
+          node --check docs/javascripts/print-review.js
+      - name: Build site
+        run: zensical build --clean
