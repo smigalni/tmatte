@@ -375,7 +375,7 @@
       title: "Tredjegradsfunksjon med markerte punkter", description: "En tredjegradsfunksjon med tre markerte skjæringspunkter med x-aksen og punktet P.",
       aspect: "square", x: [-3, 4], y: [-20, 20], grid: true, gridStepX: 1, gridStepY: 5, ticks: true, tickStepX: 1, tickStepY: 5,
       curves: [{ fn: x => x * (x + 2) * (x - 3), from: -2.7, to: 3.7, color: COLORS.curve, width: 2.8 }],
-      points: [{ x: -2, y: 0, label: "A(−2, 0)", dx: -70, dy: -12 }, { x: 0, y: 0, label: "B(0, 0)", dx: 10, dy: 18 }, { x: 3, y: 0, label: "C(3, 0)", dx: 10, dy: -12 }, { x: 1, y: -4, label: "P(1, −4)", dx: 12, dy: 18 }]
+      points: [{ x: -2, y: 0, label: "A(−2, 0)", dx: -70, dy: -12 }, { x: 0, y: 0, label: "B(0, 0)", dx: 10, dy: 18 }, { x: 3, y: 0, label: "C(3, 0)", dx: 10, dy: -12 }, { x: 1, y: -6, label: "P(1, −6)", dx: 12, dy: 18 }]
     },
     taskQuadraticThreePoints: {
       title: "Parabel gjennom tre punkter", description: "En parabel med tre markerte punkter A, B og C.",
