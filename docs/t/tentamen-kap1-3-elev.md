@@ -456,7 +456,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Grafen viser en tredjegradsfunksjon. Punktene \\(A\\), \\(B\\), \\(C\\) og \\(P\\) er markert.
 
     <figure class="math-graph-frame">
-      <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 4), koordinatakser og rutenett."></div>
+      <div class="math-graph" data-math-graph="taskCubicZeros" role="img" aria-label="Tredjegradsfunksjon med nullpunktene A(minus 2, 0), B(0, 0), C(3, 0) og punktet P(1, minus 6), koordinatakser og rutenett."></div>
       <figcaption><strong>Figur 3.1.15.</strong> Tredjegradsfunksjon med tre nullpunkter.</figcaption>
     </figure>
 
