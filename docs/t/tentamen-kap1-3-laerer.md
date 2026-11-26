@@ -22,11 +22,11 @@
 | 0–25 min | 1–5 | Tallmengder og intervaller |
 | 25–45 min | 6–8 | Figurtall og generalisering |
 | 45–65 min | 9–12 | Programmering |
-| 65–105 min | 13–22 | Funksjonsgrad, grafer og funksjonsuttrykk |
-| 105–115 min | 23–24 | Modellering |
-| 115–120 min | 25 / oppsummering | Hva må repeteres? |
+| 65–105 min | 13–23 | Funksjonsgrad, grafer og funksjonsuttrykk |
+| 105–115 min | 24–26 | Modellering |
+| 115–120 min | 26 / oppsummering | Hva må repeteres? |
 
-Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–24 er kjernen; oppgave 25 er ekstra.
+Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Noter *hvilken* misforståelse som oppstår, ikke bare om svaret er feil. Oppgavene 1–25 er kjernen; oppgave 26 er ekstra.
 
 ## Oppgave 1–5 – Tallmengder og intervaller
 
@@ -172,7 +172,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     c) \(T(20)=20\cdot21/2=210\). Spør gjerne hvorfor formelen deler på 2.
 
-## Oppgave 13–22 – Funksjoner
+## Oppgave 13–23 – Funksjoner
 
 !!! note "Oppgave 3.1.1 – fasit"
 
@@ -299,7 +299,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Konstantleddet bestemmer y-akseskjæringen, mens de andre leddene former grafen.
 
-## Oppgave 23–25 – Modellering
+## Oppgave 24–26 – Modellering
 
 !!! note "Oppgave 3.2.1 – fasit"
 
