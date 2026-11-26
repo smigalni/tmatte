@@ -172,23 +172,17 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     c) \(T(20)=20\cdot21/2=210\). Spør gjerne hvorfor formelen deler på 2.
 
-## Oppgave 13–18 – Funksjoner
+## Oppgave 13–22 – Funksjoner
 
 !!! note "Oppgave 3.1.1 – fasit"
 
-    a) Høyeste eksponent er 1. Funksjonen er førstegrad.
+    a) Førstegrad: høyeste potens av \\(x\\) er 1.
 
-    b) Høyeste eksponent er 2. Funksjonen er andregrad.
+    b) Andregrad: høyeste potens av \\(x\\) er 2.
 
-    c) Høyeste eksponent er 3. Funksjonen er tredjegrad.
+    c) Tredjegrad: høyeste potens av \\(x\\) er 3.
 
-    d) Skriv gjerne uttrykket i synkende rekkefølge først:
-
-    \[
-    p(x)=x^3-3x^2+7.
-    \]
-
-    Høyeste eksponent er 3. Funksjonen er tredjegrad. Rekkefølgen leddene står i, endrer ikke graden.
+    d) Tredjegrad. Leddrekkefølgen spiller ingen rolle. Skriv gjerne uttrykket i synkende rekkefølge: \\(p(x)=x^3-3x^2+7\\).
 
 !!! note "Oppgave 3.1.2 – fasit"
 
@@ -305,7 +299,7 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
     d) Konstantleddet bestemmer y-akseskjæringen, mens de andre leddene former grafen.
 
-## Oppgave 19–21 – Modellering
+## Oppgave 23–25 – Modellering
 
 !!! note "Oppgave 3.2.1 – fasit"
 
