@@ -562,7 +562,8 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 - [ ] Jeg kan finne en formel for et figurtall.
 - [ ] Jeg kan følge og rette enkel kode.
 - [ ] Jeg kan kjenne igjen og tolke første-, andre- og tredjegradsfunksjoner.
-- [ ] Jeg kan bestemme funksjonsuttrykk fra punkter og egenskaper.\n- [ ] Jeg kan bruke standardform, ekstremalform og faktorisering.
+- [ ] Jeg kan bestemme funksjonsuttrykk fra punkter og egenskaper.
+- [ ] Jeg kan bruke standardform, ekstremalform og faktorisering.
 - [ ] Jeg kan bruke en funksjon til å modellere en situasjon.
 
 Marker oppgavene du var usikker på. De brukes til å planlegge neste økt.
