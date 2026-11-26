@@ -67,15 +67,16 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     Les av intervallet som er markert på tallinja.
 
     <figure class="math-graph-frame">
-      <svg viewBox="0 0 620 100" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tallinje fra 0 til 10 med intervallet fra 2 inkludert til 7 ekskludert markert med klammeparenteser, uten prikker.">
+      <svg viewBox="0 0 620 112" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tallinje med intervallet fra 2 inkludert til 7 ekskludert. Klammeparentes ved 2 og vinkelparentes ved 7.">
         <defs><marker id="positive-numberline-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#475569"/></marker></defs>
-        <line x1="35" y1="42" x2="595" y2="42" stroke="#475569" stroke-width="2" marker-end="url(#positive-numberline-arrow)"/>
-        <g stroke="#475569"><path d="M35 35v14 M90 35v14 M145 35v14 M200 35v14 M255 35v14 M310 35v14 M365 35v14 M420 35v14 M475 35v14 M530 35v14 M585 35v14"/></g>
-        <g fill="#334155" font-size="12" text-anchor="middle"><text x="35" y="65">0</text><text x="90" y="65">1</text><text x="145" y="65">2</text><text x="200" y="65">3</text><text x="255" y="65">4</text><text x="310" y="65">5</text><text x="365" y="65">6</text><text x="420" y="65">7</text><text x="475" y="65">8</text><text x="530" y="65">9</text><text x="585" y="65">10</text><text x="605" y="25" font-style="italic">x</text></g>
-        <line x1="145" y1="42" x2="420" y2="42" stroke="#087f8c" stroke-width="7"/>
-        <path d="M145 31v22h9 M420 31v22h-9" fill="none" stroke="#087f8c" stroke-width="3" stroke-linecap="square"/>
+        <line x1="35" y1="48" x2="595" y2="48" stroke="#475569" stroke-width="2" marker-end="url(#positive-numberline-arrow)"/>
+        <g stroke="#475569" stroke-width="1.5"><path d="M35 41v14 M90 41v14 M145 41v14 M200 41v14 M255 41v14 M310 41v14 M365 41v14 M420 41v14 M475 41v14 M530 41v14 M585 41v14"/></g>
+        <g fill="#334155" font-size="12" text-anchor="middle"><text x="35" y="72">0</text><text x="90" y="72">1</text><text x="145" y="72">2</text><text x="200" y="72">3</text><text x="255" y="72">4</text><text x="310" y="72">5</text><text x="365" y="72">6</text><text x="420" y="72">7</text><text x="475" y="72">8</text><text x="530" y="72">9</text><text x="585" y="72">10</text><text x="606" y="27" font-style="italic">x</text></g>
+        <line x1="145" y1="48" x2="420" y2="48" stroke="#087f8c" stroke-width="7"/>
+        <text x="145" y="31" text-anchor="middle" font-size="30" font-weight="700" fill="#087f8c">[</text>
+        <text x="420" y="31" text-anchor="middle" font-size="30" font-weight="700" fill="#087f8c">&gt;</text>
       </svg>
-      <figcaption><strong>Figur 3.1.</strong> Intervallet starter på 2 (inkludert) og stopper ved 7 (ikke inkludert). Endepunktene er markert med klammeparenteser, ikke prikker.</figcaption>
+      <figcaption><strong>Figur 1.1.3.</strong> [ ved 2 betyr at 2 er med. &gt; ved 7 betyr at 7 ikke er med.</figcaption>
     </figure>
 
     a) Skriv intervallet som ulikhet.
@@ -85,7 +86,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     c) Skriv alle heltallene som ligger i intervallet.
 
 !!! question "Oppgave 1.1.4 – Skriv intervaller på tre måter"
-    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \(<\) eller \(>\) når endepunktet ikke er med, og \(\leq\) eller \(\geq\) når det er med. I intervallnotasjonen viser klammen om endepunktet er med: \([a,b[\), \(]a,b]\), \(]a,b[\) eller \([a,b]\). Tegn også intervallet på en tallinje med klammeparenteser eller vinkelparenteser ved endepunktene (ikke prikker). Pil viser at intervallet fortsetter uendelig.
+    For hver oppgave skal du skrive ulikhet, intervallnotasjon slik læreboka bruker den, og listeform for heltallene. Bruk \\( < \\) eller \\( > \\) når endepunktet ikke er med, og \\(\\leq\\) eller \\(\\geq\\) når det er med. I intervallnotasjonen bruker vi \\([a,b[\\), \\(]a,b]\\), \\(]a,b[\\) eller \\([a,b]\\). På tallinja markerer du et endepunkt som er med med \\[\\) til venstre eller \\]\\) til høyre. Et endepunkt som ikke er med, markerer du med \\( < \\) til venstre eller \\( > \\) til høyre. Ikke bruk prikker eller sirkler. Pil viser at intervallet fortsetter uendelig.
 
     a) Fra og med \(-2\) til, men ikke med, \(3\).
 
@@ -255,33 +256,34 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
     d) \(p(x)=7-3x^2+x^3\). Her står ikke leddene i synkende rekkefølge. Finn likevel graden.
 
 !!! question "Oppgave 3.1.2 – Koble funksjon og graf"
-    Nedenfor ser du tre funksjonsgrafer. Alle koordinatsystemene har tall på aksene.
-    Grafene er tegnet uten rutenett slik at formen på hver kurve kommer tydelig fram.
+    Koble hver graf (A, B og C) til riktig funksjonsuttrykk nedenfor. Begrunn svarene.
 
     <div class="degree-graph-grid">
       <figure class="math-graph-frame">
-        <div class="math-graph" data-math-graph="degreeLinear" role="img" aria-label="Graf A: rett linje"></div>
-        <figcaption><strong>Figur 14.1 – Graf A.</strong> Rett linje.</figcaption>
+        <div class="math-graph" data-math-graph="degreeLinear" role="img" aria-label="Graf A"></div>
+        <figcaption><strong>Graf A</strong></figcaption>
       </figure>
       <figure class="math-graph-frame">
-        <div class="math-graph" data-math-graph="degreeQuadratic" role="img" aria-label="Graf B: parabel med bunnpunkt"></div>
-        <figcaption><strong>Figur 14.2 – Graf B.</strong> Parabel.</figcaption>
+        <div class="math-graph" data-math-graph="degreeQuadratic" role="img" aria-label="Graf B"></div>
+        <figcaption><strong>Graf B</strong></figcaption>
       </figure>
       <figure class="math-graph-frame">
-        <div class="math-graph" data-math-graph="degreeCubic" role="img" aria-label="Graf C: tredjegradsfunksjon"></div>
-        <figcaption><strong>Figur 14.3 – Graf C.</strong> Tredjegrads kurve.</figcaption>
+        <div class="math-graph" data-math-graph="degreeCubic" role="img" aria-label="Graf C"></div>
+        <figcaption><strong>Graf C</strong></figcaption>
       </figure>
     </div>
 
-    a) Hvilken graf viser en førstegradsfunksjon? Begrunn ved å beskrive grafens form.
+    I. \\(f(x)=x^3\\)
 
-    b) Hvilken graf viser en andregradsfunksjon? Hva kalles denne grafen?
+    II. \\(g(x)=x+1\\)
 
-    c) Hvilken graf viser en tredjegradsfunksjon? Beskriv hvordan grafen går fra venstre mot høyre.
+    III. \\(h(x)=x^2-2\\)
 
-    d) Hvilken graf har et bunnpunkt?
+    a) Hvilket uttrykk hører til hver graf?
 
-    e) Forklar hvorfor graf B ikke kan være grafen til en førstegradsfunksjon.
+    b) Hvilken graf har et bunnpunkt?
+
+    c) Forklar hvordan du kan se forskjell på grafene uten å regne ut funksjonsverdier.
 
 !!! question "Oppgave 3.1.3 – Førstegrad"
     \(f(x)=2x-4\).
@@ -330,7 +332,64 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 
     d) Hva skjer med grafen når \(x\) går mot store negative og positive verdier?
 
-!!! question "Oppgave 3.1.6 – Sammenlign"
+!!! question "Oppgave 3.1.6 – Finn en lineær funksjon fra to punkter"
+    En rett linje går gjennom punktene \\(A(1,5)\\) og \\(B(3,11)\\).
+
+    a) Finn stigningstallet.
+
+    b) Bestem konstantleddet.
+
+    c) Skriv funksjonsuttrykket på standard form \\(f(x)=ax+b\\).
+
+    d) Kontroller at grafen går gjennom begge punktene.
+
+!!! question "Oppgave 3.1.7 – Andregradsfunksjon fra nullpunkter"
+    En andregradsfunksjon har nullpunktene \\(x=1\\) og \\(x=5\\). Grafen går dessuten gjennom punktet \\(P(0,10)\\).
+
+    a) Skriv funksjonen på faktorform \\(f(x)=a(x-1)(x-5)\\).
+
+    b) Bruk punktet \\(P(0,10)\\) til å bestemme \\(a\\).
+
+    c) Gang ut parentesene og skriv funksjonen på standardform \\(ax^2+bx+c\\).
+
+    d) Kontroller at funksjonsuttrykket gir nullpunktene 1 og 5.
+
+!!! question "Oppgave 3.1.8 – Ekstremalform og standardform"
+    En parabel har bunnpunkt \\(B(2,-3)\\) og går gjennom punktet \\(P(4,5)\\).
+
+    a) Skriv funksjonen på ekstremalform \\(f(x)=a(x-p)^2+q\\).
+
+    b) Bruk punktet \\(P(4,5)\\) til å bestemme \\(a\\).
+
+    c) Gang ut parentesen og skriv funksjonen på standardform.
+
+    d) Finn nullpunktene ved å løse likningen \\(f(x)=0\\).
+
+!!! question "Oppgave 3.1.9 – Faktoriser"
+    Faktoriser uttrykkene så langt det lar seg gjøre.
+
+    a) \\(x^2+7x+12\\)
+
+    b) \\(x^2-9\\)
+
+    c) \\(2x^2-8x\\)
+
+    d) \\(x^2-5x+6\\)
+
+    e) \\(x^3-4x\\)
+
+!!! question "Oppgave 3.1.10 – Velg riktig form"
+    En andregradsfunksjon er gitt ved \\(f(x)=x^2-6x+5\\).
+
+    a) Faktoriser uttrykket.
+
+    b) Skriv funksjonen på ekstremalform ved å fullføre kvadratet.
+
+    c) Oppgi nullpunktene fra faktorformen.
+
+    d) Oppgi bunnpunktet fra ekstremalformen.
+
+!!! question "Oppgave 3.1.11 – Sammenlign"
     \(f(x)=2x+1,\quad g(x)=x^2+1,\quad h(x)=x^3+1\).
 
     a) Bestem graden.
@@ -383,7 +442,7 @@ Skriv mellomregning. Når du leser en figur, forklar hva du ser.
 - [ ] Jeg kan skrive intervaller på ulike måter.
 - [ ] Jeg kan finne en formel for et figurtall.
 - [ ] Jeg kan følge og rette enkel kode.
-- [ ] Jeg kan kjenne igjen og tolke første-, andre- og tredjegradsfunksjoner.
+- [ ] Jeg kan kjenne igjen og tolke første-, andre- og tredjegradsfunksjoner.\n- [ ] Jeg kan bestemme funksjonsuttrykk fra punkter og egenskaper.\n- [ ] Jeg kan bruke standardform, ekstremalform og faktorisering.
 - [ ] Jeg kan bruke en funksjon til å modellere en situasjon.
 
 Marker oppgavene du var usikker på. De brukes til å planlegge neste økt.
