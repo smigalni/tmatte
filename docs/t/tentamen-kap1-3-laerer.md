@@ -50,30 +50,29 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 !!! note "Oppgave 3 – fasit"
 
-    a) \(2\leq x<7\).  
+    a) \(2\leq x<7\).
 
-    b) \(2\leq x<7\).  
+    b) Intervallnotasjon: \([2,7[\). Den venstre klammen viser at 2 er med; den høyre, vendte klammen viser at 7 ikke er med.
 
-    c) \(\{2,3,4,5,6\}\).  
-    Viktig: 2 er inkludert, 7 er ikke inkludert.
+    c) \(\{2,3,4,5,6\}\).
 
 !!! note "Oppgave 4 – fasit"
 
-    a) \(-2\leq x<3\), listeform \(\{-2,-1,0,1,2\}\).  
+    a) Ulikhet: \(-2\leq x<3\). Intervall: \([-2,3[\). Listeform: \(\{-2,-1,0,1,2\}\).
 
-    b) \(1<x\leq6\), listeform \(\{2,3,4,5,6\}\) for heltall.  
+    b) Ulikhet: \(1<x\leq6\). Intervall: \(]1,6]\). Listeform: \(\{2,3,4,5,6\}\).
 
-    c) \([-3,2]\), ulikhet \(-3\leq x\leq2\).  
+    c) Ulikhet: \(-3\leq x\leq2\). Intervall: \([-3,2]\). Listeform: \(\{-3,-2,-1,0,1,2\}\).
 
-    d) \((4,\infty)\), ulikhet \(x>4\), heltallene \(\{5,6,7,\ldots\}\).
+    d) Ulikhet: \(x>4\). Intervall: \(]4,\infty[\). Heltallene er \(\{5,6,7,\ldots\}\). Pil mot høyre viser at intervallet fortsetter uten øvre grense.
 
 !!! note "Oppgave 5 – fasit"
 
-    a) 4 skal ikke være med fordi høyre endepunkt er åpent.  
+    a) Ulikheten er riktig. Feilen er at 4 er tatt med i listeformen, selv om \(x<4\).
 
-    b) \(\{-2,-1,0,1,2,3\}\).  
+    b) \(\{-2,-1,0,1,2,3\}\).
 
-    c) Lukket endepunkt betyr inkludert; åpent betyr ekskludert.
+    c) Intervallnotasjon: \([-2,4[\). Den venstre klammen betyr at \(-2\) er med. Den høyre, vendte klammen betyr at 4 ikke er med.
 
 ## Oppgave 6–8 – Figurtall
 
@@ -90,13 +89,16 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 !!! note "Oppgave 7 – fasit"
 
-    a) 1, 4, 9.  
+    a) 2, 6, 12, 20 prikker.
 
-    b) Figur 5: \(5^2=25\).  
+    b) Figur 5 har \(5\cdot6=30\) prikker.
 
-    c) \(F(n)=n^2\).  
+    c) Figur \(n\) har \(n\) rader og \(n+1\) kolonner:
+    \[
+    F(n)=n(n+1).
+    \]
 
-    d) Differansene er 3, 5, 7, 9, ... og øker med 2; økningen er ikke konstant.
+    d) Differansene er 4, 6, 8, 10, ... Økningen fra figur til figur blir 2 større hver gang.
 
 !!! note "Oppgave 8 – fasit"
 
@@ -164,34 +166,44 @@ Eleven er usikker og blander begreper. Be eleven forklare før du gir hint. Note
 
 !!! note "Oppgave 13 – fasit"
 
-    a) Førstegrad.
+    a) Høyeste eksponent er 1. Funksjonen er førstegrad.
 
-    b) Andregrad.
+    b) Høyeste eksponent er 2. Funksjonen er andregrad.
 
-    c) Tredjegrad.
+    c) Høyeste eksponent er 3. Funksjonen er tredjegrad.
 
-    d) Tredjegrad. Graden bestemmes av høyeste eksponent, uavhengig av rekkefølgen på leddene.
+    d) Skriv gjerne uttrykket i synkende rekkefølge først:
+    \[
+    p(x)=x^3-3x^2+7.
+    \]
+    Høyeste eksponent er 3. Funksjonen er tredjegrad. Rekkefølgen leddene står i, endrer ikke graden.
 
 !!! note "Oppgave 14 – fasit"
 
-    a) A.
+    a) Graf A er førstegrad: grafen er en rett linje.
 
-    b) B.
+    b) Graf B er andregrad: grafen er en parabel.
 
-    c) C.
+    c) Graf C er tredjegrad: den kubiske kurven går ned mot venstre og opp mot høyre.
 
-    d) B har bunnpunkt.
+    d) Graf B har et bunnpunkt.
 
-    e) En andregradsfunksjon har et \(x^2\)-ledd med koeffisient ulik null; grafen er en parabel.
+    e) Graf B er en parabel og har en krum form. En førstegradsfunksjon har alltid en rett linje som graf.
 
 !!! note "Oppgave 15 – fasit"
 
     a)
-    | \(x\) | -1 | 0 | 1 | 2 | 3 |
-    |---|---:|---:|---:|---:|---:|
-    | \(f(x)\) | -6 | -4 | -2 | 0 | 2 |
+    \[
+    \begin{aligned}
+    f(-1)&=-6,\\
+    f(0)&=-4,\\
+    f(1)&=-2,\\
+    f(2)&=0,\\
+    f(3)&=2.
+    \end{aligned}
+    \]
 
-    b) Rett linje gjennom punktene.  
+    b) Rett linje gjennom punktene \((-1,-6)\), \((0,-4)\), \((1,-2)\), \((2,0)\) og \((3,2)\).
 
     c) Skjæring med y-aksen: \((0,-4)\).  
 
